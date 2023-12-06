@@ -1,0 +1,5855 @@
+| a | > | b |
+\frac { 1 } { a } < \frac { 1 } { b }
+F ( 1 , 0 )
+f ( x )
+b + c + d
+f ( 1 ) )
+E ( X ) = \frac { 1 } { 3 }
+f ( x )
+B G \perp D E
+A B F D
+P ( B \mid A ) =
+a _ { 1 0 } ( x + 1 ) ^ { 1 0 }
+b _ { n } = \frac { 1 } { a _ { n } - 2 }
+\left| \overrightarrow { P F } _ { 1 } \right| = 2
+\cos \left( \frac { \theta } { 2 } + \frac { \pi } { 8 } \right)
+a _ { 1 }
+S _ { n }
+\bar { y } ( \bar { x } \neq \bar { y } )
+2 n <
+m + n \Rightarrow n < m
+\frac { 1 } { 2 \sqrt { 2 } } - \frac { 1 } { 4 } = 0
+2 + \frac { 5 } { 4 } x + \frac { a } { 2 } x ^ { 2 }
+S - A B - C
+M F
+a > 0 , b > 0 , c > 0 , d < 0
+S _ { n }
+a ^ { 2 } + b ^ { 2 } +
+| x | + | y | =
+A B = 2 D C = 2 \sqrt { 3 }
+\triangle P A D
+\triangle O P Q
+S _ { 1 }
+l ^ { \prime }
+a _ { 1 } = 2
+b _ { n } = a _ { n } + n + 1
+A \left( x _ { 1 } , y _ { 1 } \right)
+a = - 1
+\text { ( 6 ) }
+\text { ( 1 ) , ( 2 ) , ( 5 ) }
+\{ 1 \}
+\{ 0 , 1 \}
+\frac { 1 } { 8 }
+\triangle O P Q
+\frac { x ^ { 2 } } { 4 } + \frac { y ^ { 2 } } { 3 } = 1
+\triangle A B C
+y = x + \sin | x |
+N \left( x _ { 2 } , y _ { 2 } \right)
+f ( A ) = 1
+\left( 1 , \frac { 3 \sqrt { 2 } } { 4 } \right)
+P A \perp
+E - A F - C
+\left( - \sqrt { \mathrm { e } } , \frac { 1 } { \sqrt { \mathrm { e } } } \right)
+\{ - 1 , 0 , 1 , 2 , 3 , 4 \}
+A C
+e =
+A B \perp A C
+= 2 B _ { 1 } E
+A B = 3
+x \sin \alpha - y + 1 = 0
+3 6
+A B C D
+A B , A D
+f ( x ) = A \sin ( \omega x + \varphi ) \left( A > 0 , \omega > 0 , 0 < \varphi < \frac { \pi } { 2 } \right)
+x - 2 y - 2 = 0
+\left( x ^ { 2 } - \frac { 1 } { 2 x } \right) ^ { 6 }
+m / / n
+f ( x ) = \mathrm { e } ^ { x } + 2 x ^ { 2 } + m x + 1
+a _ { 1 } = \frac { 3 } { 5 }
+( 2 , 0 )
+\left[ 0 , \frac { m } { 3 } \right]
+f ( x ) = \cos ^ { 2 } x + \sqrt { 3 } \sin x \cos x + \frac { 1 } { 2 } , x \in \mathbf { R }
+a _ { 1 } =
+q = - \frac { 1 } { 2 }
+[ - 1 , 1 ]
+\left[ \frac { \pi } { 9 } , \frac { \pi } { 4 } \right)
+a , b
+\ a n g l e A B C = 9 0 ^ { \circ }
+0 < a < 1
+E \left( X ^ { 2 } \right) = 0 \times \frac { 1 } { 4 } + ( 1 - a ) ^ { 2 } \cdot b + ( 1 + a ) ^ { 2 } \cdot c + 4 \times \frac { 1 } { 4 }
+\left( 0 , \frac { 1 } { 2 } \right)
+\left\{ b _ { n } \right\}
+S _ { n } = 2 \left( a _ { n } - 1 \right)
+n = n + 1
+1 - p
+k _ { 3 } < k _ { 1 } < k _ { 2 }
+\cos \ a n g l e A C B = - \frac { 1 } { 7 }
+\bar { x } _ { 1 } > \bar { x } _ { 2 } , s _ { 1 } ^ { 2 } < s _ { 2 } ^ { 2 }
+\overrightarrow { A D } \cdot \overrightarrow { B E } =
+l : x = 1
+C , \odot M
+z _ { 1 } , z _ { 2 }
+[ - 2 , - 1 ]
+2 < a < 4
+( 2 , + \infty )
+- \frac { 1 } { 3 }
+\frac { 1 } { 2 }
+( 3 , + \infty )
+( - \infty , 2 ]
+[ 2 , + \infty )
+y = f ( t )
+A B
+E - A G - C
+C
+x t
+\frac { | O P | } { | O M | } = \lambda
+\left\{ a _ { n } \right\}
+B _ { 1 } C
+f ( x + 4 ) = f ( x ) ( x \in \mathbf { R } )
+4 \}
+C : x ^ { 2 } - y ^ { 2 } = 3 6
+a _ { 1 } = 1 , a _ { n + 1 } =
+3 4
+5 2
+5 6
+1 . 6
+4 ^ { 4 }
+y = a + b x
+\left( u _ { 1 } , v _ { 1 } \right) , \left( u _ { 2 } , v _ { 2 } \right) , \cdots ,
+\beta > 3 \alpha
+A C D
+B ^ { \prime }
+f _ { 1 } ( x ) , f _ { 2 } ( x ) , f _ { 3 } ( x ) , f _ { 4 } ( x )
+f _ { 4 } ( x )
+f _ { 2 } ( x ) , f _ { 3 } ( x )
+M N
+P ( X = 0 ) = \frac { \mathrm { C } _ { 6 } ^ { 3 } } { \mathrm { C } _ { 8 } ^ { 3 } } = \frac { 5 } { 1 4 } ,
+t = \frac { P ( Y = k ) } { P ( Y = k - 1 ) } = \frac { \mathrm { C } _ { 2 0 } ^ { k } 0 . 4 ^ { k } 0 . 6 ^ { 2 0 - k } } { \mathrm { C } _ { 2 0 } ^ { k - 1 } 0 . 4 ^ { k - 1 } 0 . 6 ^ { 2 1 - k } } = \frac { 2 ( 2 1 - k ) } { 3 k } = \frac { 4 2 - 2 k } { 3 k } ,
+0 \leq s l a n t a _ { k } \leq s l a n t k - 1
+k < 8 . 4
+m < 5 0 0 )
+y = \frac { x ^ { 2 } } { 2 }
+\overrightarrow { A C } =
+y - x =
+\frac { \sqrt { 3 } } { 3 }
+\ a n g l e F _ { 1 } P F _ { 2 } = 6 0 ^ { \circ }
+4 5 ^ { \circ } ?
+- \frac { 2 5 } { 2 }
+- 8 4
+6 7 2
+\pm 3 \sqrt { 2 }
+A A
+a _ { 1 }
+\log _ { 2 } \left( S _ { n } + 2 \right) = n + 1
+\left\{ a _ { n } \right\}
+f ^ { \prime } ( x )
+x f ( x - 1 ) > 2 x ^ { 2 } - 2 x
+b / / c
+a \perp b
+a / / \gamma
+a _ { 5 } - a _ { 1 } = 1 5
+z = \left( x ^ { 2 } - 1 \right) + ( x - 1 ) \mathrm { i }
+a b = a + b + 1
+a > b > c
+g ( x ) = 3 x + a
+\omega
+3 \pi
+E , M , N
+\left\{ a _ { n } \right\}
+\frac { 5 n } { 2 n + 1 }
+z _ { 1 } = 1 + \mathrm { i }
+( 0 , 1 0 0 \pi )
+6 0 ^ { \circ }
+b = \sqrt { 2 }
+4 ) = 0 . 6 8 2 6
+0 . 1 5 8 5
+\frac { x ^ { 2 } } { 9 } + \frac { y ^ { 2 } } { 8 } = 1
+f ( x )
+A C \perp B C
+A C = 4
+B - A _ { 1 } B _ { 1 } - C
+z
+\sqrt { 5 }
+\l g 3 \approx 0 . 4 8
+6 0
+1 9 . 2 2
+\pm \frac { 3 } { 8 }
+O B C
+\{ x \mid - 1 < x < 2 \}
+\{ x \mid - 3 < x < 2 \}
+c = 1
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+p _ { 1 } , p _ { 2 } , p _ { 3 }
+0 ^ { \circ } < \mathrm { x } < 4 5 ^ { \circ }
+A B
+l _ { 1 } , l _ { 2 }
+\sin ( \alpha + \beta ) = \frac { 5 } { 1 3 }
+c < a < b
+\text { 设 关 于 } x \text { 的 方 程 } ( a + 2 ) \left( 1 + \frac { 1 } { x } \right) = f ( x )
+z = \overrightarrow { O P } \cdot \overrightarrow { O A }
+\frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+F _ { 2 } A \text { 的 斜 率 为 } - 3
+P ( 2 , 3 )
+3 x + 4 y - 3 = 0
+C D
+F G
+\log _ { m } ( m + 1 ) > \log _ { ( m + 1 ) } ( m + 2 )
+\sin 2 \alpha =
+p _ { 1 } \vee p _ { 4 }
+p _ { 2 } \vee p _ { 4 }
+y = - 1
+f ( x ) = \sin \omega x + \cos \omega x
+A = C \neq 0
+B = 0
+\text { 如 图 , 在 四 棱 雉 } A - B C D E \text { 中 , } D E / / C B , B E \perp
+\frac { \sqrt { 1 3 } } { 1 3 }
+\frac { \sqrt { 1 3 0 } } { 2 6 }
+S ( t )
+( - \infty , 1 )
+\left( \omega > 0 , | \varphi | < \frac { \pi } { 2 } \right)
+| \boldsymbol { a } | = 2 | \boldsymbol { b } |
+A ( 4 , 0 )
+B \subseteq A
+a _ { 1 } + 3 a _ { 2 } + \cdots +
+y = k \left( \mathrm { e } ^ { - a t } - \mathrm { e } ^ { - b t } \right)
+k = 4 ,
+a _ { 2 } + a _ { 4 } + a _ { 6 } = 1 4 7
+a = 1 , b = 2 \text { . }
+n \left( n \in \mathbf { N } ^ { * } \right)
+b > c > a
+[ 0 , 2 ]
+B C
+\{ 3 \}
+\{ 1 , 2 , 3 , 4 \}
+x = \frac { \pi } { 8 }
+A
+x ^ { 2 } \geqslant 0
+x ^ { 2 } < 0
+a = 6
+g ( x ) = f ( x ) - \frac { 2 } { 3 } \ln x
+0 < a < 2
+c _ { n } = \frac { 1 } { b _ { n } b _ { n + 1 } }
+T _ { n } = \frac { n } { 4 u ( n + 1 ) }
+k \in \mathbf { R }
+y \geqslant x \} , B = \{ ( x , y ) \mid x + y = 8 \}
+a x ^ { 3 } - 3 x ^ { 2 } + 1 = 0
+( - \infty , - 2 )
+a \subset \alpha
+x - 6 \leq s l a n t f ( x ) \leq s l a n t x
+\sqrt { 6 }
+S - A B C D
+x \in \mathbf { R }
++ \frac { 1 } { n + 1 } \times \left( \frac { 1 } { 2 } \right) ^ { n + 1 } + \cdots = \ln 2
+1 + \mathrm { i }
+x , y
+f ( x ) = \frac { 1 } { 4 } x ^ { 4 } + \frac { 1 } { 2 } a x ^ { 2 } + a x
+n \perp \beta
+3 < d \leq s l a n t \frac { 7 } { 2 }
+\left\{ a _ { n } \right\}
+\left\{ b _ { n } \right\}
+\frac { 1 } { 2 }
+p > 0
+\alpha + \beta
+3 ^ { 5 } - 3 \times \left( 2 ^ { 5 } - 2 \right) - 3 = 1 5 0
+S =
+\text { 若 直 线 } A B \text { 与 平 面 } B B _ { 1 } C _ { 1 } C \text { 所 成 角 的 正 弦 为 } \frac { \sqrt { 5 } } { 5 }
+B B _ { 1 } , D D _ { 1 }
+S _ { 3 0 } = 7 0
+\left[ \pi , \frac { 3 \pi } { 2 } \right]
+S _ { n } = a _ { 1 } + a _ { 2 } + \cdots + a _ { n }
+\frac { 5 \times 6 \times 5 \times 4 \times 3 \times 2 } { 2 }
+\frac { 1 } { 3 6 }
+\sin A , \sin B , \sin C
+\left( 0 , \frac { \pi } { 3 } \right]
+\frac { 9 \pi } { 4 }
+F _ { 1 } , F _ { 2 }
+\left| P F _ { 1 } \right| = 3
+A \cap B =
+a _ { 2 } = 5
+\left\{ a _ { n } \right\}
+f ( x )
+x \in \left[ - \frac { 1 } { 2 } , \frac { 5 } { 2 } \right]
+\text { 求 } | M P | + \left| M F _ { 2 } \right| \text { 的 最 值 }
+\left\{ a _ { n } \right\}
+x = 2 - t ,
+y = - 2 \sqrt { 3 } + \sqrt { 3 } t
+\frac { x ^ { 2 } } { 2 5 } + \frac { y ^ { 2 } } { 1 6 } = 1
+P \left( B \mid A _ { 1 } \right) = \frac { 5 } { 1 1 }
+a > b > 0
+\frac { 7 } { 2 }
+( - \infty , 0 )
+b \ v a r s u b s e t n e q q \beta
+p , m
+y = f ( x )
+\text { 则 } a \text { 的 取 值 范 围 是 }
+\overrightarrow { O A } \perp \overrightarrow { A B }
+\overrightarrow { O A } \text { . }
+\frac { \pi } { 2 }
+\alpha , \beta
+f ( - 2 ) = 1 9 , a ^ { - 4 } + a ^ { - 2 } - 1 = 1 9
+a ^ { - 2 } = 4
+\triangle P F _ { 1 } F _ { 2 }
+\frac { 8 0 } { 3 }
+\ a n g l e F _ { 1 } P F _ { 2 }
+\frac { \pi } { 3 }
+P _ { 1 } , P _ { 2 }
+Q _ { 1 } ,
+M N P
+P \left( x _ { 0 } , y _ { 0 } \right)
+p =
+\frac { 1 } { | A F | } + \frac { 1 } { | B F | } =
+f ( x ) + g ( x ) = 2 ^ { x } + x
+\frac { 3 } { 4 4 }
+l _ { 1 } , l _ { 2 }
+\triangle A B F
+| a x - 2 | < 3
+a =
+b = - \frac { 4 } { \mathrm { e } ^ { 2 } }
+x > 1
+4
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+f ^ { \prime } ( - 1 ) =
+4 \sqrt { 6 }
+D E
+A C
+\overrightarrow { O P } \cdot \overrightarrow { O Q } = ( 6 \cos \alpha , 2 \sin \alpha ) \cdot ( \cos \beta , 3 \sin \beta ) = 6 \cos ( \alpha - \beta )
+- \frac { \pi } { 2 } < \beta < 0
+- \frac { 8 } { 1 7 }
+\frac { 8 } { 1 7 }
+2 , B C = 1 , O
+\ a n g l e B O P = x
+x ^ { 3 } + a x + 1 = 0
+x > 0
+\left( x ^ { 2 } - 1 \right) f ( x ) > 0
+\ln 2 - 1
+( - 1 , 0 ) \cup ( 0 , 1 )
+f ( x ) = \log _ { \frac { 1 } { 2 } } x + a
+\text { 在 } \mathbf { R } \text { 上 定 义 运 算 “ } \odot ” : ~ : a \odot b = a b + 2 a + b
+\left( - \infty , - \frac { \sqrt { 5 } } { 2 } \right) \cup \left( \frac { \sqrt { 5 } } { 2 } , + \infty \right)
+\ a n g l e B A C = 6 0 ^ { \circ }
+[ - 1 , 2 ]
+( 1 - 2 x ) ^ { 6 }
+x > 0
+x + \frac { 1 } { x }
+x < \frac { 5 } { 4 }
+a > 0
+g ( x )
+| F A |
+\left( 2 x - \frac { 1 } { \sqrt [ 3 ] { x ^ { 2 } } } \right) ^ { n }
+\left( 0 , \frac { \pi } { 2 } \right)
+\triangle A B C
+\ a n g l e B A C = 1 2 0 ^ { \circ }
+f ( x ) +
+2 \pi
+A \sin ( \omega x + \varphi ) ( A > 0 , \omega > 0 , | \varphi |
+\left| a ^ { x } - b \right| = m
+x > y > 0
+\frac { 2 \sqrt { 5 } } { 5 }
+\alpha + 2 \beta
+[ a , b ]
+P ( \mu = 3 \sigma \leq X \leq \mu + 3 \sigma ) = 0 . 9 9 7 4
+f ( \alpha ) = 1 ,
+\alpha =
+( 2 - \sqrt { x } ) ^ { 8 }
+N ( 1 , 3 )
+b < a < c
+\frac { 1 } { 2 }
+l \perp x
+| A B | = \frac { 4 \sqrt { 5 } } { 5 } \text { . }
+f ( x ) , x \in M \}
+P A = d
+a _ { n } = 2 n + \frac { k } { n }
+| P M | \cdot | A B |
+( 2 , 3 )
+f ( x )
+\tan \alpha =
+\sin \left( \frac { \pi } { 3 } + \alpha \right) = \cos \left( \frac { \pi } { 3 } - \alpha \right)
+E D \perp F C
+D M = D F \cdot \sin 6 0 ^ { \circ } = 2 \sqrt { 3 }
+E D
+f ^ { \prime } ( x )
+f ( 3 ) > f ( 2 )
+B = \frac { \pi } { 3 } , a = 2
+| \overrightarrow { P A } | - | \overrightarrow { P B } | = 4
+a , b
+A E = E B ,
+A B = 2
+B C = 1
+a _ { i } \in \mathbf { Z } ( i =
+m \mathrm { e } ^ { x } \geqslant \ln \frac { \mathrm { e } ( x + 1 ) } { m }
+a _ { 1 } = 1
+\alpha , \beta
+\beta = 0
+a _ { n } = 2 ^ { n } - n
+\left\{ \frac { a _ { n } - \alpha } { a _ { n } - \beta } \right\}
+( 3 x - m ) ^ { 2 0 2 2 } = a _ { 0 } + a _ { 1 } x + a _ { 2 } x ^ { 2 } + \cdots + a _ { 2 0 2 2 } x ^ { 2 0 2 2 }
+\ln \left( a ^ { 2 } + 1 \right) < \ln \left( b ^ { 2 } + 1 \right)
+a ^ { 3 } < b ^ { 3 }
+( - \infty , 1 ]
+\left( 1 , 1 + \frac { 1 } { \mathrm { e } } \right)
+\left( 2 , 2 + \frac { 1 } { \mathrm { e } } \right)
+f [ - f ( x ) ] = \mathrm { e } ^ { - a } + \frac { a } { 2 }
+l : x +
+P , Q
+( \sqrt { 2 } , 0 )
+A B
+f ( x )
+C _ { 1 } E =
+A _ { 1 } C \perp
+A , B , C
+\frac { m } { n } S
+g ( x ) = \sqrt { 2 } \sin \left( 2 x + \frac { 3 \pi } { 8 } \right)
+B C = \sqrt { 5 }
+f ( x )
+( ( 2 k + 1 ) \pi , ( 2 k + 2 ) \pi )
+= \frac { 4 } { \pi ^ { 2 } } + \frac { 1 } { \pi ^ { 2 } } \left[ 1 + \left( 1 - \frac { 1 } { 2 } \right) + \left( \frac { 1 } { 2 } - \frac { 1 } { 3 } \right) + \cdots + \left( \frac { 1 } { n - 2 } - \frac { 1 } { n - 1 } \right) \right]
+y = f ( x )
+P A
+f ( x ) = \log _ { a } x
+a =
+S _ { n }
+\boldsymbol { a } = ( - 1 , 2 )
+\left\{ a _ { n } \right\}
+1 5
+a _ { 5 } = 3 a _ { 3 } + 4 a _ { 1 }
+A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+A O = A B \text { , 求 直 线 } B _ { 1 } E \text { 与 平 面 } A _ { 1 } A M N \text { 所 成 角 的 正 弦 值 }
+O A = O B = O C = 1
+A B = 3 A Q
+\triangle A B C
+a > b > 0
+f ( x ) = x ^ { 3 } - 3 a x ^ { 2 } + 3 x + 1
+\frac { 6 } { 5 }
+y = \frac { 5 \log _ { 3 } | x + 1 | } { x + 1 }
+\frac { \sqrt { 2 } } { 4 }
+f ( x ) \leq s l a n t 2
+f ( x ) \leq s l a n t k x - \left| x + a ^ { 2 } \right| - | x - 2 |
+\left[ \frac { 3 } { 2 } , 4 \right] \subseteq M
+x ^ { 2 } + y ^ { 2 } = r ^ { 2 } ( r > 0 )
+f ( x ) = - 2 x ^ { 2 } + 4 x , g ( x ) = a \ln x ( a > 0 )
+A B =
+x ^ { 3 } + a x + b = 0
+x ^ { 3 } + a x + b = 0
+y = 2 \sin \theta
+\left\{ a _ { n } \right\}
+m = 4
+f ( x ) = \sin x \sin ( x + \theta )
+\left[ 0 , \frac { \pi } { 2 } \right]
+4 , x \in \mathbf { Z } \}
+\frac { \pi } { 2 }
+\frac { 1 } { 5 }
+\frac { 1 } { 2 }
+\{ x \mid - 4 \leq s l a n t x \leq s l a n t 4 \}
+\{ x \mid - \sqrt { 2 } \leq s l a n t x \leq s l a n t \sqrt { 2 } \}
+c _ { n } = a _ { n + 1 } - a _ { n } , c _ { n + 1 } =
+d > 0
+y = | x - 1 |
+x ^ { 2 } + ( y - m ) ^ { 2 } = 4
+\left[ \frac { 3 } { 2 } , 2 \right]
+P , Q
+\left\{ a _ { n } \right\}
+B = \{ x \mid
+\frac { 1 6 \pi } { 3 }
+\mathrm { c m } ^ { 3 }
+A , B
+v
+( 1 0 , - 5 )
+f ( \boldsymbol { a } ) = 2 \boldsymbol { a }
+n
+c > b > a
+a _ { 1 } + a _ { 3 } + a _ { 5 } + \cdots + a _ { 2 0 1 9 } = \frac { - 1 + 3 ^ { 2 0 2 0 } } { 2 }
+q = ( a -
+f ( \boldsymbol { a } )
+C , D
+( e , + \infty )
+\left| P F _ { 1 } \right| \cdot \left| P F _ { 2 } \right| = 1 0
+\frac { 1 } { 4 }
+2 k
+2 x + y - 4 = 0
+f ( 3 )
+\{ x \mid 1 \leq s l a n t x < 2 \}
+A ( m , n )
+\frac { \sqrt { 6 } } { 3 }
+l _ { 1 } , l _ { 2 }
+A B
+a b < 0
+A B = B C = 2
+5 \mathrm { ~ m }
+\sqrt { 2 } \approx 1 . 4 1
+a > 0
+y = x ^ { 2 } + a x + b
+a = - 1
+\sqrt { 4 1 }
+B , C
+\triangle B M N
+\boldsymbol { a } = ( 1 , - 1 , 2 ) , \boldsymbol { n } = ( - 1 , 1 , - 2 )
+- 1 \leq s l a n t \omega < 0
+A , B
+[ B , A ]
+\cos \alpha = \frac { 1 } { 5 }
+\frac { 5 \pi } { 6 }
+P A \perp \text { 平 面 } A B C D
+3 \sqrt { 3 }
+\left( \frac { \pi } { 3 } , 0 \right)
+\sqrt { 5 }
+a + b + c = 3
+a + b + c \neq 3
+( 0 . 0 0 5 + 0 . 0 3 5 ) \times 1 0 = 0 . 4
+\sqrt { 3 } : 1 : 1
+5 ^ { n - 1 } + t ( n \geqslant 2 )
+t = - 1
+\left\{ a _ { n } \right\}
+n \geqslant 2
+f ( x ) \geqslant 1
+- 2 )
+\overrightarrow { A C } + \overrightarrow { B D } = \overrightarrow { B C } + \overrightarrow { A D }
+A E
+\frac { \sqrt { 5 } } { 5 }
+b < 0
+\left( \frac { 1 } { 3 } , + \infty \right)
+m , n ( m \neq n )
+A \cap B =
+S _ { n } = a + b n + c n ^ { 2 } + d n ^ { 3 }
+a _ { n }
+\left( \frac { 9 } { 4 } , 3 \right)
+\ a n g l e A ^ { \prime } D B \geqslant \alpha
+\boldsymbol { m } = ( \cos x + \sin x ,
+A , B , C
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+\frac { 1 4 4 } { 2 5 }
+\overrightarrow { M A } = \lambda _ { 1 }
+\overrightarrow { A F } , \overrightarrow { M B } = \lambda _ { 2 }
+\overrightarrow { M B } = \lambda _ { 2 } \overrightarrow { B F }
+( - \infty , - 1 ] \cup
+\tan \theta = 2
+y = \sin x
+\frac { 4 \pi } { 3 }
+M N Q
+y = x + 2
+\frac { 2 8 } { 5 }
+\text { B }
+\ a n g l e A ^ { \prime } D C = \pi - \ a n g l e B D C =
+| D S | = | D T |
+f ( \ln 5 ) + f \left( \ln \frac { 1 } { 5 } \right) =
+z ^ { 2 } = \bar { z }
+\frac { \sqrt { 3 } } { 2 } \mathrm { i }
+\hat { \alpha } = \bar { v } - \hat { \beta } ^ { \bar { u } } .
+\left( u _ { 1 } , v _ { 1 } \right) , \left( u _ { 2 } , v _ { 2 } \right) , \cdots , \left( u _ { n } , v _ { n } \right)
+\sum _ { i = 1 } ^ { 9 } \left( \ln x _ { i } - \overline { \ln x } \right) \left( y _ { i } - \bar { y } \right) = 1 0 1 . 7 3
+| P A | \cdot | P Q |
+A B C D
+A B C D
+x \geqslant 0
+( \mathrm { I } , \mathrm { I I } )
+= \frac { \boldsymbol { a } \cdot \boldsymbol { b } - \boldsymbol { a } \cdot \boldsymbol { x } + \boldsymbol { b } \cdot \boldsymbol { x } - m ^ { 2 } } { 1 + m ^ { 2 } }
+\ a n g l e A B C = 9 0 ^ { \circ }
+1 1 8 . 9 \d i v 8 4 . 1 \approx 1 . 4 1 \approx \sqrt { 2 }
+\mathrm { A } 1 , \mathrm { ~ A } 2 , \cdots
+C C _ { 1 }
+O N = \frac { \sqrt { 2 } } { 2 } a
+d = \frac { \sqrt { 2 } } { 4 } a
+E F = 2 \sqrt { r ^ { 2 } - d ^ { 2 } } = \frac { \sqrt { 2 } } { 2 } a
+f ( x ) = f ( 2 - x )
+f ( x ) = 3 x
+\xi
+\text { 直 线 } l : x = 2 \text { 与 抛 物 线 交 于 点 } N
+A B = \sqrt { 3 }
+a _ { 1 } , a _ { 2 }
+a _ { 1 } > 0
+T _ { n }
+A , D
+\cos \left( 2 x + \frac { \pi } { 6 } \right)
+\cos \left( \frac { 5 \pi } { 6 } - 2 x \right)
+A \cap B = \ v a r n o t h i n g
+x - y + 1 = 0
+( - 2 , - 1 )
+g ( x )
+\triangle A B C
+y = \log _ { 2 } \left( x ^ { 2 } - x - a \right)
+C _ { 1 } D
+P Q B _ { 1 }
+\frac { 2 1 } { 1 0 0 }
+P C
+0 , 1 , 2 , 3 , 4 , 5
+x ^ { 3 } > y ^ { 3 }
+f \left( f \left( - \frac { 3 } { 2 } \pi \right) \right) = 1
+| O B | = | O A |
+\xi _ { q }
+\frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+b _ { n } = 3 ^ { n } \cdot \sqrt { a _ { n } }
+f ( x )
+a , b
+- 1 4
+x + 2 y - 1 = 0
+F , P
+\ a n g l e A P B
+3 b ^ { 2 } + 3 c ^ { 2 } - 3 a ^ { 2 } = 4 \sqrt { 2 } b c
+\sin x - \sin y > 0
+y = \sqrt { x + 2 }
+y = 3 ^ { - x }
+y = ( x - 2 ) ^ { 2 }
+y = 6 \cos x
+2 0 \pi
+A B = A C = B C = 2 \sqrt { 3 }
+\frac { \pi } { 2 }
+\frac { \pi } { 6 }
+A , B , C
+( x - 2 ) ^ { 2 } + ( y - 4 ) ^ { 2 } = 4
+g ( x ) = \cos x
+a , b , c
+x = \frac { k \pi } { 2 } + \frac { \pi } { 1 2 } , k \in \mathbf { Z }
+A B
+O M
+( 1 , 1 )
+- 2
+x = - a , y \in ( - b , b )
+\left( 1 - c ^ { 2 } \right) ^ { - \frac { 1 } { 2 } } - \left\{ ( ( 1 + c ) ( 1 - c ) ) ^ { \frac { 1 } { 2 } } + c ^ { 2 } ( ( 1 + c ) ( 1 - c ) ) ^ { - \frac { 1 } { 2 } } \right\}
+\left\{ a _ { n } \right\}
+a _ { n } < a _ { n + 1 } < 3
+b = \frac { 1 } { 4 }
+P ( t ) = \frac { \mathrm { e } ^ { 0 . 4 2 t } } { 1 + \left( \mathrm { e } ^ { 0 . 4 2 t } - \frac { 1 } { K } \right) }
+f ( x ) = ( x + 1 ) \ln x - x + 1
+x f ^ { \prime } ( x ) \leq s l a n t x ^ { 2 } + a x + 1
+\frac { 5 } { 4 }
+\frac { 1 } { 3 }
+( \pi , 2 \pi )
+( - \infty , - 1 ) \cup ( 2 , + \infty )
+2 ^ { n } - 1
+\sin \beta )
+( c - a ) \cdot ( c - b )
+P - A B C D
+F _ { 2 }
+M , N
+\frac { \sqrt { 2 } } { 4 8 }
+\frac { 3 } { 8 } - \frac { 1 } { 8 } i
+\triangle P Q F
+\frac { x ^ { 2 } } { 7 } + \frac { y ^ { 2 } } { 2 } = 1
+b = a \cos C + \frac { \sqrt { 3 } } { 3 } c \sin A
+\triangle A B C
+\bar { z } =
+\xi
+x ^ { 4 }
+A = \left\{ x \mid x ^ { 2 } - x - 2 = 0 \right.
+\{ 1 , - 2 \}
+\{ - 1 , - 2 \}
+\text { 函 数 } y = f ( x ) \text { 与 它 的 反 函 数 } y = f ^ { - 1 } ( x ) \text { 的 图 象 }
+f \left( \log _ { 3 } ( x + 2 ) \right) + f ( 2 ) > 0 \text { 的 } x \text { 的 取 值 范 围 是 }
+x \in ( 0 , + \infty )
+\alpha , \beta
+0 < \omega < 3
+\overrightarrow { P Q } = \lambda \overrightarrow { A B } ( \lambda \in \mathbf { R } )
+| \overrightarrow { A P } | = | \overrightarrow { B Q } |
+\left\{ a _ { n } \right\}
+a _ { 1 } , a _ { 2 } , a _ { 6 }
+\sin 2 \theta
+\sin \left( \frac { 3 \pi } { 2 } - B \right) = - \frac { \sqrt { 7 } } { 4 }
+l
+( a - c ) \cdot ( b - c )
+C B _ { 1 } D _ { 1 }
+f ( x ) = \sqrt { 4 x ^ { 2 } + 8 x + 4 } + | 2 x - 6 |
+f ( x ) \leq s l a n t 1 2
+\triangle O A B
+x > 0
+A E F
+- \frac { 1 } { 1 6 }
+\text { 关 于 直 线 } x + y = 0 \text { 对 称 }
+A B C D
+A D , B C
+\frac { \sqrt { 2 } } { 4 }
+\overrightarrow { O B }
+\frac { 3 \sqrt { 2 } } { 2 }
+A B
+\frac { 1 } { 4 }
+\frac { 3 } { 1 0 }
+Q = \left\{ x \mid x ^ { 2 } + a x + b \leq s l a n t 0 \right\}
+a _ { 2 0 1 9 } + a _ { 2 0 2 0 } < 0
+\text { 关 于 直 线 } x - y = 0 \text { 对 称 }
+1 - a
+A , B
+y = f ( x )
+| a - b |
+n ^ { 2 } - 1
+\overrightarrow { O M }
+f ( x ) =
+E M / /
+S _ { \triangle A B C } : S _ { \triangle O B C }
+\overrightarrow { A C } = \boldsymbol { b } , A B = 2 , B C = 3 \sqrt { 2 } , \ a n g l e A B C = \frac { \pi } { 4 } , A D
+\frac { \sin \left( \alpha + \frac { \pi } { 4 } \right) } { \sin 2 \alpha + \cos 2 \alpha + 1 }
+[ - 1 , 2 ]
+x \geqslant 1
+A = \{ x \mid x = 2 n - 1 , 1 \leq s l a n t n \leq s l a n t 5
+6 - 4 \pi
+P \left( x _ { 0 } , y _ { 0 } \right)
+A , B
+\frac { 1 } { 2 }
+a \in \mathbf { R }
+( a c + b d ) ^ { 2 } \leq s l a n t \left( a ^ { 2 } + b ^ { 2 } \right) \cdot \left( c ^ { 2 } + d ^ { 2 } \right)
+f ( x ) = \mathrm { e } ^ { x } , g ( x ) = \ln x + 2
+f ( x )
+6 \sqrt { 2 } - 2
+\text { 边 } A B \text { 中 线 的 中 点 }
+A , \omega
+M , P
+A , B
+D
+y _ { 1 } y _ { 2 } = \frac { - b ^ { 4 } } { b ^ { 2 } m ^ { 2 } + a ^ { 2 } }
+N , A , D
+\frac { y _ { 3 } } { a + \frac { a ^ { 2 } } { c } } = \frac { y _ { 1 } } { a - x _ { 1 } }
+N , C , B
+D , B , M ; M , C , A
+A B
+x _ { 1 } - x _ { 2 }
+\frac { 1 5 } { 1 6 }
+S ^ { 2 }
+\mathrm { O } _ { 2 }
+x ^ { 2 } + y ^ { 2 } - 2 x +
+\left[ t ^ { n } \right] = n
+n ^ { \frac { 1 } { n } } \leq s l a n t t < ( n + 1 ) ^ { \frac { 1 } { n } }
+( a , b )
+f ( x ) = x ^ { 3 }
+f ( x ) = \cos x - \frac { 1 } { 2 } \cos 2 x \quad ( x \in \mathbf { R } )
+x ^ { 2 } + \left( y \pm \frac { \sqrt { 3 } } { 3 } \right) ^ { 2 } = \frac { 4 } { 3 }
+S _ { n }
+1 , 2 , \cdots , 5
+f ( x - 1 )
+\frac { 1 } { 5 } < k < \frac { 1 } { 2 }
+k = - \frac { \sqrt { 6 } } { 1 2 }
+\left[ \frac { 1 } { 2 } , \frac { 5 } { 4 } \right]
+\left( 0 , \frac { 1 } { 2 } \right]
+2 e _ { 2 } , b = 3 e _ { 2 } \text { , 则 } a \text { 在 } b \text { 方 向 上 的 投 影 为 }
+- \frac { 1 } { 2 }
+y = \frac { 1 } { 2 } \sin 2 x + \sin ^ { 2 } x
+\frac { a \ln x _ { 1 } } { 1 - x _ { 1 } } > t \left( 4 + 3 x _ { 1 } - x _ { 1 } ^ { 2 } \right)
+E O \perp B D
+z = 3 x + 2 y
+a _ { 1 1 } + a _ { 1 2 } + a _ { 1 3 } =
+N \left( 2 0 0 0 , 1 0 0 ^ { 2 } \right)
+\text { 存 在 } k \in \mathbf { Z } \text { 使 得 } \varphi = \frac { k \pi } { 4 }
+f ( x ) \text { 的 最 大 值 为 } 2
+\overrightarrow { A P } = 3 \overrightarrow { P B }
+| A B |
+1 + \mathrm { i }
+S ( A , k ) = \left\{ s \mid s = \frac { x _ { i _ { 1 } } + x _ { i _ { 2 } } + \cdots + x _ { i _ { k } } } { k } , 1 \leq s l a n t i _ { 1 } < \right.
+( 2 \leq s l a n t k \leq s l a n t n - 1 )
+K ^ { 2 } = \frac { n ( a d - b c ) ^ { 2 } } { ( a + b ) ( c + d ) ( a + c ) ( b + d ) }
+A B = A C = B D = C D = 2
+[ 2 5 , 3 5 )
+[ 6 5 , 7 5 )
+x \geqslant 0 , y \geqslant 0
+S _ { 3 } = 6
+- 1 2
+2 b \cos B = a \cos C + c \cos A
+| F M | = \frac { 4 \sqrt { 3 } } { 3 }
+A C \perp D E
+| \boldsymbol { a } | \cos \langle \boldsymbol { a } , \boldsymbol { b } \rangle
+\text { 若 过 点 } M ( 0 , t ) ( t > 0 ) \text { 的 直 线 } l \text { 交 椭 圆 } C \text { 于 } A , B \text { 两 点 }
+f _ { n + 1 } ( x ) = f ^ { \prime } { } _ { n } ( x ) , n \in \mathbf { N } \text { , 则 } f _ { 2 0 0 5 } ( x ) =
+- \cos x
+a = 1 , b = 2
+( x - 1 ) [ f ( x ) - g ( x ) ] \leq s l a n t 0
+8 0 \ %
+0 . 0 0 1
+S _ { n } = 2 a _ { n } + 2 t - 1 \left( n \in \mathbf { N } ^ { * } \right)
+\sqrt { 2 }
+A \cap B = \{ 1 \}
+A B C D E F
+A C G / /
+\text { 函 数 } y = \frac { 2 x ^ { 3 } } { 2 ^ { x } + 2 ^ { - x } } \text { 在 } [ - 6 , 6 ] \text { 的 图 象 }
+\ a n g l e A F D =
+\frac { \pi } { 1 2 }
+y = 2
+P , Q
+\frac { \sqrt { 1 7 } } { 4 }
+4 \sqrt { 2 }
+\frac { 9 9 } { 9 8 }
+2
+6
+O B
+\cos \alpha
+\frac { x ^ { 2 } } { 9 } - \frac { y ^ { 2 } } { 1 6 } = 1
+A _ { 1 } B C _ { 1 }
+| \overrightarrow { A B } | =
+A = \left\{ 2 , \quad 1 - a , \quad a ^ { 2 } - a + 2 \right\}
+\triangle C D F
+1 - a = - 1
+\ t h e r e f o r e A = \{ 2 , - 1 , 4 \}
+a < - 1
+a \geqslant 1
+( - \infty , 1 - \sqrt { 3 } ] \cup [ 1 + \sqrt { 3 } , + \infty )
+[ 2 - 2 \sqrt { 2 } , 2 + 2 \sqrt { 2 } ]
+h ^ { \prime } ( x ) = x ( 1 - 2 \ln x )
+2 c \cos B
+f ( x ) = \ln ( 1 + x ) + a x ^ { 2 }
+\frac { b } { a } + \left( \frac { c } { b } \right) ^ { 2 }
+\boldsymbol { a } = ( 1 , m )
+( 1 , f ( 1 ) )
+y = 2 x - 2
+g ( x ) = x ^ { 2 } \mathrm { e } ^ { x } - x ^ { 4 } - 2 \mathrm { e } ^ { x } \ln x
+z = 3 + 4 i
+\{ 1 , 6 \}
+x = \frac { \pi } { 4 }
+y = x
+C D
+S = \frac { 9 } { 8 } \cdot \frac { 4 | k | } { 4 k ^ { 2 } + 1 } = \frac { 9 } { 8 } \cdot \frac { 4 } { 4 | k | + \frac { 1 } { | k | } } \leq s l a n t \frac { 9 } { 8 } \cdot \frac { 4 } { 4 } = \frac { 9 } { 8 }
+R S
+M N
+A A _ { 1 } = a , B B _ { 1 } = b , C C _ { 1 } = c
+A = \{ x \mid x > 1 \}
+\frac { 4 } { 3 }
+f \left( \frac { 1 } { 2 } | x | - \frac { 3 } { 2 } \right) , | x | > 1
+n + a =
+A B C D
+\ a n g l e A G F = \ a n g l e B G F
+\{ 2 \}
+F
+\frac { 1 } { 2 } \times \left( 3 ^ { 1 0 } - 1 \right)
+\frac { 1 } { 2 6 } \times \left( 2 7 ^ { 9 } - 1 \right)
+B - C D - C _ { 1 }
+F G
+A ( 4 , 0 )
+3 6 | A P | ^ { 2 } =
+f ( x )
+\theta = 9 0 ^ { \circ }
+2 \sqrt { 3 }
+d \neq
+x _ { 1 } , x _ { 2 }
+f ( x ) + x f ^ { \prime } ( x ) > 1
+f ^ { \prime } ( x )
+\{ x \mid - 2 < x < 3 \}
+y ^ { 2 } = - 2 p x ( p > 0 )
+A B C D - A ^ { \prime } B ^ { \prime } C ^ { \prime } D ^ { \prime }
+\mathrm { A C } ^ { \prime }
+\{ - 1 , 0 , 1 \}
+x ^ { 2 } + 4 x +
+D E \perp A B
+x - \sqrt { 8 - x ^ { 2 } } = 0
+\left( - x _ { 0 } x + x _ { 0 } c + c x - c ^ { 2 } \right) a ^ { 2 } = a ^ { 2 } b ^ { 2 } - b ^ { 2 } x _ { 0 } x
+\overrightarrow { A P } \cdot \overrightarrow { P B } = 1
+\frac { \pi } { 1 2 }
+\varphi ( x ) = f ( x ) - f ( x + a )
+x _ { 1 } < x _ { 2 } < x _ { 3 } <
+\left( - 1 , \frac { 7 } { 2 } \right]
+2 x + y \leq s l a n t 1 2
+a , b , c
+m < 1 ) \text { 上 }
+\sin ( \pi - 2 \alpha )
+\overrightarrow { B P } = \lambda \overrightarrow { A B } + \mu \overrightarrow { A C }
+S _ { n }
+y = 4
+f ( x ) = 2 ^ { n + 1 } - x
+\boldsymbol { n } = \left( \frac { 1 } { 2 } \cos \omega x , \frac { 1 } { 4 } \right)
+g ( x )
+s _ { 1 } ^ { 2 } > s _ { 2 } ^ { 2 }
+A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+f ( x ) = \frac { 1 } { 4 } x ^ { 3 } - x ^ { 2 } + x .
+x \in [ - 2 , 4 ]
+g ( x ) = [ f ( x ) ] ^ { 2 } + a f ( x )
+P A B
+\frac { 9 } { 1 0 }
+f ( x ) < 2
+f ( x )
+f ( x ) = \frac { 2 ^ { x } + 1 } { 2 ^ { x } - 1 } \cos x
+\triangle A B C
+a _ { 1 } = 1 3
+a _ { 1 3 } = 1 . 4 8
+\overrightarrow { A D } = \frac { 1 } { 4 } \overrightarrow { A C } + \lambda \overrightarrow { A B } ( \lambda \in \mathbf { R } )
+\sqrt { 3 } + 1
+f ( x ) = \ln x - \mathrm { e } ^ { x }
+y = \left( \frac { 1 } { 2 } \right) ^ { x }
+y = \ln x
+f ( x ) = x | x - a | - x ( a \in \mathbf { R } ) .
+1 + \frac { \sqrt { 2 } } { 2 }
+A , B , C
+\sin C
+\frac { 5 } { 3 }
+| A M | + d
+( 0 , 2 )
+a + 2 b = 1
+\left( \frac { 1 } { 2 } , \frac { 1 } { 6 } \right)
+x ^ { 3 }
+P \left( x _ { 0 } , y _ { 0 } \right) \left( x _ { 0 } > 0 , y _ { 0 } > 0 \right)
+y = \frac { 7 - 4 \sqrt { 3 } } { 2 } ( x + 2 )
+P \left( \frac { 8 \sqrt { 3 } } { 7 } , \frac { 1 } { 7 } \right)
+\frac { x } { \sqrt { 3 } } - y = 1
+\frac { x ^ { 2 } } { 4 } + y ^ { 2 } = 1
+[ - 2 , 0 )
+f ( x + 2 ) = - f ( x ) = f ( - x )
+x = - \frac { 1 } { 2 }
+g ( x ) \in \left[ - \frac { 1 } { 2 } + 4 n , \frac { 5 } { 2 } + 4 n \right] , n \in \mathbf { Z }
+t < 0
+g \left( \frac { t } { 2 } \right)
+f ( x ) + g ( x ) = 2 ^ { x }
+A B D \perp
+n \subset \beta
+a > \frac { \mathrm { e } } { \mathrm { e } ^ { 2 } + 1 }
+f ( x ) = x + \sqrt { 1 - 4 x }
+f ( x ) = - \ln x + 4 x - 3
+x < 0
+\sqrt { 6 }
+b = 2
+M , N
+x \leq s l a n t - 2
+5 : 3 0 - 6 : 0 0
+\left( \frac { 1 } { 2 } , 2 \right)
+n / / \alpha
+a , b
+3 x ^ { 2 } + b x + a < 0
+( - 1 , 2 )
+= \left\{ x \mid y = \ln \left( - x ^ { 2 } + 3 x \right) \right\}
+[ 0 , \mathrm { e } ]
+a > 0
+a = b = \frac { 1 } { 2 }
+a + b > 2
+a ^ { 2 } + b ^ { 2 } < 2
+0 < a < 2 - b
+6 \sqrt { 3 }
+1 2
+1 2 \sqrt { 3 }
+f ( x - 1 ) \leq s l a n t
+\left[ \frac { 1 } { 3 } , \frac { 3 } { 4 } \right] \cup \left[ \frac { 4 } { 3 } , \frac { 7 } { 4 } \right]
+f ( x )
+\hat { y } = \hat { a } + \hat { b } t
+[ - 1 . 5 ] = - 2
+a , b
+\bar { z }
+1 . 5 \mathrm { ~ k g }
+\left( - \infty , - \frac { 1 } { 2 } \right) \cup ( 2 \sqrt { 2 } , + \infty )
+f ( x )
+\frac { \sqrt { 2 } } { 1 2 }
++ 1
+f ( 1 ) +
+f ( x ) = \ln x + \frac { a } { x }
+f ( x ) = \sin ^ { 2 } x \sin 2 x
+M , P
+\cos A \cos C = \frac { 2 } { 3 }
+2 x + 3 y - 5 > 0
+| a | > | b |
+1 : 3 1
+\lambda _ { 1 } , \lambda _ { 2 } \left( \lambda _ { 1 } \lambda _ { 2 } \neq 0 \right) ,
+\boldsymbol { c } _ { i } = \lambda _ { i } \boldsymbol { a } + 3 \lambda _ { i } \boldsymbol { b }
+f ( 2 t ) \geqslant 2 f ( t )
+[ t , t + 2 ]
+\alpha \in \left( 0 , \frac { \pi } { 2 } \right)
+\cos ^ { 2 } \frac { \alpha } { 2 } + \tan \left( \frac { \pi } { 4 } + \alpha \right)
+\text { 年 利 率 为 } 3 . 6 \ %
+( 5 0 0 - x ) \text { 万 元 作 结 构 性 存 款 }
+- \frac { x ^ { 3 } } { 3 0 0 0 0 } + 0 . 0 2 x ^ { 2 } + 0 . 1 3 5 x \text { 万 元 的 收 益 }
+\ a n g l e P F A = 1 2 0 ^ { \circ }
+f ( x ) = | \cos 2 x |
+- 8
+a > 1
+f \left( \ln \frac { \pi } { 3 } \right) > 0
+\sin A
+f \left( \frac { \pi } { 4 } \right) > \sqrt { 2 } f \left( \frac { \pi } { 3 } \right)
+a ^ { \frac { 1 } { 2 } }
+x = \frac { \pi } { 6 }
+q \neq 1
+z = | z | ( \cos \theta + \mathrm { i } \sin \theta ) ( 0 \leq s l a n t \theta < 2 \pi )
+- \frac { 1 } { 2 }
+\triangle B C D
+\text { 已 知 } f ( x ) = \frac { 1 } { 3 } x ^ { 3 } - x ^ { 2 } + a x + m
+B C = 2 \sqrt { 3 } x
+V = \frac { 1 } { 3 } S _ { \triangle A B C } \cdot h = \frac { 1 } { 3 } \cdot \frac { \sqrt { 3 } } { 4 } \cdot ( 2 \sqrt { 3 } x ) ^ { 2 } \cdot
+x = 2
+f ^ { \prime } ( x ) < 0
+\left( \frac { 1 } { 3 } \right) ^ { x ^ { 2 } - 8 } > 3 ^ { - 2 x }
+\lambda = 0
+a = - b
+\{ x \mid x < 4 \}
+x + y \geqslant 6
+0 . 6
+B =
+\left[ \frac { 3 } { 4 } , + \infty \right)
+F _ { 1 } , F _ { 2 }
+b _ { n } = 2 \sin \left( \pi a _ { n } + \theta \right)
+P ( a , b )
+\sqrt { 2 }
+\text { 已 知 函 数 } f ( x ) \text { 的 导 函 数 为 } f ^ { \prime } ( x )
+x _ { 2 } = \pi - x _ { 1 }
+y = \sin 2 x
+\left| B F _ { 2 } \right| + \mid A F _ { 2 }
+\left( a _ { n } , b _ { n } \right)
+\left( a _ { 2 } , b _ { 2 } \right)
+\frac { 3 } { 8 }
+| x | = x \cdot \o p e r a t o r n a m e { s g n } ( x )
+\left[ - \frac { \pi } { 4 } , \frac { \pi } { 4 } \right]
+y = 2
+\left\{ a _ { n } \right\}
+c _ { n } = a _ { b _ { n } } , T _ { n } = c _ { 1 } + c _ { 2 } + \cdots + c _ { n } \left( n \in \mathbf { N } ^ { * } \right)
+x ^ { 2 } + ( k - 2 ) x + 2 k - 1 = 0
+b \geqslant 0
+c < 0
+= \frac { 5 } { 4 }
+\theta = 6 0 ^ { \circ }
+x _ { 1 } , x _ { 2 }
+f ( x ) = \mathrm { e } ^ { x } ( a x + b ) - x ^ { 2 } - 4 x
+y = f ( x )
+5 \text { 个 数 据 的 中 位 数 是 } 2 7 \text { , 平 均 数 是 } 2 4
+5 \text { 个 数 据 有 一 个 是 } 3 2 \text { , 平 均 数 是 } 2 6 \text { , 方 差 是 } 1 0 . 2
+\Phi \left( x _ { 0 } \right) = P \left( x < x _ { 0 } \right)
+\log _ { 2 } x ^ { \frac { 1 } { 2 } } < \log _ { 2 } y ^ { \frac { 1 } { 2 } }
+y = \log _ { \frac { 1 } { 2 } } x
+P \left( K ^ { 2 } \geqslant k _ { 0 } \right)
+0 . 0 5 0
+9 5 \ %
+A C = 6
+P = \{ x \mid 1 < x < 4 \}
+\frac { 1 0 \pi } { 3 }
+\{ x \mid 1 < x < 4 \}
+2 0 0 \mathrm { ~ m }
+( - \infty , 0 )
+( 0 , + \infty )
+f _ { K } ( x )
+\frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 0 , b > 0 )
+F _ { 1 }
+\overrightarrow { F _ { 1 } P } = 0
+\l g 1 . 0 0 8 7 = 0 . 0 0 3 7 7
+z = \ln y
+\sum _ { i = 1 } ^ { 7 } \left( x _ { i } - \bar { x } \right) ^ { 2 }
+\mathrm { e } ^ { 6 . 3 4 2 } \approx 5 6 8
+\left( \omega _ { 1 } , v _ { 1 } \right)
+[ 0 , \sqrt { 1 7 } ]
+f ( x ) = 4 x + a x ^ { 2 } - \frac { 2 } { 3 } x ^ { 3 } ( x \in \mathbf { R } )
+m ^ { 2 } +
+0 0 0 1 \sim 1 0 0 0
+- 1 ) ^ { 2 } + ( y - 1 ) ^ { 2 } = 1
+A , B
+C =
+S _ { n }
+\mathrm { i } ^ { 2 0 2 0 }
+\bar { z }
+\cos \theta
+y = 2
+( 2 y + 1 ) ^ { 2 } \leq s l a n t 1 + y ^ { 2 }
+\left| \mathrm { e } ^ { \frac { \pi } { 2 } \mathrm { i } } + 1 \right| =
+\frac { 1 } { 1 6 } \pi ^ { 2 }
+\sin \left( \frac { \pi } { 3 } - 2 x \right)
+A P Q
+a = 1
+\left[ - \frac { 1 } { 2 } , \frac { 1 } { 2 } \right]
+m \not \subset \alpha
+- 1 - i
+B = \{ x | | x - b \mid < a \}
+S _ { n }
+\log _ { 2 } x = \log _ { 4 } ( 2 x +
+- 1
+- 1
+\frac { y - 4 } { x - 3 }
+\text { 平 面 } B _ { 1 } B C C _ { 1 } \perp \text { 平 面 } A _ { 1 } A B B _ { 1 }
+f ( x ) = \left| x ^ { 2 } + m x + \frac { 1 } { 2 } \right| ( x \in \mathbf { R } )
+y = f ( x )
+m \leq s l a n t - 4
+n \left( n \in \mathbf { N } ^ { * } \right)
+k
+\frac { 2 x ^ { 2 } } { 1 5 } + \frac { 4 y ^ { 2 } } { 5 } = 1
+y = x ^ { 2 }
+A _ { 2 }
+F _ { 2 } A _ { 2 } = F _ { 2 } P
+9 9 . 9 \ %
+n = a + b + c + d
+[ 2 , + \infty )
+f ( x ) = x \ln x
+[ - 3 , - 2 ) \cup ( 6 , 7 ]
+\{ 0 , 1 , 2 \}
+( - 1 , 0 )
+A , B
+8 \sqrt { 3 }
+- 5 4 0
+\frac { x ^ { 2 } } { 3 } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( b > 0 )
+\overrightarrow { C E } \cdot \overrightarrow { B D } =
+- 8
+M ( 3 , 0 )
+C _ { 1 } : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+\triangle M A B , \triangle M D E
+a _ { 1 } \neq 0
+\left| A F _ { 1 } \right| + \left| A F _ { 2 } \right| = \left| B F _ { 1 } \right| + \left| B F _ { 2 } \right| = 2 a
+y = k ( x - 1 )
+m \neq 0
+6 4 k ^ { 2 } m ^ { 2 } - 4 \left( 4 k ^ { 2 } + 3 \right) \left( 4 m ^ { 2 } - 1 2 \right) = 0
+x _ { 1 } + x _ { 2 } = \frac { 8 k ^ { 2 } } { 3 + 4 k ^ { 2 } }
+g ( x ) = a f ( x ) + b
+g ( x )
+x \in [ - 2 \pi , 2 \pi ]
+\frac { 1 3 } { 2 1 }
+B M
+O , A , M , B
+A = \left\{ x \mid x ^ { 2 } - 5 x + 6 > 0 \right\}
+( - \infty , 1 )
+6 + \frac { 3 \sqrt { 3 } } { 4 }
+a _ { 2 } +
+\text { 分 别 求 出 } \left\{ a _ { n } \right\} \text { 及 } \left\{ b _ { n } \right\} \text { 的 前 } 1 0 \text { 项 的 和 }
+A C B _ { 1 } \perp
+x ^ { 2 } + ( y - 2 ) ^ { 2 } = 1
+6 0 ^ { \circ }
+\overrightarrow { O A } = \boldsymbol { a } = ( 1 , 0 )
+\text { 记 } \overrightarrow { O D } = ( 1 - \lambda ) \boldsymbol { a } + \lambda \boldsymbol { b } = ( 1 - \lambda ) \overrightarrow { O A } + \lambda \overrightarrow { O B } \text { ， }
+A B \text { 为 } x + y - 1 = 0
+| E D | = | F D |
+A Q \perp Q C
+Q A C
+\{ 3 , 4 \}
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+C _ { 1 }
+A , E , F
+A B C
+\text { R t } \triangle A B C
+A ( 1 , p ) , M
+| M A | + | M F |
+f \left( x _ { 2 } \right) > - \frac { 1 } { 2 }
+\left\{ a _ { n } \right\}
+A ( - 2 , - 2 )
+( 2 , - 5 )
+\text { 的 最 小 正 周 期 为 } 4 \pi
+a = \frac { 1 } { 2 }
+B = 1 2 0 ^ { \circ }
+( - \infty , 0 ]
+k =
+[ 3 , + \infty )
+\text { 所 以 } Q \left( \frac { k } { 2 } , - c \right)
+a _ { 5 } =
+A , B
+f ( 1 ) < f ( - 1 ) < f \left( - \frac { 3 } { 2 } \right)
+\rho = 4 \cos \theta
+a , b
+a + b
+a _ { 1 } = 1
+a _ { 2 } a _ { 8 } = a _ { 5 }
+A B = 4
+2 x \pm \sqrt { 5 } y = 0
+- 2 \ln 2
+\left\{ a _ { n } \right\}
+A , B , C
+a , b
+\text { 甲 在 每 局 比 赛 中 获 胜 的 概 率 均 为 } \frac { 3 } { 4 }
+( - 4 , 0 ]
+[ 1 7 7 , 1 8 2 ) , [ 1 8 2 , 1 8 7 ]
+( a + x ) ( 1 - x ) ^ { 6 }
+( a + x ) ( 1 - x ) ^ { 6 } = a _ { 0 } + a _ { 1 } x + a _ { 2 } x ^ { 2 } + \cdots + a _ { 7 } x ^ { 7 }
+8 \pi - 1 6
+\left[ \frac { 1 } { 2 } , + \infty \right)
+S A
+n \in \mathbf { N } ^ { * }
+P A C
+y = \pm x
+A ( 1 , m )
+a _ { n + 1 } - \frac { 1 } { 2 } a _ { n }
+S _ { n }
+9 0 ^ { \circ }
+f ( x + 1 )
+\left( \frac { 1 } { 3 } , \frac { 2 } { 3 } \right)
+- 2 - \sqrt { 3 }
+x , y
+\sqrt { 2 } - 1
+x \in [ - 1 , 1 ]
+a _ { 1 } = 1
+\frac { \sqrt { 3 } } { 3 } \sim 2
+\overrightarrow { Q A } \cdot \overrightarrow { Q B } = \lambda | \overrightarrow { O Q } | ^ { 2 }
+\left( - \infty , \frac { 1 } { 2 } \right)
+\ a n g l e B A C = \frac { \pi } { 2 }
+Q ( 0 , 3 )
+\left( 3 + 4 k ^ { 2 } \right) x ^ { 2 } + 8 k ^ { 2 } x + 4 k ^ { 2 } - 1 2 = 0
+\left\{ a _ { n } \right\}
+y = x ^ { 2 } + 2 x
+z ^ { 2 } + ( 2 a - 1 ) z - ( 1 - \mathrm { i } ) b - 1 6 = 0
+( - 1 , 0 ) \cup ( 0 , 1 )
+X = n + 2
+\left( \ln \frac { 1 } { 2 \mathrm { e } } , + \infty \right)
+A B / / C D
+\lim _ { n \rightarrow \infty } \frac { a ^ { f ( n ) } } { a ^ { n } + a }
+f ( x ) = \ln x - a x + \frac { 1 - a } { x } - 1 ( a \in \mathbf { R } )
+A B = 2 A D = 2 D C
+a > c > b
+S _ { n }
+d = 0
+a x - b y + c = 0
+6 . 6 3 5
+\overrightarrow { C F } = \frac { 1 } { 6 } \overrightarrow { A B } - \frac { 2 } { 3 } \overrightarrow { A D }
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+a
+a _ { 3 } + \cdots + a _ { 5 1 }
+\boldsymbol { a } = ( 2 , 0 )
+A B , A D , A A _ { 1 }
+\frac { 9 } { 1 6 }
+f ( x ) = a x ^ { 2 } - 2 x ( 0 \leq s l a n t x \leq s l a n t 1 )
+a =
+A B = 6 , \cos B = \frac { 3 } { 4 }
+\overrightarrow { A C } = 3 \boldsymbol { e } _ { 1 } - \boldsymbol { e } _ { 2 } , \overrightarrow { B D } = 2 \boldsymbol { e } _ { 1 } + 6 \boldsymbol { e } _ { 2 }
+[ - 2 , 1 )
+P D \perp
+\frac { 7 } { 1 6 }
+\sqrt { 1 2 + \sqrt { 1 2 + \sqrt { 1 2 + \cdots } } } =
+N \leq s l a n t 3
+\cos \left( \alpha + \frac { 2 \pi } { 3 } \right)
+a _ { 1 } = 3
+f ( x )
+\frac { 3 } { 5 }
+C ( 4 , - 2 )
+( - 1 2 , 1 8 )
+\{ x \mid x = 4 n , n \in \mathbf { N } \}
+a _ { 2 } = b _ { 2 }
+S _ { 7 } = 4 3
+\frac { 2 7 \sqrt { 3 } } { 2 }
+2 \times 2
+f ( x ) , g ( x )
+\triangle A B C
+a + b
+f ( x ) \text { 在 } ( - \infty , 0 )
+T _ { n }
+f ( x - 1 ) \text { 与 } f ( x + 1 )
+\frac { 3 \sqrt { 2 } } { 2 }
+S _ { n }
+f \left( x _ { 1 } \right) = x _ { 1 }
+x ( x \neq 0 )
+- \frac { 1 } { x } ( x \neq 0 )
+e _ { 1 } , e _ { 2 }
+0 < \lambda < 1
+S _ { 1 } = \lambda S _ { 2 }
+S _ { 1 } = \lambda S _ { 2 }
+x ^ { 2 } + y ^ { 2 } - 4 x - 1 4 y + 4 5 = 0
+y = 2 ^ { x } + \frac { 1 } { 2 ^ { x } }
+f ( 1 ) = 1 + \mathrm { e }
+- f ( 1 )
+y = x + \mathrm { e } ^ { x }
+f ( x ) = | x - 1 | + | x + 1 | - \frac { 1 } { 2 } | x |
+\triangle A B C
+\left( \frac { \ln 2 } { 2 } , \frac { \ln 3 } { 3 } \right)
+\frac { \pi } { 5 \omega }
+[ 0 , 2 \pi ]
+y = k x + 1
+\text { 求 椭 圆 } C \text { 的 离 心 率 }
+[ - 1 , 1 ]
+a + b
+x ^ { 5 }
+x + 9 y = 0
+f ( x )
+\overrightarrow { P D } \cdot \overrightarrow { P A }
+n = 1
+\overrightarrow { O B } = \boldsymbol { b }
+y = f ( 1 - x )
+\frac { 4 } { 5 }
+( 2 \boldsymbol { a } + \boldsymbol { b } ) \perp
+0 . 0 5
+h ( x ) = f ( x ) - g ( x ) ,
+x ^ { 2 } \geqslant 1
+\overrightarrow { A O } =
+x
+\frac { \pi } { 3 }
+\omega > 0 , \varphi \in \mathbf { R } )
+A _ { 1 } A
+A _ { 1 } D \cap E D _ { 1 } = F
+\frac { 4 \sqrt { 1 5 } } { 7 }
+S _ { n }
+- 1
+\ln ( x + 1 ) < \frac { 3 x } { x + 3 }
+\frac { 1 7 } { 2 7 }
+B E D _ { 1 }
+\triangle B C D
+A B C D
+P B
+A C E
+x - 2 y + 1 \leq s l a n t 0
+x , y
+( - \infty , - 2 ) \cup ( 1 , + \infty )
+( 0 , \pi )
+\frac { \pi } { 6 }
+4 + \sqrt { 2 }
+f ( x ) = A \sin ( \omega x +
+A D = \sqrt { 5 }
+A F
+B G
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+\frac { 3 } { 4 }
+0 \ %
+6 \ %
+5 . 0 2 4
+[ - 1 , 1 + 2 \sqrt { 2 } ]
+[ 1 - 2 \sqrt { 2 } , 3 ]
+A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+\theta \in \left( 0 , \frac { \pi } { 2 } \right)
+| A F | + | B F | = 8
+1 2 0 ^ { \circ }
+\left\{ \frac { 1 } { a _ { n } \cdot a _ { n + 1 } } \right\}
+\left( 0 , \frac { \pi } { 2 } \right]
+P - A B C
+P C
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+A A _ { 1 } , B _ { 1 } C
+A D = 2 D A _ { 1 }
+= 2 B _ { 1 } E
+\frac { \sqrt { 5 } + 1 } { 2 }
+\frac { 3 } { 2 }
+a < 0 \text { 或 } a = \mathrm { e }
+A = \{ x \mid y = \sqrt { 1 - x } \}
+[ 1 , 2 ]
+0 . 3
+a = 1
+\frac { 1 } { 2 }
+3 3 . 7
+z = a x + y
+f ( x ) = \frac { 1 } { 3 } | x - a |
+A = \left\{ x \in \mathbf { N } \mid \frac { 8 } { 6 - x } \in \mathbf { N } \right\}
+B = \{ x \mid \ln x \leq s l a n t 0 \}
+a _ { 1 } = d
+S _ { 1 } , S _ { 2 } , S _ { 3 }
+A C _ { 1 }
+\o v e r p a r e n { B C } , \o v e r p a r e n { C D }
+f ( x )
+f ( x ) = 2 \sin \left( x + \frac { \pi } { 3 } \right)
+f ( x ) = ( x - 1 ) \mathrm { e } ^ { x } - \frac { 1 } { 2 } a x ^ { 2 } + 1 ( a \in \mathbf { R } )
+f ( x ) \geqslant 0
+\left\{ a _ { n } \right\}
+\frac { x ^ { 2 } } { 2 5 } + \frac { y ^ { 2 } } { 1 6 } = 1
+\overrightarrow { O A } \cdot \overrightarrow { O B } = - 6
+\sqrt { 6 }
+2 \sqrt { 2 }
+\frac { 1 2 9 } { 1 6 }
+2 \sqrt { 3 }
+| M N | = \frac { 4 b ^ { 2 } } { a }
+C ( 2 , 1 )
+\ a n g l e B A D = 6 0 ^ { \circ }
+A B
+M B / /
+2 ^ { | x - 1 | } - 1 , \quad x \geqslant 0
+\overrightarrow { A N } \perp \overrightarrow { B C }
+\frac { 1 } { 5 }
+a \perp b
+( 4 , 2 )
+\frac { 1 } { 4 }
+d > 1
+2 y - x = 3
+d = 2
+\frac { 1 } { a _ { n } a _ { n + 1 } } = \frac { 1 } { ( 2 n + 1 ) ( 2 n + 3 ) } = \frac { 1 } { 2 } \left( \frac { 1 } { 2 n + 1 } - \frac { 1 } { 2 n + 3 } \right)
+x = 1 - 2 t
+a , b , c
+0 \leq s l a n t \mu \leq s l a n t 1
+\left( \frac { 1 - \mathrm { i } } { 1 + \mathrm { i } } \right) ^ { 1 0 }
+M \cap N =
+A , D
+O B < O D
+\sqrt { 3 }
+\frac { \sqrt { 5 } } { 2 }
+\text { 过 平 面 } \alpha \text { 的 一 条 斜 线 有 一 个 平 面 与 平 面 } \alpha \text { 垂 直 }
+\left( 2 - \frac { x + 1 } { \sqrt { x } } \right) ^ { 4 }
+\left( \frac { 5 } { 4 } , \frac { 9 } { 4 } \right]
+0 . 0 0 5
+0 . 2 4 7 0
+( - \infty , 0 )
+\frac { 1 } { 6 }
+\frac { 2 } { 3 }
+\frac { 8 8 9 } { 1 2 7 }
+f ( c )
+2 ^ { 3 0 0 9 }
+[ - 1 , 1 ]
+\left( 0 , \frac { 1 } { 2 } \right]
+C _ { 2 }
+A C
+P B
+x ^ { 2 } + y ^ { 2 } = 4
+\left\{ a _ { n } \right\}
+\sum _ { n = 1 } ^ { 1 0 } \frac { 1 } { a _ { n } a _ { n + 1 } } = \frac { 1 0 } { 2 1 }
+a _ { 1 } = b _ { 1 }
+x \not i n P
+x _ { 0 } \not i n P
+x ^ { 2 } + y ^ { 2 } +
+\frac { \left( 1 - \frac { 2 } { 3 } \right) + ( 5 - 2 ) } { 5 - 0 } = \frac { 2 } { 3 }
+O : \frac { x ^ { 2 } } { 4 } + y ^ { 2 } = 1
+\text { 则 } m + n \text { 的 取 值 }
+\triangle F _ { 1 } P F _ { 2 }
+[ 4 \sqrt { 2 } , + \infty )
+[ - \sqrt { 2 } , \sqrt { 2 } ]
+x ^ { 2 } + 2 x + 5 = 0
+D E \perp A B
+\frac { 2 } { 5 }
+| \boldsymbol { a } | = | \boldsymbol { b } | = 2
+( \omega > 0 , | \varphi | <
+\left( - \frac { \pi } { 2 } , - \frac { \pi } { 1 2 } \right)
+f ( x ) + \mathrm { e } \geqslant 0
+A , B , C
+\forall x \in \mathbf { R }
+a _ { n } , a _ { n + 1 }
+b _ { n } x + 2 ^ { n }
+f ( x )
+\frac { \sqrt { 3 } + 1 } { 2 }
+f ( x ) = x ^ { 2 } + x - 1 , \alpha , \beta
+b _ { n } = \ln \frac { a _ { n } - \beta } { a _ { n } - \alpha }
+S _ { n }
+y _ { 1 } = f ( x ) = \sin x
+| \overrightarrow { B C } |
+A \cup B =
+7 x - y - 1 5 = 0
+y =
+A _ { 1 } A D D _ { 1 }
+x \in \mathbf { R }
+f ( x )
+M , N , P \text { 分 别 为 其 所 在 棱 的 中 点 }
+2 4
+\alpha / / \beta
+a , b , c
+P ( X < 1 2 ) =
+\triangle A B C
+3 b ^ { 2 } + 3 c ^ { 2 } = 3 a ^ { 2 } + 2 b c
+\tan C
+3 - \sqrt { 3 }
+D C = 2 ( \sqrt { 3 } - 1 )
+4 + 4 \sqrt { 2 }
+5 \times 3 ^ { 1 0 }
+f ( x ) = \sin ( \omega x + \varphi ) ( \omega > 0 )
+[ - 2 , - 1 ]
+1 2 \pi
+\frac { \pi } { 2 } \leq s l a n t \alpha \leq s l a n t
+- \frac { \sqrt { 2 } } { 4 }
+A _ { 1 } C _ { 1 }
+\triangle A B C
+k _ { 1 } , k _ { 2 }
+\cos \left( 2 \alpha - \frac { \pi } { 3 } \right)
+\frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 0 , b > 0 )
+\cos \left( 2 \alpha + \frac { \pi } { 1 2 } \right)
+t \mid
+A D \perp D C _ { 1 }
+3 5 \sqrt { 7 } \text { 米 }
+\int _ { 0 } ^ { 2 } ( x - 1 ) \mathrm { d } x =
+( 1 + 1 ) = 2 \times 1
+0 . 6
+d
+\overrightarrow { A D } = - \frac { 1 } { 2 } \overrightarrow { A B } + \frac { 3 } { 2 } \overrightarrow { A C }
+\frac { V _ { 2 } } { V _ { 1 } } =
+a + b
+\frac { 1 3 } { 2 }
+A B = 2
+S =
+P , Q
+( 6 + 2 \sqrt { 3 } ) \pi
+( 3 + \sqrt { 3 } ) \pi
+A C
+A C = \sqrt { 2 ^ { 2 } + ( 2 \sqrt { 3 } ) ^ { 2 } } = 4
+C D \perp P D
+\sin A + \sin B = \sin C ( \cos A + \cos B )
+A M
+- 1
+a , b
+\frac { \sqrt { 1 5 } } { 1 5 }
+\frac { \sin 2 \alpha } { \cos 2 \alpha } = \frac { \cos \alpha } { 2 - \sin \alpha }
+\frac { 2 \sin \alpha \cos \alpha } { 1 - 2 \sin ^ { 2 } \alpha } = \frac { \cos \alpha } { 2 - \sin \alpha }
+T \left( x _ { T } , y _ { T } \right)
+y _ { T } = y _ { 0 } - 1
+y _ { 0 } - y _ { T } = y _ { 0 } - \left( y _ { 0 } - 1 \right) = 1
+\left| a _ { n } - \frac { a _ { n + 1 } } { 2 } \right| \leq s l a n t 1 , n \in \mathbf { N } ^ { * }
+y = t \sin \alpha
+( - \infty , 8 )
+h ( t ) = g ^ { \prime } ( t )
+h ^ { \prime } ( t ) = \frac { 1 } { t } - \frac { 1 } { t ^ { 2 } } = \frac { t - 1 } { t ^ { 2 } }
+g \left( \mathrm { e } ^ { a x } \right) \geqslant g \left( x ^ { 2 } \right)
+\varphi ^ { \prime } ( x ) < 0
+\left[ \frac { 2 } { \mathrm { e } } , + \infty \right)
+0 . 5 \mathrm { ~ m }
+E : x ^ { 2 } - y ^ { 2 } = 1
+\overrightarrow { G A } + \overrightarrow { G B } + \overrightarrow { G C } = \mathbf { 0 }
+4 0
+= \frac { 2 } { t } + \frac { 2 m y _ { 0 } } { m ^ { 2 } - 4 }
+A B = \sqrt { 2 }
+T _ { n } = \left( 1 + a _ { 1 } \right) \left( 1 + a _ { 2 } \right) \cdots \left( 1 + a _ { n } \right)
+S _ { n } + \frac { 2 } { 3 T _ { n } - 1 } = 1
+2 6 7 4
+a _ { n } = 3 ^ { 2 ^ { n - 1 } } - 1
+T _ { n } = \left( 1 + a _ { 1 } \right) \left( 1 + a _ { 2 } \right) \cdots \left( 1 + a _ { n } \right)
+S _ { n } + \frac { 2 } { 3 T _ { n } - 1 } = 1
+C , D
+O C P D
+\theta = \frac { \pi } { 6 } ( \rho \in \mathbf { R } )
+l _ { 1 } : \theta = \theta _ { 0 }
+\left| P F _ { 1 } \right| = 2 \left| P F _ { 2 } \right|
+y - x = \frac { 2 } { 9 }
+( - \infty , - 1 ]
+A M
+0 . 1
+\sum _ { i = 1 } ^ { 6 } \left( x _ { i } - \bar { x } \right) \left( y _ { i } - \bar { y } \right) \approx 3 3 . 3
+\sum _ { i = 1 } ^ { 6 } \left( \lambda _ { i } - \bar { \lambda } \right) ^ { 2 } \approx 2 . 5
+1 0 . 8 2 8
+f ( x ) = | | \cos x | - | \sin x | |
+s _ { 2 } ^ { 2 }
+\left( \frac { 1 } { 3 } \right) ^ { m - 1 } \leq s l a n t \frac { 1 } { 1 0 0 0 } \leq s l a n t 3 ^ { m - 1 }
+\ a n g l e E W F
+A B \perp
+E A \perp E B _ { 1 }
+A - E B _ { 1 } - A _ { 1 }
+B C = 1
+k \left( k \in \mathbf { N } ^ { * } \right)
+\frac { a _ { 1 } + a _ { 3 } + \cdots + a _ { 2 n - 1 } } { S _ { n } }
+\boldsymbol { e } _ { 1 } , \boldsymbol { e } _ { 2 }
+b _ { n } = 2 ^ { n }
+\left[ - \frac { 4 7 } { 1 6 } , 2 \right]
+1 1
+\sqrt { | x | } + | y | = 2
+k > x _ { 0 } ^ { 2 } + 1
+P ( 1 - a , 1 + a )
+1 + \frac { 1 } { 2 } + \cdots + \frac { 1 } { 2 ^ { n - 1 } } - \left( \frac { 1 } { a _ { 1 } } + \frac { 1 } { a _ { 2 } } + \cdots + \frac { 1 } { a _ { n } } \right) = \frac { a _ { 1 } - 1 } { a _ { 1 } } + \frac { a _ { 2 } - 2 } { 2 a _ { 2 } } + \cdots + \frac { a _ { n } - 2 ^ { n - 1 } } { 2 ^ { n - 1 } a _ { n } }
+c _ { 1 } D _ { 1 } + c _ { 2 } \left( D _ { 2 } - D _ { 1 } \right) + c _ { 3 } \left( D _ { 3 } - D _ { 2 } \right) + \cdots + c _ { n } \left( D _ { n } - D _ { n - 1 } \right)
+\triangle A B F
+g ( x ) = \sqrt [ 3 ] { x ^ { 3 } }
+f ( x ) = \frac { x ^ { 2 } - 4 } { x - 2 }
+f ( x ) = x ^ { 3 }
+f ( x )
+( t \neq 0 ) \text { 交 } y \text { 轴 于 点 } M
+\text { 连 接 } O N \text { 并 延 长 交 } C
+( 0 , \sqrt { t } ]
+f ( x ) = \frac { x ^ { 2 } + 2 } { x }
+f ( - x ) = f ( x )
+x < 0
+x ^ { 2 }
+[ - \sqrt { 2 } , + \infty )
+b \subset \beta
+\alpha \cap \beta = l
+C : \rho = 4 \sin \theta
+\rho _ { 0 }
+k = 1
+3 5 2 8 0
+y = f ( x )
+0 . 9
+1 - 0 . 1 ^ { 4 }
+\frac { 2 } { 9 }
+f \left( - \frac { 9 } { 2 } \right)
+\frac { 3 } { 4 }
+( 0 , + \infty )
+y _ { i } ( i = 1 , 2 , \cdots , 4 7 )
+\left( x _ { i } , y _ { i } \right) ( i = 1 , 2 , \cdots , 4 7 )
+\frac { \sum _ { i = 1 } ^ { n } \left( x _ { i } - \bar { x } \right) \left( y _ { i } - \bar { y } \right) } { \sum _ { i = 1 } ^ { n } \left( x _ { i } - \bar { x } \right) ^ { 2 } }
+A B = B C =
+y = f ( x + 1 )
+B _ { 1 } D F \perp
+y = \sin ( \omega x + \varphi ) \left( \omega > 0 , | \varphi | < \frac { \pi } { 2 } \right)
+\omega = 1 , \varphi = - \frac { \pi } { 6 }
+\frac { 1 } { 2 }
+f ( x ) = \log _ { 2 } ( x + a )
+m =
+1 0 S _ { n } =
+A B = \frac { 4 \sqrt { 6 } } { 3 }
+0 . 6 4
+P ( | \xi - \mu | < \sigma )
+f ( 6 ) = 2 . 7 - 1 . 2 ^ { 6 } = 2 . 7 - 2 . 9 8 5 9 8 < 0
+x _ { 0 } \in ( 5 , 6 )
+x > x _ { 0 }
+y = f ( 4 - x )
+F ( x ) = 1 - \mathrm { e } ^ { - \left( \frac { x } { 2 } \right) ^ { k } }
+1 \mathrm { ~ m } / \mathrm { s }
+F \approx 0 . 2 2 1
+\ a n g l e B A C = 9 0 ^ { \circ }
+( 1 , 3 )
+- \frac { 1 } { 5 }
+\frac { x ^ { 2 } + 5 } { \sqrt { x ^ { 2 } + 4 } }
+a , b , c
+A , B , C
+7 4 8 8
+a _ { 1 } q ^ { 2 } - 4 a _ { 1 } q + 4 a _ { 1 } = 0
+A ( k ) = [ \sqrt [ k + 1 ] { k + 1 } , \sqrt [ k ] { k + 1 } ]
+[ \sqrt [ 3 ] { 3 } , \sqrt { 3 } ]
+[ \sqrt [ 5 ] { 5 } , \sqrt [ 4 ] { 5 } ]
+y = 2 ^ { | x | } \sin 2 x
+u = x + \sqrt { x ^ { 2 } + y ^ { 2 } } \geqslant 0
+y = \frac { b } { a } x
+B D = 1
+- 1
+\sqrt { 3 } - 1
+E B _ { 1 } C _ { 1 } F
+\text { 其 中 } 1 \text { 到 } 6 \text { 号 球 是 红 球 }
+\frac { 1 } { 1 1 }
+A , B , C
+a , b , c
+x \neq - 2
+\frac { \sqrt { 3 } } { 3 }
+\triangle A B C
+A B
+\overrightarrow { A F } =
+\frac { 1 } { 2 } \sin \ a n g l e P O M \cdot O P ^ { 2 } = \frac { 1 6 } { 5 }
+D , E
+A ^ { \prime } - B C D E
+\frac { \sqrt { 3 } } { 2 }
+- \frac { 2 } { 3 }
+\left\{ a _ { n } \right\}
+\triangle O A B
+A = \left\{ x \in \mathbf { Z } \mid x ^ { 2 } + 2 x - 8 < 0 \right\} , B = \left\{ x ^ { 2 } \mid x \in A \right\}
+b _ { 1 } + b _ { 2 } + \cdots + b _ { 2 0 2 0 } =
+A - B C - D
+S _ { \triangle P A B } =
+P A = P B = 1
+B C
+1 6 \pi
+( - 1 , 1 )
+2 ^ { x } > x + 1
+( y - 1 ) ^ { 2 } = 1
+\left[ \frac { 1 } { 2 } , 1 \right)
+x \sin A + a y + c = 0
+\frac { a } { b } = \frac { \cos A + 1 } { \sqrt { 3 } \sin B }
+a \sin A
+f ( 0 ) = 1
+g ( x ) = ( x + 1 ) \mathrm { e } ^ { - x } + \frac { 1 } { 2 } a x ^ { 2 }
+g ^ { \prime } ( x ) = x \left( a - \mathrm { e } ^ { - x } \right)
+\ln a < 0
+C : y ^ { 2 } = 4 x
+a > 1
+( - \infty , - \ln a )
+p : k = 1
+z \cdot \bar { z } =
+g ( x ) = \mathrm { e } ^ { x } - a x
+( 1 , + \infty )
+( - 1 , + \infty )
+\frac { 1 } { 4 }
+\triangle A F D
+a _ { n }
+A \cap B =
+| b | < 4
+C _ { 1 }
+a + b \leq s l a n t 4
+( - 1 , + \infty )
+f ( x ) = \left( 2 ^ { x } - 2 ^ { - x } \right) \sin 2 x
+N \left( \mu , \sigma ^ { 2 } \right)
+A E
+F ( 1 , 0 )
+m \in \mathbf { R }
+4 x + 4
+B
+\triangle A B D
+\mathrm { S } _ { \mathrm { n } } \geqslant \mathrm { S } _ { 1 0 }
+f ( x ) = \sin \left( \omega x + \frac { \pi } { 6 } \right)
+B P
+D ^ { \prime } H \perp
+\pm \frac { \sqrt { 3 } } { 4 }
+\pm \frac { \sqrt { 3 } } { 2 }
+f ( x )
+\ln x - a ( x - 1 ) \leq s l a n t \frac { \ln x } { x + 1 }
+\cos \alpha
+\frac { \sqrt { 3 } } { 2 }
+y ^ { 2 } = 4 x
+\frac { S _ { n } } { T _ { n } } = \frac { 2 n } { 3 n + 1 }
+\lim _ { n \rightarrow \infty } \frac { a _ { n } } { b _ { n } }
+\text { 布 直 方 图 和 } 2 \times 2 \text { 列 }
+\alpha - \beta = \pi
+y = f ( x ) - \log _ { 3 } | x |
+C C _ { 1 } D _ { 1 } D
+\frac { 3 \sqrt { 6 } } { 2 } \pi
+P Q
+( - 1 , 0 )
+( 3 , 7 )
+6 + 5 i
+\overrightarrow { O B }
+\left( - \frac { 1 } { 4 } , 1 \right)
+a > \frac { 1 } { 4 }
+\frac { 3 } { 2 } - \frac { \sqrt { 3 } } { 2 } \mathrm { i }
+D D _ { 1 } \perp
+S = \frac { 1 } { 2 } | E G | \cdot \left| y _ { A } - y _ { B } \right|
+E F / /
+= \frac { 1 } { 2 } \left( 4 t ^ { 2 } + \frac { 1 } { 4 t ^ { 2 } } + 2 \right) \cdot \left| 8 t + \frac { 2 } { t } \right|
+x O y
+\sqrt { 5 a _ { m n } } - \sqrt { a _ { m } a _ { n } } > 1
+O
+\triangle A B C
+\triangle A O B
+3 : 1
+5 : 3
+x ^ { 2 } + y ^ { 2 } = 2
+B = \{ x \mid 0 <
+0 . 0 0 0 5
+3 0 0
+7 0 0
+a _ { 3 } , \cdots , a _ { n }
+\{ x \mid - 1 < x \leq s l a n t 0 \}
+A M
+( 1 - x ) ^ { 5 } = a _ { 0 } + a _ { 1 } x + a _ { 2 } x ^ { 2 } + a _ { 3 } x ^ { 3 } +
+\text { 过 双 曲 线 } C \text { 的 右 焦 点 } F \text { ? 若 存 在 , 求 出 } k \text { 的 值 }
+[ 3 x + 1 ] + \frac { 1 } { 2 } = 2 x
+( \sin B - \sin A ) ^ { 2 } = \sin ^ { 2 } C - \sin B \sin A
+m ^ { 2 } = 2
+| G H | ^ { 2 } = \frac { \left( x _ { 1 } - x _ { 2 } \right) ^ { 2 } } { 9 } + \frac { \left( y _ { 1 } - y _ { 2 } \right) ^ { 2 } } { 9 }
+M \left( \frac { x _ { 1 } + x _ { 2 } } { 6 } , \frac { y _ { 1 } + y _ { 2 } } { 6 } \right)
+E F G H , E H
+\left. \mathrm { e } ^ { 1 - 3 x } \right)
+a _ { n + 1 } + ( - 1 ) ^ { n } a _ { n } = 2 n - 1
+\overrightarrow { A O }
+\{ x \mid - 1 \leq s l a n t x \leq s l a n t 1 \}
+\left( \frac { 1 } { 2 } \right) ^ { a } > \left( \frac { 1 } { 2 } \right) ^ { b }
+0 . 0 4 5
+\{ x \mid - 2 \leq s l a n t x \leq s l a n t 2 \}
+\left( 2 a ^ { 2 } - a - 6 \right) x + \left( a ^ { 2 } - 4 \right) y + 2 a = 0
+g ( x )
+A ^ { \prime } - E F D
+B D
+t < 1 0 \text { 时 , 载 客 量 会 减 少 , 减 少 的 人 数 与 } ( 1 0 - t ) \text { 的 }
+( \sqrt { 2 } + m ) ^ { 2 } + ( \sqrt { 2 } ) ^ { 2 } = ( 2 \sqrt { 2 } - m ) ^ { 2 }
+f ^ { 2 } ( x ) + ( 1 - m ) f ( x ) - m = 0
+( - \infty , 0 ) \cup \left( \frac { 1 } { \mathrm { e } } , 1 \right) \cup ( 1 , 2 )
+A = \{ x \mid x > 0 \}
+\frac { 6 p ( t ) - 3 3 6 0 } { t } - 3 6 0 \text { ( 元 ) }
+t = 1
+f ( x )
+1 0 ^ { a } = 4
+A , B , C
+p : a = b
+m / / n
+m / / \beta
+\frac { \pi } { 2 }
+\frac { 1 } { 2 }
+A B C
+, P C = 2
+\ a n g l e A C B
+1 \times 1 2
+2 \times 6
+f ( n ) = q - p
+f ( 8 8 )
+b _ { n } = \log _ { 2 } a _ { n }
+a _ { 1 } = 2
+y = \cos \left( x + \frac { \pi } { 3 } \right)
+B D
+a _ { 4 n - 3 } = 1
+\overrightarrow { O P } + \overrightarrow { O Q } = 2 \overrightarrow { O M }
+g ( x ) \geqslant f ( x )
+\triangle A B C
+\alpha , \beta
+a , b \in \mathbf { R }
+z - \bar { z } = 2 \mathrm { i }
+4 \sqrt { 6 } \pi
+- \mathrm { i }
+0 . 0 1 6
+\frac { | M A | } { | A F | } = 2
+6 . 5
+\hat { y } = 6 . 5 x + 1 7
+\hat { y } = 6 . 5 x + 1 7 . 5
+\hat { y } = 6 . 5 x + 2 7 . 5
+x , y \in \mathbf { R }
+\mathrm { R t } \triangle A B C
+K ^ { 2 } = \frac { n ( a d - b c ) ^ { 2 } } { ( a + b ) ( c + d ) ( a + c ) ( b + d ) }
+- \frac { \sqrt { 3 } } { 2 }
+C _ { 2 } : \frac { y ^ { 2 } } { a ^ { 2 } } +
+\Delta = ( 4 p ) ^ { 2 } - 4 \times 8 p = 0
+x _ { M } = - 2 y _ { M } - t = 8 - t
+a , b , c
+2 + i
+\frac { 5 \pi } { 1 2 }
+[ - 2 , 2 ]
+\frac { 5 } { 1 2 } \pi
+x _ { 0 } ^ { 2 } - x _ { 0 } + 1 \leq s l a n t 0
+| \boldsymbol { b } | = 2 | \boldsymbol { a } |
+\overrightarrow { P A } \cdot \overrightarrow { P C }
+n ( a d - b c ) ^ { 2 }
+B
+P _ { 1 }
+P _ { 2 }
+P _ { 3 }
+x +
+8 0 ^ { \circ } \mathrm { C }
+E ( X )
+x = 0
+\lambda \in [ 0 , 1 ]
+f _ { 2 } ( x )
+f _ { t } ( x )
+y = \left| x ^ { 2 } - 2 x - 3 \right|
+\overrightarrow { B C } + \overrightarrow { B A } = 2 \overrightarrow { B P }
+A D _ { 1 } / /
+M N P
+\frac { 1 } { a } + \frac { 1 } { b } + \frac { 1 } { c } \geqslant \frac { 9 } { 2 }
+[ 1 . 2 ] = 1
+\cos \ a n g l e A B C
+1 , 2 , 3 , 4 , 5 , 6
+A B C D
+\tan \alpha = 2
+X
+f ( x )
+S _ { n }
+f ( x ) = \frac { 1 } { 3 } x ^ { 3 } - a x ^ { 2 } + 1
+3 \pi
+2 0 0 0 \mathrm { m g }
+A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+( 0 , f ( 0 ) )
+z = ( 1 - \mathrm { i } ) ^ { 4 } - ( 1 + \mathrm { i } ) ^ { 3 }
+\sqrt { 1 0 }
+E - B D - F
+f ( 2 0 2 1 ) = 2
+\b e c a u s e b \cos C + \sqrt { 3 } b \sin C - a - c = 0
+( 1 , + \infty )
+P - A B C D
+\frac { \sqrt { 3 } } { 1 2 }
+\ln \left( \sqrt { 1 + x ^ { 2 } } - x \right) + 1 , f ( a ) = 4
+B ( 0 , \sqrt { 3 } )
+x \in [ 0 , \pi )
+f ( x ) = \frac { \sin x } { x ^ { 2 } - \pi x + \pi }
+f ( \pi ) = 0
+M , N
+O M
+O N
+y = 0
+x = 1
+y = 2 x - \frac { 1 } { 2 }
+S _ { 3 }
+i _ { 1 } > 5 \ %
+\frac { 1 } { a ^ { 2 } } + \frac { 1 } { b ^ { 2 } } \leq s l a n t 1
+a > 0 , f ( x ) = \frac { \mathrm { e } ^ { x } } { a } + \frac { a } { \mathrm { e } ^ { x } }
+f ( x )
+A - B C D
+1 9 ) , \cdots \ldots
+5 . 5
+4 \mathrm { ~ m } ^ { 3 }
+\left\{ a _ { n } \right\}
+n \in \mathbf { N } ^ { + }
+\text { 1 ) } f ( x ) ] \mathrm { d } x
+\hat { a } = \bar { y } - \hat { b } \bar { t }
+A , B ,
+\triangle A B C
+\frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+\cos 2 \alpha =
+\frac { 1 6 } { 2 5 }
+C _ { 1 } : y = \cos x , C _ { 2 } : y =
+\frac { y ^ { 2 } } { b _ { 1 } ^ { 2 } } = 1 \left( a _ { 1 } > 0 , b _ { 1 } > 0 \right)
+C : x ^ { 2 } + y ^ { 2 } - k x + 2 y + \frac { 1 } { 4 } k ^ { 2 } - k + 1 = 0
+k > 0
+2 \sqrt { 3 }
+1 2 x - 5 y - 1 6 = 0
+k = 4 , m > 0 , n > 0
+C _ { 1 }
+C _ { 1 }
+- 2 8 8
+O
+y ^ { 2 } = 2 p x ( p > 0 )
+A C \perp B C
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+h ( x ) = f ( x ) + x - a
+A B = R
+A - B C D
+\triangle A C D
+0 \leq s l a n t x < 2 \pi
+\sqrt { 1 - \sin 2 x } = \sin x - \cos x
+A , B , C , D
+a + b \neq 0
+\left\{ \frac { 1 } { 2 a _ { n } \cdot \left( a _ { n } - n + 1 \right) } \right\}
+T _ { n }
+A A ^ { \prime } C ^ { \prime } C
+\text { C E F }
+A B C D
+m \geqslant 3 0 0
+\frac { \sqrt { 2 } } { 6 }
+A _ { 1 } - P B - A
+a _ { n } = \frac { 1 } { n }
+\frac { 2 \sqrt { 3 } } { 3 }
+A B
+\rho \sin \theta = - 2
+| P Q |
+z = x + \frac { 1 } { 6 } y
+x ^ { 2 } - 4 x + 3 < 0
+\left( - \frac { 3 } { 4 } , 0 \right)
+A \left( x _ { 1 } , y _ { 1 } \right) , B \left( x _ { 2 } , y _ { 2 } \right) \text { , }
+\overrightarrow { O A } + \overrightarrow { O B } = \left( x _ { 1 } + x _ { 2 } , y _ { 1 } + y _ { 2 } \right) \text { , }
+x _ { 1 } + x _ { 2 } = - \frac { 4 ( k - 3 ) } { 1 + k ^ { 2 } }
+\overrightarrow { O A } + \overrightarrow { O B }
+| \sqrt { 3 } + i |
+f ( x + 1 )
+2 ^ { x } > 1
+x ^ { 2 } + y ^ { 2 } = 4
+a _ { 5 } = 1
+1 < a \leq s l a n t 4
+x = 3 - \sqrt { 5 - a }
+f \left[ \sin 2 \theta - ( 2 + m ) ( \sin \theta + \cos \theta ) - \frac { 4 } { \sin \theta + \cos \theta } \right]
+5 ^ { \circ } \mathrm { C }
+1 5 ^ { \circ } \mathrm { C }
+4 8
+y = \sqrt { x }
+- 1
+7 0
+( 2 , f ( 2 ) )
+F _ { 2 }
+\triangle A B C
+B ( 0 , 0 ) , C ( c , 0 )
+\sin \ a n g l e A
+\frac { \sqrt { 3 } \pi } { 2 }
+\frac { \pi } { 3 }
+\frac { 2 \pi } { 3 }
+- 4
+- 2
+\left( \frac { 2 } { 5 } , \frac { 2 } { 3 } \right)
+f \left( \frac { 1 } { 2 } \right) = 2
+\left\{ a _ { n } \right\}
+- \frac { b ^ { 2 } } { a ^ { 2 } } = - \frac { 1 } { 2 }
+\sqrt { 2 }
+= \frac { 1 } { 2 } F _ { 1 } F _ { 2 } = c
+\frac { | \overrightarrow { A C } | } { | \overrightarrow { A B } | }
+\cos ( \alpha + \beta ) = \cos \alpha \cos \beta - \sin \alpha \sin \beta
+\mathrm { S } _ { \alpha + \beta }
+c > 2 ^ { c }
+g ( x ) \leq s l a n t \frac { \sqrt { 2 } } { 4 } \ln x + \sqrt { 1 + x } - \sqrt { 2 x }
+a = \pm b
+- \frac { 1 } { 4 }
+f ( x ) + \frac { 1 } { 4 } > \frac { 3 } { 2 } x + m
+g ( x ) = f ( x - 1 ) - m x
+( - 3 , 1 ) \cup ( 1 , 2 )
+\left( 0 , \frac { 1 } { 2 } \right)
+\cos B + \sqrt { 3 } \sin B - 2 = 0
+a , b , c
+\frac { \pi } { 2 }
+\triangle A B C
+x + y \leq s l a n t 2
+x , y
+a = 1 0
+1 \geqslant \left| a ^ { 2 } + b + c \right| + \left| a + b ^ { 2 } - c \right| \geqslant \left| a ^ { 2 } + a + b ^ { 2 } + b \right|
+1 3
+1 5
+n \geqslant 2
+S _ { 7 } = 2 8
+x \in \left[ \frac { 1 } { \mathrm { e } ^ { 2 } } , 1 \right)
+[ - 7 , 6 ]
+A _ { 1 } A _ { 2 } - B _ { 1 } B _ { 2 } = 0
+a = \frac { \sqrt { 1 + x } } { - 2 \ln x }
+B O
+y = \frac { \sqrt { 3 } } { 3 } ( x + 1 )
+\mu ( a ) < \mu \left( \frac { \sqrt { 2 } } { 4 } \right) = a \varphi ( x ) \leq s l a n t a \varphi ( 1 ) = 0
+y = \log _ { 2 } ( 1 + x )
+P - A B C D
+\beta
+A E F
+\left\{ a _ { n } \right\}
+[ 3 , + \infty )
+f ( x )
+P ( k )
+P ( 6 )
+P ( 7 )
+\frac { 1 } { 2 0 1 9 }
+f ( x )
+\left. x _ { 2 } \right) , \left| f \left( x _ { 2 } \right) - f \left( x _ { 1 } \right) \right| > \left| \frac { 1 } { g \left( x _ { 2 } \right) } - \frac { 1 } { g \left( x _ { 1 } \right) } \right|
+f ( \pi ) = 5
+( - \infty , + \infty )
+f ( 1 ) = 2
+- 6 - \frac { \sqrt { 3 } } { 2 }
+B C
+( 1 , \sqrt { 2 } )
+A , B , C , D
+D E / /
+A _ { 1 } B _ { 1 } B A
+y ^ { 2 } = 4 x
+y = k x + 1
+P , Q
+- \sqrt { 2 }
+\overrightarrow { O A } \cdot \overrightarrow { O P } - \overrightarrow { O B } \cdot \overrightarrow { O P }
+9 \ %
+x _ { 1 } + x _ { 2 } < 0
+f ( x ) = \ln x + m x ^ { 2 } ( m \in \mathbf { R } )
+\frac { 2 } { 3 } + \frac { 2 } { 5 } + \frac { 2 } { 7 } + \cdots + \frac { 2 } { 2 n + 1 } < \ln ( n + 1 ) <
+\frac { S _ { 1 } } { S _ { 2 } } = \left| \frac { 8 c ^ { 2 } - \left( 4 a ^ { 2 } + 4 a c \right) } { 8 c ^ { 2 } + 1 2 a c + 2 \left( 4 a ^ { 2 } + 4 a c \right) } \cdot \frac { a } { c } \right|
+= \left| \frac { c - a } { c + 2 a } \cdot \frac { a } { c } \right|
+h ^ { \prime } ( x ) > 0
+x O y
+2 \rho \cos \theta + \sqrt { 3 } \rho \sin \theta + 1 1 = 0
+- 4
+B C , C C _ { 1 }
+C F = A B = 2 C E
+x > 0
+1 8 0 0
+C _ { 1 }
+a _ { i j } ( i , j = 1 , 2 , \cdots , n )
+n - 3
+P _ { n } =
+\frac { 1 } { 4 }
+x > 0
+\left\{ b _ { n } \right\}
+A , B , C
+C ( - 2 , 0 )
+f ( x ) = \frac { x } { a } -
+( x - 1 ) ^ { 2 } + y ^ { 2 } = 9
+( x - 1 ) ^ { 2 } + y ^ { 2 } = 3
+2 ^ { \frac { n + 1 } { 2 } } - 1 + \frac { ( n - 1 ) ( n + 1 ) } { 8 } , n = 4 k - 3
+V _ { 1 }
+1 6 S _ { 1 }
+3 6 ^ { \circ }
+= - \frac { 1 } { 3 } \cdot 9 + \frac { 2 } { 3 } \cdot 4 \lambda + \left( \frac { 1 } { 3 } \lambda - \frac { 2 } { 3 } \right) \cdot 3 \cdot 2 \cdot \cos 6 0 ^ { \circ }
+n \geqslant 2
+2 S _ { n } = S _ { n } - S _ { n - 1 } + \frac { 1 } { S _ { n } - S _ { n - 1 } }
+1 < | x + 1 | < 3
+t ^ { \prime } ( x ) = \frac { 1 } { x } - \frac { 2 } { x ^ { 3 } } + \frac { 1 } { x ^ { 2 } } = - \frac { 1 } { x } \left( \frac { 2 } { x } + 1 \right) \left( \frac { 1 } { x } - 1 \right) < 0
+- 2
+y = - 1
+x ^ { 2 } = 4 y
+m > e
+\frac { 1 } { x } + \frac { 4 } { a - x } ( 0 < x < a )
+x _ { 0 } = \frac { 4 9 } { 6 5 }
+\left\{ x _ { n } \right\}
+0 . 0 1
+( - 1 , 1 ]
+A \cap B
+O _ { 1 } O _ { 2 }
+\oplus
+\frac { 1 } { 4 }
+x _ { 1 }
+m x ^ { 2 } + n y ^ { 2 } = 1 ( 0 < m < n ) , A \left( x _ { 1 } , y _ { 1 } \right) , B \left( x _ { 2 } , y _ { 2 } \right)
+n
+m / / n
+m + n
+a > 1
+a _ { m + n } = a _ { m } \cdot a _ { n }
+n \in \mathbf { N } ^ { * }
+a _ { n }
+a _ { n } > 0
+a _ { n + 1 } < a _ { n }
+\frac { 1 } { a _ { n + 1 } } = a _ { n } + \frac { 1 } { a _ { n } }
+\frac { 1 } { a _ { n + 1 } ^ { 2 } } = a _ { n } ^ { 2 } + 2 + \frac { 1 } { a _ { n } ^ { 2 } }
+y = x
+A \cap B
+\{ 5 \}
+x ^ { 5 }
+- 2
+A , B
+\ a n g l e O M A = \ a n g l e O M B
+y ^ { 2 } = 1 ( a > 1 )
+B D
+1 2 0 ^ { \circ }
+A ^ { \prime } - B C D
+( 0 , 1 )
+y ^ { \prime } = \frac { 1 } { x + 1 }
+x _ { 1 } = \frac { 1 } { 2 } , x _ { 2 } = - \frac { 1 } { 2 }
+b = 1 - \ln 2
+x _ { 1 } = \frac { 1 } { 2 }
+p = p ( n - m + k )
+y = f ( 1 - x )
+i = 1 , S = 1
+A B \perp B C
+P C = \sqrt { 5 }
+\left( \frac { 1 } { 3 } \right) ^ { a } = \log _ { 3 } a
+S = 2 S
+( x + 2 ) ^ { 2 } + ( y + 3 ) ^ { 2 } = 2
+\text { 满 足 } \frac { B F } { F C } = \lambda _ { 2 }
+\frac { 1 } { 4 }
+\left\{ a _ { n } \right\}
+\left\{ a _ { n } \right\}
+\left\{ b _ { n } \right\}
+\{ 0 , 1 , 2 \}
+y = k x - k + 1
+\cos \ a n g l e D A K \cdot \cos \ a n g l e F A B
+x \in \left[ 0 , \frac { 5 \sqrt { 2 } } { 2 } \right]
+S = \pi
+f ( 2 ) =
+a \neq 1
+| a | + | b |
+3 \times 4
+\frac { 1 } { 1 6 }
+\log _ { a } ( 1 + a ) > \log _ { a } \left( 1 + \frac { 1 } { a } \right)
+= \pi
+A M \perp A N , A D \perp M N
+| D Q |
+2 \mathrm { i }
+| B F |
+A =
+\text { 已 知 圆 } O : x ^ { 2 } + y ^ { 2 } = 1
+A = \{ 1 , 2 \}
+k ( k \in \mathbf { N } , 1 \leq s l a n t k \leq s l a n t n )
+A ( 0 , 0 ) , B ( 2 , 0 ) , C ( 2 , 1 )
+A B
+P _ { 3 }
+P _ { 4 }
+e ^ { i \theta }
+\cos 5 \theta - i \sin 5 \theta
+\int _ { 2 } ^ { 4 } \frac { 1 } { x } \mathrm { ~ d } x
+\ln 2
+l
+a _ { 1 } , a _ { 2 } , a _ { 3 } , a _ { 4 } , a _ { 5 }
+b _ { 1 } = 1 9 2
+m = 4
+f ( x ) = x ^ { 3 } + a x ^ { 2 } + b x ( x > 0 )
+( 3 , + \infty )
+( 1 , 3 ) \cup ( 3 , + \infty )
+y ^ { 2 } = 4 x
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+A B _ { 1 }
+A _ { 1 } B _ { 1 } C
+1 5 \ %
+6 \ %
+a + b =
+a _ { n } > 0
+\left\{ c _ { n } \right\}
+f ( 2 + x ) = f ( 2 - x )
+a b > 0
+\text { 已 知 函 数 } f ( x ) = \frac { \ln x + k } { \mathrm { e } ^ { x } } ( k \text { 为 常 数 , } \mathrm { e } =
+2 . 7 1 8 2 8 \cdots \text { 是 自 然 对 数 的 底 数 ) }
+A B C
+\sqrt { 3 }
+\frac { \tan A } { \tan B } + \frac { \tan A } { \tan C } = 3
+M N
+\sqrt { 2 }
+y _ { 1 } + y _ { 2 } = - \frac { 2 p a } { b }
+b ^ { 2 } = 8 a ^ { 2 }
+x ^ { 2 } + y ^ { 2 } + 2 x - 1 5 = 0
+B ( 1 , 0 )
+\triangle A B C
+A C = 3
+A B = 5
+f ( x ) = x
+f [ f ( x ) ] < x
+- 4 5
+y = f ( x )
+( 0 , \sqrt { 2 } ] \cup [ 3 , + \infty )
+m \in ( 0 , 1 )
+x _ { 0 } \left( 0 \leq s l a n t x _ { 0 } \leq s l a n t \frac { \pi } { 2 } \right)
+f ( x )
+A , B , C , D , E
+A B _ { 1 }
+D B C _ { 1 }
+B _ { 1 } B C C _ { 1 }
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+\overrightarrow { M A } = 2 \overrightarrow { A N }
+= \underline { z } \cdot z
+N \left( 0 , y _ { 0 } - k x _ { 0 } \right)
+a , b , c
+b = \sqrt { 6 }
+\frac { \pi } { 3 }
+a _ { 2 } , \cdots , a _ { k }
+p _ { n } - \frac { 1 } { 2 } = - \frac { 1 } { 6 } \times \left( - \frac { 1 } { 3 } \right) ^ { n - 1 }
+n \leq s l a n t 2 0
+n = 7 , 9 , 1 1 , 1 3 , 1 5 , 1 7 , 1 9
+P ( | X - \mu | < \sigma ) = 0 . 6 8 3
+x ^ { 3 }
+\left( x ^ { 2 } + \frac { 2 } { x } \right)
+f ( 1 ) + f ( 2 )
+P A \perp
+m / / \alpha
+n = 1
+\alpha , \beta
+K ^ { 2 } = \frac { n ( a d - b c ) ^ { 2 } } { ( a + b ) ( c + d ) ( a + c ) ( b + d ) }
+2 . 0 7 2
+2 . 7 0 6
+f ( x ) = - \mathrm { e } ^ { a x }
+= 2 - \frac { p ^ { 2 } \left( y _ { 1 } ^ { 2 } - 2 p ^ { 2 } \right) } { y _ { 1 } ^ { 4 } - p ^ { 4 } } = 2 - \frac { p ^ { 2 } } { t + \frac { 3 p ^ { 4 } } { t } + 4 p ^ { 2 } }
+\frac { S _ { 1 } } { S _ { 2 } }
+\left( - \frac { 8 } { 1 3 } , - \frac { 1 2 } { 1 3 } \right)
+\left( \frac { 8 } { 1 3 } , \frac { 1 2 } { 1 3 } \right)
+f ( x ) = \mathrm { e } ^ { - x ^ { 2 } + 4 x - 9 }
+a < 5
+b < c < a
+\frac { \sqrt { 3 } } { 3 }
+1 - 0 . 1 ^ { 1 }
+f ( x ) ( x \in \mathbf { R } )
+( - 1 , 1 ) \cup ( 3 , + \infty )
+M = P
+B C
+( - 2 ) ^ { n - 1 }
+\frac { 1 } { 5 }
+a b ^ { c } < b a ^ { c }
+a \log _ { a } c > b \log _ { b } c
+- 2 \mathrm { i }
+S _ { n } = n ( n + 1 ) + \frac { n + 2 } { 2 ^ { n - 1 } } - 4
+f ( x ) = \frac { \sqrt { | x - 2 | - 1 } } { \log _ { 2 } ( x - 1 ) }
+| A B | = 4
+M N
+\sqrt { 2 }
+\left\{ \frac { a _ { n } } { b _ { n } } \right\}
+( 1 , 2 )
+\text { 求 直 线 } E C _ { 1 } \text { 与 } F D _ { 1 } \text { 所 成 角 的 余 弦 值 }
+f ( x )
+a > 2
+C : \frac { x ^ { 2 } } { a ^ { 2 } } - y ^ { 2 } = 1 ( a > 0 )
+A F _ { 1 } B F _ { 2 }
+\sqrt { 2 }
+( 1 , 2 )
+P ( 3 , 2 )
+P A \perp
+P C
+x \in \left[ 0 , \frac { \pi } { 2 } \right]
+\frac { 1 0 } { 9 }
+f ( x )
+b _ { 1 } , b _ { 2 }
+\frac { 4 } { 5 }
+x \in [ - 2 , 0 ]
+\frac { 3 } { 4 }
+P , Q
+\frac { 1 } { 2 2 }
+b _ { n }
+[ - 4 , 0 )
+( 0 , 1 ]
+[ - 4 , 0 ) \cup ( 0 , 1 ]
+\left( x _ { 0 } , 0 \right)
+\pi
+3 \pi
+( \sqrt [ 4 ] { 3 } , 2 ]
+2 ^ { 2 } \times 5 ^ { 2 } \times 1 1 ^ { 2 } \times
+x ^ { 4 }
+\log _ { a } b \cdot \log _ { b } a = 1
+A B B _ { 1 } A _ { 1 }
+[ B , A ]
+\overrightarrow { A B } = ( \tan \alpha , 1 )
+y ^ { 2 } = 4 x
+f \left( \frac { \pi } { 2 } \right) = - \frac { 2 } { 3 }
+M \cap P
+[ 0 ,
+P ( X < 0 )
+f ( x )
+1 8 0 ^ { \circ } - \beta - \theta _ { 1 } \in \left( 0 , 1 2 0 ^ { \circ } \right)
+B = \left\{ x \mid y = \log _ { 2 } ( | x | - 1 ) \right\}
+\hat { y } = \hat { b } x + \hat { a }
+\frac { 1 } { a _ { n + 1 } } - \frac { 1 } { a _ { 1 } } \in [ n , 2 n ]
+\frac { 2 } { 5 }
+M : x ^ { 2 } + ( y - 2 ) ^ { 2 } = 1
+m ( m \geqslant 3 )
+A , B
+A M N B
+\boldsymbol { a } \cdot \boldsymbol { b } = - 2
+\triangle A B C
+\ a n g l e E A F = \frac { \pi } { 4 }
+\sqrt { 2 } + 2
+\triangle C B D
+A B = 4
+C O
+\frac { 5 } { 4 } \pi
+t = 0
+A B
+\ t h e r e f o r e G N \P e r p B M
+x \in \mathbf { R }
+\ t h e r e f o r e E N / / \text { 平 面 } P B C
+\left( 0 , \mathrm { e } ^ { 2 } \right)
+f ( x ) = \frac { \sin x } { \sin x + 2 \sin \frac { x } { 2 } }
+\frac { \sqrt { 2 } } { 2 }
+P \left( x _ { 0 } , y _ { 0 } \right)
+C : y ^ { 2 } = 2 p x ( p > 0 )
+g \left( x _ { 1 } \right) = g \left( x _ { 2 } \right) > g \left( 2 - x _ { 1 } \right)
+h ( x ) < 0
+y = \frac { \mathrm { e } ^ { x } } { x + 2 }
+\left[ - \frac { 4 } { \mathrm { e } ^ { 3 } } , 0 \right)
+( x - n ) \mathrm { e } ^ { x } + \left[ r _ { 0 } ( x ) + r _ { 1 } ( x ) + r _ { 2 } ( x ) + \cdots + r _ { n - 1 } ( x ) \right] > 0
+\left[ 0 , \mathrm { e } ^ { 2 } \right]
+\overrightarrow { A C }
+P , Q
+\left( 0 , - \frac { 4 } { \mathrm { e } ^ { 3 } } \right]
+\frac { x ^ { 2 } } { 1 6 } - \frac { y ^ { 2 } } { 9 } = 1
+\frac { 1 3 7 2 \pi } { 3 }
+\triangle B C D
+A B =
+A D = 1
+\sin A = \sqrt { 6 } \sin C
+\log _ { a } \frac { 1 } { x + 1 } ( a > 0 \text { 且 } a \neq 1 )
+a =
+f ( x ) = x ^ { 3 } + 3 x , a , b , c \in \mathbf { R }
+f ( x )
+\left\{ a _ { n } \right\}
+a _ { 1 } d > 0 , d S _ { 4 } < 0
+\omega = \frac { \pi } { 2 }
+\left\{ a _ { n } \right\}
+| T A | \cdot | T B | = | T M | \cdot | T N |
+n = 5 - m
+| A F | = \frac { 5 } { 4 } x _ { 0 }
+E : \frac { x ^ { 2 } } { a ^ { 2 } } +
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+y ^ { 2 } = 2 p x ( p > 0 )
+\frac { 1 } { 3 }
+\ a n g l e B C D = 4 5 ^ { \circ }
+f ( x ) = a \sin ( \pi x + \alpha ) + b \cos ( \pi x + \beta )
+\left( - \infty , - \frac { 4 } { 3 } \right)
+y = f ( x )
+P - A B C
+P A
+A B
+\ a n g l e C E F = 9 0 ^ { \circ }
+3 0 ^ { \circ }
+\ a n g l e P O Q = \frac { \pi } { 3 }
+\triangle P O Q
+O x
+b = \left( \frac { 1 } { 2 } \right) ^ { - 0 . 8 }
+A C = B C = 6
+\left\{ a _ { n } \right\} \left( n \in \mathbf { N } ^ { * } \right)
+\text { 1 . } 4 1 4 2 < \sqrt { 2 } < 1 . 4 1 4 3
+y \geqslant x
+\text { 已 知 各 项 均 为 正 数 的 数 列 } \left\{ a _ { n } \right\} \text { , 其 前 } n \text { 项 和 } S _ { n } \text { 满 足 }
+\overrightarrow { P A } \cdot \overrightarrow { P B } = \overrightarrow { P B }
+A B C
+\left\{ a _ { n } + a _ { n + 1 } \right\}
+\left\{ a _ { n } \right\}
+\overrightarrow { A D } = a
+y = \mathrm { e } ^ { a x } + 3 x , x \in \mathbf { R }
+a > 0
+- ( x - 3 a + 1 ) ^ { 2 } + ( 2 a - 1 ) ^ { 2 } + a
+a =
+a = ( t , t + 1 )
+\{ 1 , 2 , 3 , \cdots , 1 1 \}
+f ( x )
+f ( x y ) = f ( x ) + f ( y )
+N ( 2 8 0 , 2 5 )
+P ( \xi = 2 ) =
+\frac { \pi } { 6 }
+f ( x ) + g ( x )
+A \sin \left( \omega x + \frac { \pi } { 6 } \right) ( A > 0 , \omega > 0 )
+g ( x )
+\frac { 2 - x } { x + 4 } > 0
+3 2 \cos ^ { 6 } \theta - \cos 6 \theta - 6 \cos 4 \theta
+1 2 \cos ^ { 2 } 2 \theta + 1 2 \cos 2 \theta + 4
+- \cos 6 \theta = - 4 \cos ^ { 3 } 2 \theta + 3 \cos 2 \theta
+- 1 5 \cos 2 \theta = - 1 5 \cos 2 \theta
+A B C D
+\overrightarrow { C O } = \lambda \overrightarrow { C B } + \mu \overrightarrow { C A }
+g ( x )
+\sqrt { 2 }
+\sqrt { 3 }
+C M
+S _ { n } \text { , }
+F _ { 1 }
+N = N + \frac { 1 } { i }
+A B = 2 \sqrt { 3 }
+B C = 6
+( n - 2 )
+f \left( x _ { 2 } \right) > 2 \left( x _ { 1 } - x _ { 2 } \right) ,
+D A = 6 ,
+a \neq - 1
+g ^ { \prime } ( x ) =
+[ - 2 , 1 ]
+g ^ { \prime } ( x )
+E F \perp P B
+A B C D
+2 ^ { \frac { 1 } { x } } - x ^ { \mathrm { e a } } > 0
+f ( x ) = \log _ { a } ( 4 x - 3 ) + 2
+\left( \frac { 3 } { 4 } , 2 \right)
+\frac { \sqrt { 2 } } { 3 }
+x ^ { 2 } + y ^ { 2 } = 5
+\frac { n } { n + 1 } \rightarrow 1
+1 + 6 t ^ { 2 } + t ^ { 4 } = \frac { 4 1 } { 1 6 }
+\sqrt { 1 0 }
+\frac { \sqrt { 2 2 } } { 2 }
+\sqrt { a } + \sqrt { b } > \sqrt { c } + \sqrt { d }
+\sin \theta + \cos \theta
+4 \sqrt { 3 }
+l : \frac { x _ { 0 } x } { a ^ { 2 } } + \frac { y _ { 0 } y } { b ^ { 2 } } = 1
+S _ { n }
+a _ { 8 } = 2 a _ { 3 }
+( \alpha , \beta )
+m x ^ { 2 } + x + 1 > 0
+e + 1
+2 \text { 位 男 生 }
+h ( x )
+h ( x ) _ { \min } = h ( 0 ) = 0 \geqslant 0
+\frac { 1 - x } { 1 + x } \leq s l a n t \frac { 1 } { \mathrm { e } ^ { 2 x } }
+F ( x ) = ( 1 + x ) \mathrm { e } ^ { - 2 x } - a x - \frac { x ^ { 3 } } { 2 } - 1 - 2 x \cos x ( 0 \leq s l a n t x \leq s l a n t 1 )
+x \in [ 0 , 1 ]
+x \in \mathbf { R }
+2 \sqrt { 2 }
+\frac { 7 } { 3 }
+i _ { 1 } i _ { 2 } \cdots i _ { n }
+1 , 2 , \cdots , n
+( 2 , + \infty )
+x ^ { 3 } - 3 x ^ { 2 } + ( 1 - k ) x + 4 = 0
+x _ { 2 } \in [ 0 , 2 ]
+[ 0 , 2 ]
+A =
+5 - a ( a + 2 ) ]
+z = \frac { 3 + 2 \mathrm { i } } { 2 - \mathrm { i } }
+\text { 若 } \overrightarrow { O M } = \frac { 3 } { 2 } \overrightarrow { O N } \text { ( } O \text { 为 坐 标 原 点 ) }
+x + y + 7 = 0
+g ( x ) - 2
+f \left( x _ { 3 } \right) \leq s l a n t f ( 0 ) = \frac { 1 } { 2 }
+x \geqslant 0
+- \frac { 3 } { 2 }
+- \frac { 1 } { 2 }
+- 2
+\sin C
+\frac { \sqrt { 3 } } { 3 }
+a _ { 8 } + a _ { 9 } = 1
+\frac { ( 1 + x ) ( 1 + \ln x ) } { x } , g ( x ) = \ln x - m x ( m \in \mathbf { R } ) .
+\triangle P F _ { 1 } F _ { 2 }
+\frac { 5 \pi } { 6 }
+g ( x ) \leq s l a n t f ( x )
+| x - y | < 1
+[ 0 , 6 ]
+\left[ 0 , \frac { 3 } { 2 } \right]
+b _ { 3 } = 9
+S _ { n }
++ \cdots + b _ { 2 1 } =
+\frac { 6 3 } { 2 }
+C : \frac { x ^ { 2 } } { 8 } - \frac { y ^ { 2 } } { m } = 1 ( m > 0 )
+\left[ \frac { \sqrt { 6 } } { 2 } - 1 , \frac { \sqrt { 6 } } { 2 } + 1 \right]
+P H = 4
+\frac { \sqrt { 1 5 } } { 1 5 }
+P ( x , y )
+4 \sqrt { 2 }
+4 0
+4 9
+y = \sqrt { 9 - x ^ { 2 } } + \sqrt { 1 - x ^ { 2 } }
+1 0 0 \pi
+A B
+\| A C \| + \| C B \| > \| A B \|
+0 . 4
+f ( x )
+O ^ { \prime } A ^ { \prime } B ^ { \prime } C ^ { \prime }
+A B C D -
+E F M
+p + q
+L , M , N
+\left( 0 , \frac { p } { 2 } \right)
+\frac { \pi } { 4 }
+A B = B C = 4
+A , B , C
+m / / \alpha
+A B C D
+A B C D
+S < 2
+F
+a _ { 1 } = 0
+\frac { \sqrt { 3 } x ^ { 2 } } { 3 } - y ^ { 2 } = 1
+a , b , c \text { , }
+b , c
+1 0
+A = \{ - 1 , 0 , 1 , 2 \}
+\{ x \mid - 2 < x < 2 \}
+4 \sqrt { 2 }
+2 \sqrt { 5 }
+- 1
+z _ { 1 } = - \frac { 1 } { 2 } + \frac { \sqrt { 3 } } { 2 } \mathrm { i }
+x _ { 1 } + x _ { 2 } =
+\left| z _ { 1 } \right| = \left| z _ { 2 } \right|
+\triangle A B C
+\frac { 5 } { 2 }
+2 \cos A - 3 = 4 \cos 2 A
+C D
+\left| x _ { 2 } - x _ { 1 } \right|
+\frac { 3 } { 2 }
+\frac { z } { z - \mathrm { i } } = \mathrm { i }
+f ( t ) = 2 ^ { t } + t
+5
+f ( x ) = 1
+\ a n g l e E A B = 3 0 ^ { \circ }
+\log _ { 2 } x , x \geqslant 1
+\left\{ a _ { n } \right\}
+y = k x - 1
+\frac { 1 } { 4 }
+\left\{ a _ { n } \right\}
+b _ { n } = \frac { a _ { n + 2 } } { a _ { n + 1 } a _ { n } }
+( - \infty , - 1 )
+S _ { 8 } - S _ { 3 } = 4 5
+\left[ \frac { 1 } { 3 2 } , + \infty \right)
+C
+2 b \cos B = a \cos C +
+A B , C D
+\text { 前 } n \text { 项 和 } T _ { n }
+A \left( x _ { 1 } , y _ { 1 } \right) , B \left( x _ { 2 } , \right.
+\left\{ a _ { n } \right\}
+a _ { 1 0 1 0 } > 0
+f \left( a _ { 1 } \right) + f \left( a _ { 2 } \right) + f \left( a _ { 3 } \right) + \cdots + f \left( a _ { 2 0 1 8 } \right) + f \left( a _ { 2 0 1 9 } \right)
+S _ { 6 } =
+[ 2 , 4 ]
+\frac { \pi } { 2 }
+f ( x ) = \sin \left( 2 x + \frac { \pi } { 3 } \right)
+x _ { C } = x _ { 1 } + x _ { 2 } = 2 x _ { 0 }
+\boldsymbol { a } \cdot ( \boldsymbol { a } + \boldsymbol { b } ) = 2
+| \boldsymbol { b } | = 2 \sqrt { 3 }
+f ( x )
+x \neq 0
+\frac { \ln ( t + 1 ) } { t } < \frac { \ln t } { t - 1 }
+\cos \left( \alpha - \frac { 5 \pi } { 1 2 } \right)
+a \neq 2 ,
+( - \infty , 2 )
+x _ { 1 } + x _ { 2 } + x _ { 3 }
+a b > 0 , b c > 0
+\frac { 1 } { 2 }
+x ^ { 2 } +
+\ t h e r e f o r e | 4 \lambda - 4 | = \frac { \sqrt { 5 } } { 5 }
+2 \sqrt { 6 }
+E : \frac { x ^ { 2 } } { a ^ { 2 } } +
+g ( x - 1 )
+\text { 所 爬 行 的 第 } i + 2 \text { 段 与 第 } i \text { 段 所 在 直 线 必 须 }
+2 , 3 , 4 , 5 ) \text { 段 }
+a , b \in A
+f ( x ) = x ^ { 3 } - 1 2 x + a
+( - \infty , - 8 )
+( - 1 6 , 1 6 )
+a < 1
+f \left( x _ { 0 } \right) < a
+f ( x ) = x \mathrm { e } ^ { x } - a ( x - 1 )
+g \left( x _ { 0 } \right)
+\left[ \frac { 1 } { \mathrm { e } ^ { 2 } } , \frac { 1 } { \mathrm { e } } \right)
+- x ^ { 2 } + 2 x + \frac { 1 } { 2 } , 0 \leq s l a n t x \leq s l a n t 2
+- 4
+n = k
+a + b
+2 0 \sqrt { 2 1 }
+t + 3
+x ^ { 2 } - m y ^ { 2 } = 3 m
+\{ 1 , 3 \}
+\{ 1 , 2 , 3 , 4 , 5 , 7 \}
+\frac { 1 } { 4 }
+B D _ { 1 }
+( k , k + 1 )
+S = 0
+k \leq s l a n t 1 0 ?
+f ( x )
+x = \frac { 3 } { 2 a }
+D _ { 1 }
+f \left( x _ { 2 } \right)
+\left\{ \frac { 1 } { f \left( x _ { 1 } \right) } \mid x _ { 1 } > 2 \right\} = \left( \frac { 1 } { f ( 2 ) } , 0 \right)
+a
+a x - y + 2 = 0
+c \cos A + 2 b \cos B - a \cos ( A + B ) = 0
+\frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 1 , b > 0 )
+S _ { \triangle A B C } = 2
+- 3
+\frac { \sqrt { 6 } } { 3 }
+n = k
+a _ { n } + S _ { n }
+P ( 0 . 8 < Z < 8 . 3 )
+4 \sqrt { 2 }
+1 9 0 \mathrm { ~ c m }
+1 8 5 \mathrm { ~ c m }
+A B C D
+( - 1 , + \infty )
+F _ { 1 } ( - \sqrt { 3 } , 0 )
+F _ { 2 } ( \sqrt { 3 } , 0 )
+F _ { 1 } F _ { 2 }
+\overrightarrow { T A } + \overrightarrow { T P } = \overrightarrow { T Q }
+A , B
+a _ { n } =
+A \cup B
+\{ 0 , 1 , 2 \}
+\left\{ \frac { 1 } { 2 } , 1 , 2 , 4 \right\}
+\sqrt { 3 }
+y = f ( x )
+\{ 0 , 2 \}
+\frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+a = - 1
+( - \pi , \pi )
+\triangle A B C
+A , B
+[ x ]
+\triangle A B C
+P A \perp \text { 底 面 } A B C D
+\ a n g l e B A D = 1 2 0 ^ { \circ }
+f ( x ) = \ln ( 1 + a x ) - \frac { 2 x } { x + 2 }
+\text { 设 } \left\{ a _ { n } \right\} \text { 是 等 差 数 列 , 且 } a _ { 1 } = 3 , a _ { 2 } + a _ { 5 }
+x \in ( - \infty , 0 )
+x + y \leq s l a n t 4
+\frac { \sqrt { 5 } + 1 } { 2 }
+0 . 4 5
+\triangle A B C
+\left\{ a _ { n } \right\}
+\varphi ( 1 ) = 0
+1 , 2 , 3 , 4
+A B C D
+A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+1 2 \pi
+\frac { y ^ { 2 } } { 9 } - \frac { x ^ { 2 } } { 1 6 } = 1
+\left| z _ { 1 } + A \right| \left| z _ { 2 } + A \right| = | A | ^ { 2 }
+\frac { z _ { 1 } + A } { z _ { 2 } + A } = \left| \frac { z _ { 1 } + A } { z _ { 2 } + A } \right|
+A , B , C
+( 3 , 0 )
+\mathrm { m g } / \mathrm { L }
+x O y
+\sqrt { a } < \sqrt { b }
+a < b
+V _ { 2 }
+\triangle A B F
+\sqrt { 3 }
+A , B
+| A B | =
+1 0
+f \left( \frac { \pi } { 4 } \right) = 1
+f ( x ) = x ^ { 4 } - 2 x ^ { 3 }
+y = 2 x - 3
+A , B
+\ t h e r e f o r e 2 x + y = ( 2 x + y ) \left( \frac { 4 } { y } + \frac { 2 } { x } \right) = 8 + \frac { 8 x } { y } + \frac { 2 y } { x } \geqslant 8 + 2 \sqrt { \frac { 8 x } { y } \times \frac { 2 y } { x } } = 1 6
+\frac { 8 x } { y } = \frac { 2 y } { x }
+f ( x ) = \ln ( 1 + x ) - \frac { 2 x } { 2 a + x }
+f ( x )
+- \frac { 3 } { 5 }
+A C B D
+c = f ( m )
+c < a < b
+f ( x ) = ( x - 1 ) \mathrm { e } ^ { x } -
+a _ { 1 1 } ( x - 1 ) ^ { 1 1 }
+- \frac { \pi } { 3 }
+x \in [ 0 , 1 )
+2 \sqrt { 5 }
+( - \infty , 0 ) \cup ( 1 , + \infty )
+B F D _ { 1 } E
+F _ { 1 } F _ { 2 }
+4 b
+A \cap \left( \ c o m p l e m e n t _ { U } B \right) =
+\overrightarrow { O C } = x \overrightarrow { O A } +
+( r , \theta ) \left( r \geqslant 0 , - 1 8 0 ^ { \circ } < \theta \leq s l a n t 1 8 0 ^ { \circ } \right)
+( 4 , 4 )
+a _ { 1 } + 2 a _ { 2 } + 3 a _ { 3 } + \cdots + n a _ { n } =
+\ln 5 \approx 1 . 6
+a _ { 1 0 } ( x - 1 ) ^ { 1 0 }
+m , n , p \in \mathbf { N } ^ { * }
+\left( x ^ { 2 } + \frac { 1 } { x ^ { 3 } } \right) ^ { 5 }
+\forall a , b , c \in T
+a b c \in T ; \forall x
+f ( x + 6 ) = f ( x ) + f ( 3 )
+\frac { f \left( x _ { 1 } \right) - f \left( x _ { 2 } \right) } { x _ { 1 } - x _ { 2 } } > 0
+f ( x )
+A C = 1
+2 : 1
+3 : 1
+A , B
+i = i + 1
+f ( x ) \geqslant 0
+y = f ^ { - 1 } ( x )
+a , b , c , a \tan B = ( 2 c - a ) \tan A
+A = \frac { \pi } { 4 } , b = 2 \sqrt { 3 }
+( 1 , f ( 1 ) )
+f ( x ) \text { 在 } ( 1 , f ( x ) )
+4 x - 2 y - 3 = 0
+f ( x ) = | x |
+\text { 已 知 向 量 } \boldsymbol { a } = \left( 2 \sin ^ { 4 } \frac { x } { 2 } , \cos ^ { 4 } \frac { x } { 2 } - f ( x ) \right) , \boldsymbol { b } = \left( 1 , - \frac { 1 } { 2 } \right)
+A B =
+A = \left\{ y \mid y = 2 ^ { x - 1 } \right\}
+A \cup B
+8 0
+\xi
+3 0
+f ( x ) \text { 图 象 的 一 条 对 称 轴 }
+\text { 则 当 } x < 0 \text { 时 }
+f ( x ) =
+x ^ { 2 } + ( 4 a - 3 ) x + 3 a
+x \geqslant 0
+a \neq 1
+\left[ \frac { 2 } { 3 } , \frac { 3 } { 4 } \right]
+y = 2 - x ( x \leq s l a n t 2 )
+h ( x ) = \log _ { a } ( x + 1 ) + 1
+4 , C D = 1 , A D = 2 \sqrt { 6 } , A C = 5
+F _ { 1 } , F _ { 2 }
+a , b , c
+\frac { \pi } { 3 }
+f ( - x ) = 0
+P
+\frac { a ^ { 2 } + b ^ { 2 } } { a - b }
+A B
+F _ { 1 }
+b =
+| \boldsymbol { b } | =
+\lambda ( 2 a + b ) ^ { 2 } + ( \cdots ) ^ { 2 } = c
+a = \frac { 3 } { 2 } b
+a _ { 1 } = 3
+( - \infty ,
+\frac { 1 } { 4 }
+" a = 1 "
+\cos \left( \frac { \pi } { 3 } + \alpha \right) = - \frac { 3 } { 5 }
+y = a
+S _ { n }
+a _ { i } < \frac { 7 } { 6 } i
+f _ { k + 1 } > f _ { k }
+a _ { 1 } + 6 \neq \frac { 3 5 } { 6 }
+\overrightarrow { B _ { 1 } B _ { 2 } } = 2 \overrightarrow { B _ { 2 } C _ { 1 } }
+M A
+B , C
+A _ { 1 } B _ { 1 } C _ { 1 }
+\alpha , \beta
+A \cup B = \mathbf { R }
+A B
+4 8 + 2 4 \sqrt { 2 }
+6 \sqrt { 2 } \mathrm { ~ c m }
+\lim _ { n \rightarrow \infty } \frac { S _ { n } } { n ^ { 2 } } =
+b = 2 \sqrt { 3 }
++ 2 ) = 0
+y = \pm \frac { 1 } { 3 } x
+y = \pm \frac { 1 } { 2 } x
+a _ { 2 } = 3 a _ { 1 }
+\triangle A B C
+\left\{ b _ { n } \right\}
+p : \frac { 1 } { a } > \frac { 1 } { 4 }
+A D = \sqrt { 2 } B D
+\ a n g l e B P C = \ a n g l e B A D = 9 0 ^ { \circ }
+A D = \frac { 1 } { 2 } A B
+( 0 , 5 )
+\frac { 5 } { 2 }
+0 . 0 4 0
+\frac { x ^ { 2 } } { 2 5 } + \frac { y ^ { 2 } } { 1 6 } = 1
+C _ { 2 }
+x ^ { 2 } + y ^ { 2 } - 4 x + 2 y = 0
+2 \sqrt { 5 }
+2 \sqrt { 3 }
+y ^ { 2 } = 6 x
+I = \{ ( x , y ) \mid x , y \in \mathbf { R } \}
+\left\{ ( x , y ) \mid \frac { y - 3 } { x - 2 } = 1 \right\} , N = \{ ( x , y ) \mid y \neq x + 1 \}
+\ c o m p l e m e n t _ { I } M \cap \ c o m p l e m e n t _ { I } N =
+\frac { \sqrt { 2 } } { 2 }
+2 \sqrt { 2 } \pi
+\frac { 1 } { 6 } \sin C
+f ( x ) = - 2 x ^ { 2 } - 2 x - 1
+c = ( m , 3 )
+A B
+A B
+C
+B C
+\o v e r p a r e n { B A }
+x + y = \sqrt { 2 } + 1
+a _ { 3 }
+m > n > p > q
+x = x + 1
+A B E F
+\triangle A F _ { 1 } F _ { 2 }
+f ( x ) = \frac { 2 } { x } + \ln x
+y = f ( x ) - x
+f ( x ) > k x
+B C
+6 0 ^ { \circ }
+\frac { \sqrt { 3 } } { 4 }
+" a > b > 0 "
+x ^ { 2 } - 2 x - m \geqslant 0
+A B = 2
+n > 0
+E , F
+\cos 2 \alpha + 1
+N \left( \mu , \sigma ^ { 2 } \right)
+S _ { n }
+v _ { 3 } \mathrm { ~ k m } / \mathrm { h }
+P ( X < 0 )
+\sum _ { r = 1 } ^ { 9 } \mathrm { C } _ { r + 1 } ^ { 2 } =
+A D =
+2 \sin B \cos C - \sin ( B - C )
+\left\{ a _ { n } \right\}
+a _ { 1 } , a _ { 2 } , \cdots , a _ { 1 0 0 }
+[ 0 , 1 )
+\left[ \frac { 1 } { 3 } , \frac { 2 } { 3 } \right)
+a _ { 5 } = 5
+\left\{ \frac { 1 } { a _ { n } a _ { n + 1 } } \right\}
+\frac { 1 } { 1 6 } b
+\frac { 9 9 } { 1 0 0 }
+\cos \alpha =
+\left( \frac { \pi } { 6 } , \frac { 2 \pi } { 3 } \right)
+\frac { 1 } { 4 } \boldsymbol { b }
+x \in \mathbf { R }
+m \in \mathbf { R }
+1 0 0 0
+\frac { \pi } { 6 } + \alpha
+\left( - \frac { 7 \pi } { 1 2 } , 0 \right)
+\sum _ { i = 1 } ^ { 4 } p _ { i } = 1
+p _ { 1 } = p _ { 4 } = 0 . 3 , p _ { 2 } = p _ { 3 } = 0 . 2
+f ( x ) = \sin ( \omega x + \varphi ) \left( \omega > 0 , | \varphi | < \frac { \pi } { 2 } \right)
+\triangle A B C
+\left| x _ { 1 } - x _ { 2 } \right|
+\triangle A B C
+\frac { \pi } { 2 }
+B C
+P C \perp D E
+A B
+- \frac { 3 } { 4 } \left( x \in \left[ 0 , \frac { \pi } { 2 } \right] \right)
+\ a n g l e A O P = \alpha ,
+| \overrightarrow { B M } | + | \overrightarrow { A M } | \geqslant 2 | \overrightarrow { P M } |
+| P A | + | P B |
+\frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 0 , b > 0 )
+A B = A A _ { 1 } = 1
+f ( x ) = \frac { 1 } { x ^ { 2 } - 1 }
+m =
+l
+\frac { x _ { 0 } x } { 2 } + y _ { 0 } y = 1
+\frac { x ^ { 2 } } { 3 } - y ^ { 2 } = 1
+x ^ { 2 } - \frac { y ^ { 2 } } { 3 } = 1
+\boldsymbol { a } \cdot \boldsymbol { b } \neq 0
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+\left( 1 + \tan 1 8 ^ { \circ } \right) \left( 1 + \tan 2 7 ^ { \circ } \right)
+k _ { n } \left( k _ { n } > \right.
+\left\{ y _ { n } \right\}
+x _ { 1 } \cdot x _ { 3 } \cdot x _ { 5 } \cdot \cdots \cdot x _ { 2 n - 1 } < \sqrt { \frac { 1 - x _ { n } } { 1 + x _ { n } } } <
+y = \frac { x } { \mathrm { e } ^ { | x | } }
+a b \neq 0
+x ^ { 2 } +
+( y - 2 ) ^ { 2 } = 1
+\left\{ a _ { n } \right\} , \left\{ b _ { n } \right\}
+| x - y | > 1
+( a , c ) = ( 3 , 4 )
+c \neq 2
+p \wedge q
+\text { 终 边 与 单 位 圆 的 交 点 为 } \left( - \frac { \sqrt { 3 } } { 2 } , a \right)
+a < c < b
+f ( x ) =
+y = 2 ( x - 4 )
+S A = A B = B C = 1
+\max \left\{ s _ { 1 } ^ { 2 } , s _ { 2 } ^ { 2 } \right\}
+x _ { 1 } , x _ { 2 } , \cdots , x _ { n }
+B C
+n = 0
+\sqrt { 5 }
+E , F , H
+\frac { 1 0 } { 1 1 }
+B = \{ x \in \mathbf { R } \mid - 1 < x < m \}
+\left( 0 , \frac { 4 } { \mathrm { e } } \right)
+\left( 0 , \frac { 4 } { \mathrm { e } ^ { 2 } } \right)
+| B P | = 3 | P A |
+\rho \sin \left( \theta - \frac { \pi } { 6 } \right) = \frac { \sqrt { 3 } } { 2 }
+( 0 , 1 )
+F _ { 2 } , P
+b > 0
+( - \infty , 1 )
+B D = C D = 3 , A D = B C = 2
+C : \frac { x ^ { 2 } } { 9 } - \frac { y ^ { 2 } } { 1 6 } = 1
+F _ { 1 } , F _ { 2 } , P
+\left( \frac { 3 \sqrt { 3 } } { 2 } , - \frac { 3 } { 2 } \right)
+\text { B E E }
+\sqrt { 2 } - 1
+\boldsymbol { c } \cdot ( \boldsymbol { a } + \boldsymbol { b } ) \geqslant 1 , | \boldsymbol { a } + \boldsymbol { b } - 2 \boldsymbol { c } | ^ { 2 } = ( \boldsymbol { a } +
+\{ 2 , 3 , 4 , 5 \}
+2 \sqrt { 3 }
+y ^ { 2 } = - 3 6 x
+a = \log _ { 2 } 0 . 2 , b = 2 ^ { 0 . 2 } , c = 0 . 2 ^ { 0 . 3 }
+a < b < c
+\{ x \mid 0 < x \leq s l a n t 2 \}
+A , B
+\frac { 3 \pi } { 2 }
+S _ { n } ^ { 2 } -
+\left( n ^ { 2 } + n - 1 \right) S _ { n } - \left( n ^ { 2 } + n \right) = 0
+0 . 0 1 0
+0 . 0 0 1
+5 . 0 2 4
+p =
+a ^ { 2 } + b ^ { 2 } \geqslant 2
+f ^ { \prime } ( x ) = \frac { b } { x }
+3 1 . 2
+A B C
+A \cap B
+A ( 2 , 0 )
+f ( x ) = \left( 2 + x + a x ^ { 2 } \right) \ln ( 1 +
+- 1 < x < 0
+B E
+b = p \sqrt { x y }
+\left( - \infty , - \frac { 1 } { 2 } \right) \cup ( 0 , 2 \sqrt { 2 } )
+B D
+\left\{ a _ { n } \right\}
+( A , B )
+x + y = 2
+k _ { C A } , k _ { O B } , k _ { C C } , k _ { C D }
+C , D
+P F _ { 1 }
+S _ { n }
+a _ { 4 } ^ { 2 } = a _ { 2 } a _ { 8 }
+y = \ln \sqrt { x } + 1
+B ( 0 , 1 )
+e ^ { 2 x - 2 }
+4 \sqrt { 2 }
+f ( x + 2 ) =
+| M A | ^ { 2 } +
+A P _ { 1 } P _ { 2 } P _ { 3 }
+\triangle A P _ { 3 } C
+\left( \frac { \pi } { 2 } , \pi \right)
+A = \frac { \pi } { 3 }
+( - 2 , - 3 , 5 )
+A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+B _ { 1 } B D
+\sin \left( \alpha + \frac { \pi } { 4 } \right) = \frac { 1 } { 4 }
+( - 4 , 6 , - 2 )
+C ( 2 , 1 )
+A B
+B C
+P _ { 4 }
+\tan \theta
+\frac { 3 \sqrt { 1 5 } } { 4 }
+a =
+b _ { n } = \frac { a _ { n + 1 } } { S _ { n } S _ { n + 1 } }
+1 0 ^ { 1 0 . 1 }
+1 0 ^ { - 1 0 . 1 }
+\mathrm { C D } _ { 1 }
+x _ { 1 } x _ { 2 } \geqslant 2
+\left\{ a _ { n } \right\}
+a > 0 , b > 0
+\boldsymbol { n } = \left( \mathrm { e } ^ { - a x } , - 1 \right)
+f ( x ) = \boldsymbol { m } \cdot \boldsymbol { n }
+a b < \left( \frac { a + b } { 2 } \right) ^ { 2 }
+G H / / B D
+0 < a < b
+B C D E
+\bar { x } = 4 5 \times 0 . 1 + 5 5 \times 0 . 1 5 + 6 5 \times 0 . 2 + 7 5 \times 0 . 3 + 8 5 \times 0 . 1 5 + 9 5 \times 0 . 1 = 7 0 . 5
+( 1 < m < 4 )
+- 4 0 \mathrm { e } ^ { m }
+y ^ { \prime } = 0
+y ^ { \prime } < 0
+2 \times 5 2 \times 2 0 0 > 1 0 4 \times 2 = 2 0 8
+\theta
+\overrightarrow { C Q }
+\mathcal { C }
+f ( c ) > 0 ,
+f ( x ) = \ln x
+T = 2 \times 3 = 6
+f ( 2 0 0 9 ) = f ( - 1 + 6 \times 3 3 5 ) = f ( - 1 ) = 1
+P , Q
+y = f ( x )
+y = 3
+( 3 x - 1 ) ( x + a ) ^ { 5 } ( a \in \mathbf { R } )
+x ^ { 3 }
+f ( x ) = \frac { 1 } { 3 } x ^ { 3 } - \frac { 1 + a } { 2 } x ^ { 2 } + a x ( a \in \mathbf { R } )
+f ( x )
+f ( x ) = \alpha \cos 2 x + ( \alpha - 1 ) \cdot
+A _ { n }
+\left| f ^ { \prime } ( x ) \right| \leq s l a n t 2 A
+a _ { n } , b _ { n } , a _ { n + 1 }
+x \in \mathbf { R }
+a _ { n } = ( n + 1 ) \left( \frac { 9 } { 1 0 } \right) ^ { n }
+n =
+a _ { 8 } = a _ { 9 }
+( - 1 0 , + \infty )
+g ( x )
+x _ { 1 } , \cdots , x _ { n }
+f ( x )
+M N \perp \alpha
+P \left( x _ { 0 } , y _ { 0 } \right)
+1 2 0 ^ { \circ }
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+A P , B P , A Q , B Q
+a _ { 1 } =
+( 2 \boldsymbol { a } - \boldsymbol { b } ) \cdot \boldsymbol { a } =
+| \boldsymbol { a } | = 2
+\frac { 5 } { 6 }
+k _ { 1 } , k _ { 2 } , k _ { 3 }
+k _ { 3 } < k _ { 1 } < k _ { 2 }
+2 x - y - 1 = 0
+r = \frac { \sum _ { i = 1 } ^ { n } \left( t _ { i } - \bar { t } \right) \left( y _ { i } - \bar { y } \right) } { \sqrt { \sum _ { i = 1 } ^ { n } \left( t _ { i } - \bar { t } \right) ^ { 2 } \sum _ { i = 1 } ^ { n } \left( y _ { i } - \bar { y } \right) ^ { 2 } } }
+\bar { y } = 5 4
+\hat { y } = \hat { b } t + \hat { a } = \frac { 3 } { 4 } t + 5 1 \text { . }
+t = 1 0
+x , y
+1 + \sqrt { 2 }
+S _ { n }
+a _ { 3 } = 2 a _ { 1 }
+( - \infty , 0 )
+P F \perp x
+f ( x ) _ { \min } =
+f ( 0 ) = 0
+\hat { b } =
+\alpha , \beta \in \left( 0 , \frac { \pi } { 2 } \right)
+a _ { 2 } a _ { 6 } a _ { 1 0 } = 3 \sqrt { 3 }
+m =
+P , Q
+f ( x ) > g ( x )
+\frac { 4 } { 8 1 }
+p , q
+\sqrt { \sum _ { i = 1 } ^ { 7 } \left( y _ { i } - \bar { y } \right) ^ { 2 } } = 0 . 5 5 , \sqrt { 7 } \approx 2 . 6 4 6
+- 1 0
+y ^ { 2 } = 4 x
+\frac { 2 } { 3 }
+S _ { k } = 9
+\frac { 1 } { z } = 2 + 3 \mathrm { i }
+\bar { z }
+\left\{ a _ { n } \right\}
+B E = \frac { B C ^ { 2 } } { B F } = \sqrt { 6 } + \sqrt { 2 }
+a > 0
+( \mu - \sigma , \mu + 2 \sigma )
+\frac { | F P | } { | M N | }
+\frac { 4 8 } { 2 5 }
+\text { 且 相 邻 两 层 中 的 下 一 层 灯 数 是 上 一 层 灯 数 的 } 2 \text { 倍 }
+y = \sin x
+\alpha - l - \beta
+B \in l
+l _ { 2 } : ( a - 2 ) x + 3 y + 2 a
+= 0
+\frac { 1 } { 6 }
+2 n = \frac { 2 } { 2 a _ { n } - 1 }
+a = 2
+( 0 , - 4 )
+X + Y = 4
+i \left( i \in \mathbf { N } ^ { * } \right)
+= a + \frac { x } { b } ( a , b \in \mathbf { R } )
+\sqrt { 5 }
+\log _ { a } ( x - a k ) = \log _ { a } 2 \left( x ^ { 2 } - a ^ { 2 } \right)
+P \cap Q =
+\alpha / / \beta
+P B C
+E F
+C B = 3
+D , E
+A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+( - 1 , 1 ]
+a = \ln 1 . 3
+B ( 0 , 1 )
+A B
+a = 1
+x _ { 1 } , x _ { 2 }
+\theta \in
+A , B , C
+\frac { 1 } { a } + \frac { 1 } { c } = 1
+- 1
+A B = 2
+A D
+A B = 2 \sqrt { 7 } , A E =
+B = \{ x \mid x - y = 1 \}
+a , b , c
+a > b > c
+a > c > b
+A ( 1 , 3 )
+y = \frac { x - 1 } { a x - 1 }
+F = \frac { 7 6 0 0 0 v } { v ^ { 2 } + 1 8 v + 2 0 l }
+C P
+\alpha \perp \beta
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+l : x = 4
+A B
+0 . 5 8
+x , y \in \mathbf { R }
+1 , 2
+a ^ { x } = b ^ { y } = 3
+x \in ( 0 , + \infty )
+\frac { a } { b } =
+\left( - \frac { \pi } { 2 } , - \frac { \pi } { 4 } \right)
+y = f ( x )
+a < 0
+f ^ { \prime } ( x )
+x = 2
+a = 0
+x = 1
+x = 1
+S _ { n }
+x , y
+\ e x i s t s x _ { 0 } \in ( 1 , + \infty )
+A B = 2
+h = \sin \theta + 2 \sin \varphi = \sin \theta + \frac { 1 } { \sin \theta }
+F _ { 1 } , F _ { 2 }
+B D = 3 C D
+\bar { z }
+\ a n g l e D A B = 6 0 ^ { \circ }
+A - P B - C
+B ( - 1 , 1 )
+( x - 3 ) ^ { 2 } + ( y + 1 ) ^ { 2 } = 4
+[ 1 , 4 ]
+f ( x )
+0 < a < 1
+f ( x )
+( 0 , + \infty )
+| A F | = 2 | F B |
+5 \sqrt { 2 }
+C = 9 0 ^ { \circ }
+\overrightarrow { C B } \cdot \overrightarrow { C P }
+- \frac { \pi } { 2 } < x < 0
+\left( - \frac { \pi } { 2 } , \frac { \pi } { 3 } \right)
+3 \text { 或 } 5
+x = - 1
+( 0 , + \infty )
+\triangle A B C
+y \in \mathbf { R }
+\frac { 1 } { y }
+\frac { 1 } { 2 }
+3 \sim 7
+\boldsymbol { a } = ( - 1 , 1 )
+\frac { 1 } { 6 }
+D _ { 1 } E
+\frac { 1 1 \pi } { 6 }
+a _ { 1 } , a _ { 2 } , \cdots , a _ { n } , \cdots
+g ( x )
+\arccos \frac { 4 } { 5 }
+\overrightarrow { A C }
+O _ { 2 } : ( x - 1 ) ^ { 2 } + y ^ { 2 } = 1
+2 1 . 5
+a < b < c
+a _ { 1 } , a _ { 2 } , a _ { 3 }
+2 2 \sqrt { 3 }
+x > 1 , y > 1
+( x - 1 ) ^ { 5 } - 1
+M , N
+O M \perp A C
+P O
+\frac { 1 } { 1 6 }
+a > 0
+( 0 , 2 )
+4 \mathrm { ~ S } _ { 3 } = 3 \mathrm { ~ S } _ { 2 } + \mathrm { S } _ { 4 } , a _ { 5 } = 5
+M ( 0 , 2 )
+E ( 0 , - 1 )
+\text { 当 } b = - 4 \text { 时 , } a _ { 1 0 } > 1 0
+\lambda \overrightarrow { O P } = \overrightarrow { O A } + \overrightarrow { O B }
+\ a n g l e B A D = 6 0 ^ { \circ }
+C _ { 1 } D E
+\frac { \sqrt { 3 } } { 2 }
+M , N
+a x - 4 b y - 4 = 0
+3 + \sqrt { 2 }
+2 n
+M = \{ x \mid - 4 < x < 2 \}
+\{ x \mid - 4 < x < 2 \}
+l \perp b
+\overrightarrow { A B }
+\frac { \overrightarrow { A B } } { | \overrightarrow { A B } | } \cdot \frac { \overrightarrow { A C } } { | \overrightarrow { A C } | } = \frac { 1 } { 2 }
+b > 0
+\left[ 0 , \frac { \pi } { 2 } \right]
+x = 1
+y = f ( x )
+n \in \mathbf { N }
+f ( x ) = x ^ { 2 } - 2 a x - 3
+\hat { y } _ { i }
+R = \sqrt { 3 }
+0 < x < \sqrt { a } ,
+k _ { P A } = 0
+x
+F ( 0 , 0 , 1 )
+| x + 1 | + | x - 3 | \leq s l a n t | b + 1 |
+y = 2 \sqrt { 2 } s
+1 8 ^ { b } = 5
+n
+S _ { n }
+( - 2 ) ^ { n } - 1
+f ^ { \prime } ( x ) > 0
+- \frac { \sqrt { 3 } } { 2 }
+( 1 , 3 )
+x ^ { 2 } - 4 x + 3 , x \leq s l a n t 3
+\sin \alpha = \frac { 1 } { 3 }
+x \neq 1
+A C
+f ( x )
+a > 1 ,
+a _ { 5 }
+\frac { 1 } { a } + \frac { 1 } { b } \leq s l a n t 4
+\log _ { 2 } a \cdot \log _ { 2 } b \leq s l a n t 1
+P A = 2
+\ e x i s t s x > 0 , a \leq s l a n t \frac { x } { x ^ { 2 } + x + 1 }
+a > \frac { 1 } { 3 }
+\triangle A B C
+a , 4 , 3 a
+M F \perp N F
+E , O , D
+A B
+| \boldsymbol { b } - t \boldsymbol { a } | ( t \in \mathbf { R } )
+y = 2 \sin \left( 2 x - \frac { \pi } { 3 } \right)
+A > 0
+| \varphi | < \pi
+x ^ { 2 } = 8 y
+( - 2 , 4 )
+| P F | +
+5 0 0 \left( 1 + \frac { 1 } { 2 ^ { n } } \right)
+B _ { n }
+C : \frac { x ^ { 2 } } { 3 } - \frac { y ^ { 2 } } { m } = 1
+\left( \frac { \pi } { 4 } , \frac { 3 \pi } { 4 } \right)
+\left( \frac { 3 \pi } { 2 } , 2 \pi \right)
+m \in \mathbf { R }
+Q F
+x _ { 0 } \in [ 0 , 1 ]
+y = f ( x )
+\left\{ a _ { n } \right\}
+\xi , \eta
+A B = 3
+P A = 2
+P D = 2 \sqrt { 2 }
+f ( x ) \geqslant a | x |
+\frac { 1 } { 2 } + \left( \frac { 1 } { 2 } \right) ^ { 2 } = \frac { 3 } { 4 }
+P ( X = 4 ) = \mathrm { C } _ { 3 } ^ { 1 } ( 1 - p ) ^ { 3 } \cdot p
+f ^ { \prime } ( p ) < 0
+\triangle A B C
+a + b = 0
+x \in [ 0 , 1 ]
+( - \infty , - 1 )
+a _ { 1 } > 0 , q > 1
+f ( \lambda \boldsymbol { a } + \mu \boldsymbol { b } ) = \lambda f ( \boldsymbol { a } ) + \mu f ( \boldsymbol { b } )
+n \in \mathbf { N } _ { + }
+a _ { 9 } , a _ { 1 0 }
+k _ { 1 } + k _ { 2 } = 8
+A \left( x _ { 0 } , y _ { 0 } \right)
+A B C D
+\frac { 1 } { 3 }
+9 0 ^ { \circ }
+2 0 0 2
+1 3 5 0 0 0
+P _ { 2 } ( 0 , 1 )
+P _ { 3 } \left( - 1 , \frac { \sqrt { 3 } } { 2 } \right)
+P _ { 2 } A
+A A _ { 1 }
+\frac { \sqrt { 2 } } { 3 } \lambda
+M \left( x _ { M } , - 3 \sqrt { 2 } \right)
+2 0 \mathrm { ~ c m } ^ { 3 }
+h =
+A
+f ( x ) \geqslant 1
+[ 0 , + \infty )
+\mathrm { e } ^ { x } - a x ^ { 2 } = 0
+x < \sqrt { a }
+\frac { \mathrm { e } ^ { x } } { x ^ { 2 } } > \frac { 1 } { x ^ { 2 } } > a
+C _ { 1 } : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a >
+b > 0 )
+x = \frac { 4 c } { 3 }
+\boldsymbol { e } _ { 2 }
+\cos \beta =
+S _ { n }
+\frac { 8 } { 9 }
+\frac { \sqrt { 5 } } { 2 }
+\frac { \pi } { 6 }
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + y ^ { 2 } = 1
+x O y
+y = \pm 2 x
+D D _ { 1 }
+B _ { 1 } F / /
+a =
+A _ { 1 } B _ { 1 }
+\left\{ x \mid \frac { 5 } { 3 } \leq s l a n t x < \frac { 1 1 } { 6 } \right\}
+O P
+A B C
+\frac { c a } { c + 2 a } \geqslant \frac { 1 } { 5 }
+f ( x )
+x ^ { 2 } + y ^ { 2 } = 9
+C : f ( x ) = x ^ { 3 } -
+z \bar { z } - 3 \mathrm { i } \bar { z } = 1 + 3 \mathrm { i }
+m x + n y + 1 = 0
+p _ { 2 }
+z \in \mathbf { R }
+\bar { z } \in \mathbf { R }
+p _ { 1 } , p _ { 4 }
+1 ) \geqslant ( k + 1 ) ^ { 2 }
+\boldsymbol { a } = \left( \lambda + 2 , \lambda ^ { 2 } - \cos ^ { 2 } \alpha \right)
+\pm 2
+x \left( x \in \mathbf { N } ^ { * } \right.
+| A B | = 8
+f ( x ) = a \mathrm { e } ^ { x } \ln x + \frac { b \mathrm { e } ^ { x - 1 } } { x }
+y = f ( x )
+f ( 7 ) < 4 9
+a _ { 7 } + 2
+6 4 \pi
+4 8 \pi
+A F _ { 2 }
+a = - 2
+T _ { n }
+C \text { : }
+\frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 0 , b > 0 )
+\text { 人 中 市 级 以 上 游 泳 比 赛 获 奖 的 人 数 为 } \xi
+\alpha + \beta = 1
+a , b
+f ( - 5 ) =
+B C
+f ( x ) = x - \frac { 2 } { x } + a ( 2 - \ln x )
+A A _ { 1 } = 4
+M N / /
+x ^ { 2 } + y ^ { 2 } + 2 \sqrt { 2 } x - 2 \sqrt { 2 } y = 0
+f ( x ) = f ^ { \prime } ( 1 ) x ^ { 3 } - 2 ^ { x }
+\alpha
+\frac { 5 \pi } { 1 2 } , \frac { \pi } { 4 }
+y = - 1
+x > 0
+y > 0
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+\frac { 2 \sqrt { 3 } } { 3 }
+\text { 化 简 } \frac { 1 } { 1 - \frac { 1 } { 1 - \frac { 1 } { 1 - \ c s c ^ { 2 } x } } }
+\pm 1
+( 0 , 2 )
+P ( 0 , 2 )
+| B F | =
+4 \sqrt { 6 }
+( 0 , \sqrt { 3 } )
+y = y + 4
+A \cap B =
+y = x \mathrm { e } ^ { x } + 2 x + 1
+3 a _ { n } = 2 S _ { n } + 3 \left( n \in \mathbf { N } ^ { * } \right)
+\text { 1 ) } = a
+A B
+\triangle D A B
+- \frac { \sqrt { 3 } } { 3 }
+C : x ^ { 2 } = 2 p y ( p > 0 )
+C
+\frac { 1 } { a } < \frac { 1 } { b } < 0
+b > 0
+M Q \perp x
+\frac { 2 } { 5 }
+x + y
+A = 3 0 ^ { \circ }
+\frac { 1 } { 3 }
+m - n =
+E ( \xi ) =
+2 \alpha +
+B = \{ 0 , 1 , 3 \}
+y = [ x ]
+g ( \pi ) = - a \pi \geqslant 0
+x - \frac { 1 } { x }
+- 2
+| \boldsymbol { b } | = 3
+P A , A B
+\ a n g l e C E F =
+f ( 2 - x ) + f ( x ) = 0
+x - y \leq s l a n t 2
+0 \leq s l a n t y \leq s l a n t 3
+\boldsymbol { a } = ( - 1 , 3 )
+3 : 7
+g ( a ) = f ( x ) _ { \min } = f ( 1 ) = 1
+A ( 2 , - 1 )
+N F
+g ( x ) = \cos x
+\ c o m p l e m e n t _ { \mathrm { R } } M \cup N
+( 1 , 2 )
+a _ { 1 } = 1 , 2 \sqrt { a _ { n + 1 } a _ { n } } + \sqrt { a _ { n + 1 } } - \sqrt { a _ { n } } = 0 , n \in \mathbf { N } ^ { * }
+( 1 , 0 )
+P B
+\text { 0 ) }
+T _ { n }
+A , B
+E , F
+f ( x )
+f ( a ) \geqslant 1
+[ 1 , 2 )
+f ( x ) = x ^ { 3 } - x
+a > 0
+( a , b )
+- a < b < f ( a )
+- a < b < a ^ { 3 } - a = f ( a )
+f ( x ) = | x + 2 | + \lambda | x - 2 |
+4 2
+\text { 球 } O \text { 的 体 积 为 }
+| x - 2 | - \frac { 1 } { 2 } | x + 1 |
+y _ { 1 } y _ { 2 } = - 1 6
+\left\{ b _ { n } \right\}
+3 S _ { n } = ( n + m ) a _ { n }
+\lambda > T _ { n }
+b _ { 1 } = 2
+b _ { n } = 2 b _ { n - 1 }
+[ - 1 , 0 ]
+\ a n g l e B C D = 9 0 ^ { \circ }
+m \perp n
+m \perp \alpha
+a _ { n } = n \cos \frac { n \pi } { 2 } + 1
+w = \ln y
+S _ { n }
+a _ { 1 0 1 0 } a _ { 1 0 1 1 } < 0
+\varphi =
+A B C D
+B
+k > 7
+l : x - y + 4 = 0
+C : ( x - 1 ) ^ { 2 } + ( y - 1 ) ^ { 2 } = 2
+E , F
+F - O E - A
+\frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+f ^ { \prime } ( x )
+\frac { 9 } { 3 2 }
+2 \sqrt { 2 }
+P ( 2 , 3 )
+\boldsymbol { a } = ( 2 , 6 )
+B C = 3 B E
+( 1 , \sqrt { a } )
+A B _ { 1 }
+\forall x \in ( 0 , + \infty ) , f ( f ( x ) -
+f ( x ) + f ^ { \prime } ( x ) \geqslant a x
+b = \log _ { \frac { 1 } { 2 } } \pi , c = \pi ^ { - 2 }
+f ( x )
+\left\{ - 1 , \frac { 1 } { 2 } \right\}
+A B C
+6 0 ^ { \circ }
+a + b
+f ( 2 - x ) = f ( x )
+f ( 1 4 ) =
+x , y
+8 0 \ %
+C _ { \mathrm { R } } A
+f ( x )
+C _ { 1 } , O , M
+- 8
+b = 2
+M , | M F | =
+m ^ { 3 } < n ^ { 3 }
+A = \left\{ x \mid 2 ^ { x } > 1 \right\}
+( 0 , 1 ]
+\cos 1 6 0 ^ { \circ }
+\left( - \infty , \frac { 1 } { 2 } \right]
+\text { 0 ) }
+F _ { 2 } ( 5 , 0 )
+\frac { 5 } { 4 }
+y = 4 \cos \frac { \pi x } { 2 }
+\overrightarrow { F M } \cdot \overrightarrow { F N } = \left( x _ { 1 } - 1 \right) \left( x _ { 2 } - 1 \right) + y _ { 1 } y _ { 2 } = 0
+\triangle C A B
+1 5 \sqrt { 5 } \pi
+z
+l : x = - 1
+2 x + y + m = 0
+A ( 2 , - 1 )
+A D = 2 \sqrt { 5 }
+\overrightarrow { O P } \cdot \overrightarrow { F P }
+\sqrt { 2 } \cos \left( \alpha + \frac { \pi } { 4 } \right) =
+\frac { 2 } { 3 }
+x _ { 2 } \in ( 0 , 1 )
+g \left( x _ { 2 } \right) = 0 \text { , }
+a < b < 0
+\rho = 2 \sin \theta
+\rho \sin \left( \theta + \frac { \pi } { 3 } \right) = 2
+\left\{ F _ { n } \right\}
+F _ { 1 } =
+\left( - \frac { 2 } { 3 } , \frac { 1 } { 3 } \right)
+A \cap B
+| A B | = \frac { 8 } { 3 }
+\left\{ a _ { n } \right\}
+a _ { 1 } > 1
+B _ { 1 } B _ { 2 }
+H \left( x _ { 4 } , y _ { 4 } \right)
+G D
+y = k _ { 2 } x
+\frac { k _ { 1 } x _ { 1 } x _ { 2 } } { x _ { 1 } + x _ { 2 } } = \frac { r ^ { 2 } - b ^ { 2 } } { 2 r } = \frac { k _ { 2 } x _ { 3 } x _ { 4 } } { x _ { 3 } + x _ { 4 } }
+- \frac { \left( k _ { 1 } - k _ { 2 } \right) x _ { 2 } x _ { 3 } } { k _ { 1 } x _ { 2 } - k _ { 2 } x _ { 3 } } = \frac { \left( k _ { 1 } - k _ { 2 } \right) x _ { 1 } x _ { 4 } } { k _ { 1 } x _ { 1 } - k _ { 2 } x _ { 4 } }
+a _ { 2 } = 2
+b _ { n } = \frac { a _ { 2 n - 1 } } { a _ { 2 n } }
+1 4 . 0 4
+\frac { 3 } { 5 }
+\sqrt { 1 3 }
+f ( x ) = x ^ { 2 } - b x + c
+f \left( b ^ { x } \right) \geqslant f \left( c ^ { x } \right)
+f \left( b ^ { x } \right) > f \left( c ^ { x } \right)
+A = \{ 0 \}
+z _ { 1 } = z _ { 2 }
+k \geqslant 3
+\frac { 1 } { 2 }
+x \geqslant 0
+a ^ { 2 } = b ^ { 2 } + c ^ { 2 }
+a \geqslant 0
+\left( \frac { 1 } { 2 } , f \left( \frac { 1 } { 2 } \right) \right)
+P , A , B , T
+f ( x )
+l _ { 1 } : x + a y - 2 = 0 ( a \in \mathbf { R } )
+a =
+P ^ { \prime } , A ^ { \prime } , B ^ { \prime } , T ^ { \prime }
+\cos \theta
+( - 2 ) ^ { 0 } ( 0 . 0 1 ) ^ { - \frac { 1 } { 2 } }
+\frac { 1 } { 5 }
+\frac { \sqrt { 3 } b } { c - 2 a } = \frac { b } { a }
+G H
+\frac { \sqrt { 5 } } { 3 }
+a > 0
+g ^ { \prime } ( x ) = \ln ( x + 1 ) + 1 - a
+x \geqslant 0
+x \in \left( 0 , \mathrm { e } ^ { a - 1 } - 1 \right)
+g ( x ) = \ln ( x + 1 ) - \frac { a x } { x + 1 }
+E , F , P , Q
+A B , A D , D D _ { 1 } , B B _ { 1 }
+p : x \geqslant m , q : 2 + x - x ^ { 2 } < 0
+\tan \left( \alpha + \frac { 2 0 2 1 } { 4 } \pi \right) = 3 \tan \alpha + 1
+\frac { 1 } { 4 }
+\frac { 1 } { 3 }
+S _ { 1 } = - 1
+\triangle A O C
+\ a n g l e A O C =
+2 0 0 0
+z _ { 0 } = 3 + 2 \mathrm { i }
+- 7 - 2 4 \mathrm { i }
+\text { 试 验 田 一 的 众 数 是 } 2 1 5
+3 - 4 i
+\tan \ a n g l e P A H = \frac { P H } { A H } = \frac { C H } { \sqrt { 3 } A H } = \frac { 1 } { \sqrt { 3 } } \cdot \frac { \sin \ a n g l e H A C } { \sin \ a n g l e H C A } \leq s l a n t \frac { 1 } { \sqrt { 3 } } \cdot \frac { 1 } { \frac { 1 5 } { 2 5 } } = \frac { 5 } { 9 } \sqrt { 3 }
+x + \frac { 1 } { x } \geqslant 2
+A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+\left\{ b _ { n } \right\}
+b _ { 6 } = a _ { 1 6 } - 1
+c _ { n } = \frac { a _ { n } + 8 } { a _ { n } a _ { n + 1 } b _ { n + 1 } }
+\ a n g l e B A D = 6 0 ^ { \circ }
+f ( x ) \leq s l a n t 0
+( - \infty , 7 )
+( - \infty , 7 ]
+\ c o m p l e m e n t _ { U } M =
+f \left( \frac { 1 } { 2 } \right) = - \frac { 1 } { 2 } + a \ln 2 < 0
+\left( 1 + \frac { 1 } { 2 } \right) \left( 1 + \frac { 1 } { 2 ^ { 2 } } \right) \left( 1 + \frac { 1 } { 2 ^ { 3 } } \right) > 2
+\triangle F _ { 1 } P F _ { 2 }
+P ( 1 , 1 2 )
+S _ { n + 1 } = 2 S _ { n } + n + 1
+f ( 0 ) = - f \left( \frac { \pi } { 2 } \right)
+\frac { 8 } { 3 }
+\sqrt { 5 }
+( - \infty , 2 ]
+( 0 , 2 )
+x , y , z
+y = \ln x
+\frac { 1 } { 4 }
+P A , P B
+A , B
+A \cup B =
+B C = C D
+\ a n g l e F _ { 1 } A F _ { 2 } = \frac { \pi } { 3 }
+\sin \left( \alpha + \frac { \pi } { 4 } \right) = \frac { 1 } { 4 }
+a _ { 4 } +
+\left[ 0 , \frac { \pi } { 2 } \right]
+| M N |
+\text { 求 } b \text { 的 值 }
+4
+A C = 1 0 . 3 9 2 \mathrm { ~ c m }
+A , C
+- \frac { 3 } { 4 }
+A B C D
+A D = 2 \sqrt { 2 }
+\mathrm { C } _ { 8 } ^ { x }
+( 1 + x ) ( 1 - | x | ) > 0
+A \cap B
+A B C
+\hat { y } = 0 . 2 8 x + a
+( 2 , f ( 2 ) )
+( - \infty , 0 )
+n \in \mathbf { N } ^ { * }
+y = f ( x )
+\left( n ^ { \frac { 1 } { n - 1 } } , 0 \right)
+x _ { 1 } , x _ { 2 }
+\lambda =
+\frac { 3 } { 2 }
+\boldsymbol { b } = 0
+a _ { 1 } = 2 , a _ { n + 1 } = \frac { n + 2 } { n } S _ { n } \left( n \in \mathbf { N } ^ { * } \right)
+a , b
+\sqrt { 2 }
+x \in [ 0 , \pi ]
+\left| P F _ { 1 } \right| +
+f ( x )
+\left[ - \frac { \sqrt { 2 } } { 2 } , 1 \right]
+\sin ^ { 2 } A + \sin ^ { 2 } B < \sin ^ { 2 } C
+9 \ %
+7 \ %
+7 \ %
+4 6 - 5 5
+1 . 5
+\frac { \ln x } { x }
+A B C D
+B C
+\perp P E
+1 - \frac { \pi } { 4 } = \frac { 4 - \pi } { 4 } ,
+P = \frac { \frac { 4 - \pi } { 2 } } { 2 \times 2 } = \frac { 4 - \pi } { 8 } ,
+M , m
+[ 1 , 2 )
+f ( x ) _ { \min } = f ( 2 ) = \left| 2 ^ { 2 } - 2 \times 2 \right| + 4 - \sin \frac { 2 \pi } { 4 } = 3
+a _ { 1 } + 2 a _ { 2 } + 3 a _ { 3 } + \cdots + n a _ { n } = \frac { n ( 3 n + 1 ) } { 2 }
+E - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+\left\{ a _ { n } \right\}
+\left\{ a _ { n } \right\}
+a > 0
+y = \sqrt { 1 - m n } x
+\frac { 1 } { 3 }
+\overrightarrow { O A } \cdot \overrightarrow { O B }
+\frac { 1 3 } { 4 }
+f ( x )
+f ( x ) = \log _ { a } \left( a ^ { x } + t ^ { 2 } \right) ( a > 0 \text { 且 } a \neq 1 )
+a =
+f ( x )
+m \in \left( t , x _ { 2 } \right]
+( 2 , + \infty )
+1 8 0
+A , B , C
+Y = 0
+- 2 0
+4 + 2 \sqrt { 2 }
+\text { ( 1 ) ( 3 ) }
+C : y ^ { 2 } = 2 p x ( p > 0 )
+\frac { 1 } { 2 } A B
+B C \perp P A
+\left( 3 \sqrt [ 3 ] { a ^ { 2 } } \cdot \sqrt { b } \right) \cdot ( - 6 \sqrt { a } \cdot \sqrt [ 3 ] { b } ) \d i v \left( - 2 \sqrt [ 6 ] { a } \cdot \sqrt [ 6 ] { b ^ { 5 } } \right)
+x = 1
+y = f ( x )
+f ( x ) = 4 x - x ^ { 2 }
+\left( 0 , \frac { \sqrt { 2 } } { 2 } \right]
+A B + B C + A A _ { 1 } = 1 8
+1 1 6 \pi
+5 6 \pi
+1 0 6 \pi
+- 4 0 0 ^ { \circ }
+\frac { x ^ { 2 } } { 2 } - 4 x + 3 \ln x = - 4
+f ( x )
+m \leq s l a n t 2
+f ( x ) = \frac { \mathrm { e } ^ { x } - \mathrm { e } ^ { - x } } { x ^ { 2 } }
+\frac { \pi } { 3 }
+| z |
+x + 3 y + 4 = 0
+\sqrt { 7 }
+\text { ( 2 ) }
+\left\{ a _ { n } + b _ { n } \right\}
+a _ { 1 } = - 3
+\sqrt { 3 }
+( - \infty , - 2 ) \cup ( 8 , + \infty )
+\frac { 1 } { a } + \frac { 1 } { b } = \sqrt { a b }
+\frac { \pi } { 3 }
+a ^ { 3 } + b ^ { 3 }
+P \text { 为 体 对 角 线 } B D _ { 1 } \text { 上 一 }
+\triangle D _ { 1 } E A
+A E \perp D _ { 1 } B
+( a > 0 \text { , 且 } a \neq 1 ) \text { 在 } \mathbf { R } \text { 上 单 调 递 减 , 且 关 于 } x \text { 的 }
+\{ 3 , 4 \}
+\left\{ a _ { n } \right\}
+T _ { n } < 1
+\triangle A B P
+l _ { 2 }
+( i = 1 , 2 , \cdots )
+C ( k ) =
+1 1 0 1 1 \ldots
+1 1 0 0 1 \cdots
+\frac { x ^ { 2 } } { 4 } - \frac { y ^ { 2 } } { 2 } = 1
+( 2 , 2 )
+8
+f ( x ) = 2 \sin ^ { 2 } \left( \frac { \pi } { 4 } + x \right) + \sqrt { 3 } \cos 2 x
+f ( x ) - m = 2
+P A = A C = a
+1 + i
+- 1
+\overrightarrow { A B }
+P E :
+( a x - 1 ) \mathrm { e } ^ { x - 1 }
+z = 2 ^ { 2 x - y }
+A B C M
+B C
+y = \tan \omega x \text { 在 } \left( - \frac { \pi } { 2 } , \frac { \pi } { 2 } \right)
+a _ { 1 } , a _ { 3 } , a _ { 6 }
+\left\{ y \mid y = \sqrt { x ^ { 2 } + 4 x + 8 } \right\}
+3 x + 2 y = 0
+\frac { 4 } { 9 }
+[ 0 , 1 ]
+t \in ( 0 , 2 )
+f \left( \log _ { 2 } 5 \right)
+\text { 已 知 正 项 数 列 } \left\{ a _ { n } \right\} \text { 的 首 项 } a _ { 1 } = 1
+\left\{ a _ { n + 2 } - a _ { n } \right\} \text { 是 等 差 数 列 }
+\text { 使 得 } T _ { n } < \frac { n } { 2 ^ { n } } \text { 的 } n \text { 的 取 值 范 围 }
+\frac { 1 } { 2 }
+p \wedge q
+A , B
+l
+\left( x _ { n + 1 } , f \left( x _ { n + 1 } \right) \right)
+\left( x _ { n } , f \left( x _ { n } \right) \right)
+x _ { n } ^ { 2 } + x _ { n } = 3 x _ { n + 1 } ^ { 2 } + 2 x _ { n + 1 }
+y = f ( x ) - c
+m / / \alpha
+4 x \text { 的 焦 点 , 且 与 } C \text { 交 于 } A , B \text { 两 点 , 则 } | A B | =
+5 0 6 \pi
+3 + \frac { \ln 3 } { 3 }
+A B
+y = f ( x )
+2 5 \ %
+C
+f ^ { \prime } ( x ) > 0
+\left( - 1 , - \sqrt { 1 - \frac { 1 } { 2 a } } \right)
+f ( x ) > f ( 0 ) = \frac { 1 } { 2 }
+S _ { 6 } =
+f ( x ) = x ^ { 2 }
+y = \l g x
+y = f ( x ) ( x \geqslant 0 )
+f ( x ) = a \cos x - \frac { \cos a x } { a }
+[ - 1 , 0 )
+\alpha / /
+\beta
+b / / \alpha
+C \left( \frac { 3 } { 2 } , \frac { \sqrt { 3 } } { 2 } , 0 \right)
+f ( x ) = x ^ { 3 } + a x + 1
+( 0 , b )
+z
+| \overrightarrow { A B } |
+2 \times 2
+\{ x \mid - 3 < x < 2 \}
+x \in [ 1 , 2 ]
+f ( x ) = \log _ { 2 } \left( 1 + 4 ^ { x } \right) - x
+f ( x )
+A , B , C
+- 2
+P ( 2 , 3 )
+x , y \in \mathbf { R }
+( 0 , 1 ]
+| O P | = b
+y = - \frac { \ln x } { x } + x - 1
+x _ { 1 } , x _ { 2 } , \cdots , x _ { n }
+\left( a x - \frac { 1 } { \sqrt { x } } \right) ^ { 6 }
+\frac { 9 \sqrt { 3 } } { 2 }
+2 4 0 0 \mathrm { ~ m } ^ { 2 }
+0 . 8
+c _ { 1 } = 1 , c _ { n } = a _ { n + 1 } - a _ { n } , c _ { n + 1 } = \frac { b _ { n } } { b _ { n + 2 } } c _ { n } , n \in \mathbf { N } ^ { * }
+\left\{ b _ { n } \right\}
+\left\{ a _ { n } \right\}
+d > 0
+5 0 \pi
+P - A B C D
+y = 1 + 3 x - x ^ { 3 }
+\mathrm { e } = 2 . 7 1 8 2 8
+a \leq s l a n t 0
+f ( x )
+- 1
+A B
+A B _ { 1 } \perp
+0 . 7 5
+0 . 8
+0 . 4 5
+\frac { \sqrt { 3 } } { 3 }
+f ( x ) < f \left( \frac { 1 } { 4 } \right)
+T - T _ { a } = \left( \frac { 1 } { 2 } \right) ^ { \frac { t } { h } } \cdot \left( T _ { 0 } - \right.
+\l g 5 \approx 0 . 6 9 9 0
+X , Y
+E ( X )
+D ( X )
+( 2 , \pm 2 )
+- 1
+M \left( 2 m ^ { 2 } , 2 m \right)
+\frac { 2 m } { 2 m ^ { 2 } + 2 } + \frac { 2 n } { 2 n ^ { 2 } + 2 } = \frac { m } { m ^ { 2 } + 1 } + \frac { \frac { 1 } { n } } { 1 + \frac { 1 } { n ^ { 2 } } } = 0 ,
+( 1 , 2 )
+( 1 . 5 , 0 )
+n > l > m
+( 1 , f ( 1 ) )
+D B \not \subset
+B D \cap D C _ { 1 } = D
+\frac { \sqrt { 6 } } { 2 }
+| x - a | + | x - 1 | \leq s l a n t 3
+f ( 1 ) = a + \frac { 5 } { 4 } \geqslant 0
+x ^ { 2 } + y ^ { 2 } -
+f ( x )
+f ( x )
+3 - \sqrt { 2 }
+f ^ { \prime } ( x )
+f ( x ) = \frac { 1 } { 3 } x ^ { 3 } + a x ^ { 2 } + b x
+M , N
+\{ 2 \}
+P B
+\left( x + \frac { 1 } { x } \right) ( a x - 1 ) ^ { 5 }
+f ( x )
+\left( y _ { 1 } + 2 \right) \left( y _ { 2 } + 2 \right) = \left( k x _ { 1 } + t + 2 \right) \left( k x _ { 2 } + t + 2 \right) = k ^ { 2 } x _ { 1 } x _ { 2 } + k ( t + 2 ) \left( x _ { 1 } + x _ { 2 } \right) + ( t + 2 ) ^ { 2 }
+= k ^ { 2 } \cdot \frac { t ^ { 2 } - 4 } { k ^ { 2 } - 1 } + k ( t + 2 ) \cdot \frac { - 2 k t } { k ^ { 2 } - 1 } + ( t + 2 ) ^ { 2 } = \frac { - ( t + 2 ) ^ { 2 } } { k ^ { 2 } - 1 }
+\mathrm { k P a }
+1 + 2 + 3 = 6
+\text { , } A A _ { 1 } =
+f ( x )
+O O _ { 1 }
+\boldsymbol { n } = ( x , y , z )
+z = 8
+y \geqslant 0
+y
+P B C
+\ a n g l e A B D = \ a n g l e C B D
+A P Q C
+y = x
+- 4
+D D _ { 1 }
+\alpha
+\forall x _ { 1 } , x _ { 2 } \in \mathbf { R } , \left( f \left( x _ { 2 } \right) - f \left( x _ { 1 } \right) \right) \left( x _ { 2 } - x _ { 1 } \right) < 0
+\tan \alpha \cdot
+\left\{ a _ { n } \right\}
+a > 0
+f ( 6 )
+f ( n )
+K ^ { 2 } = \frac { n ( a d - b c ) ^ { 2 } } { ( a + b ) ( c + d ) ( a + c ) ( b + d ) }
+P \left( K ^ { 2 } \geqslant k _ { 0 } \right)
+( a + b ) \otimes c = ( a \otimes c ) + ( b \otimes c )
+A , B
+e _ { 2 }
+\frac { \cos ^ { 2 } \theta } { e _ { 1 } ^ { 2 } } + \frac { \sin ^ { 2 } \theta } { e _ { 2 } ^ { 2 } } = 1
+( - 1 , 0 ) \cup ( 0 , 1
+h ( x )
+x - y + a = 0
+\frac { \sqrt { 2 } } { 2 }
+a _ { 1 } =
+6 3
+\frac { 3 2 \sqrt { 7 } } { 7 }
+\cos 2 \alpha = \frac { 2 } { 3 }
+\triangle A B C
+B > C
+[ 1 , 3 ) , [ 3 , 5 ) , [ 5 , 7 )
+\bar { x } , \sigma ^ { 2 }
+| M F | = 5
+y ^ { 2 } = 8 x
+y ^ { 2 } = 2 x
+m = 1
+( 1 , 3 )
+[ 0 , \pi ]
+\frac { \pi } { 2 }
+A C
+b _ { n } = \log _ { 2 } a _ { 1 } + \log _ { 2 } a _ { 2 } + \cdots + \log _ { 2 } a _ { n }
+T _ { n }
+B C _ { 1 }
+6 0 ^ { \circ }
+B B _ { 1 }
+7 0 \sim 7 5
+P ( Y = k )
+\{ x \mid 1 < x < 3 \}
+A , B
+\left\{ x \mid \frac { 1 } { 2 } < x < \frac { 1 } { 3 } \right\}
+| M N | =
+- \frac { 1 } { 3 }
+- \frac { 1 } { 9 }
+\left\{ a _ { n } \right\}
+a _ { 1 } ^ { 2 } + a _ { 3 } ^ { 2 } \geqslant 2 a _ { 2 } ^ { 2 }
+a _ { 1 } = a _ { 2 }
+E ( X )
+f ( x ) =
+\overrightarrow { M A }
+\overrightarrow { M B }
+C = \frac { \pi } { 3 }
+\triangle M F _ { 1 } F _ { 2 }
+a _ { 1 } = 0 , b _ { 1 } = 1 , q = 2
+2 0 2 0
+\mathrm { A } _ { 2 6 } ^ { 2 } 1 0 ^ { 4 }
+y = \pm \frac { 1 6 } { 5 }
+\boldsymbol { a } , \boldsymbol { b } , | \boldsymbol { a } | = | \boldsymbol { b } | = 1 , \boldsymbol { a } \cdot \boldsymbol { b } = 0
+C \cap \Omega
+\mathrm { O } _ { 2 }
+\left( x _ { n } , y _ { n } \right)
+D A C
+\text { 参 考 数 据 : } \sqrt { 2 3 1 5 } \approx 4 8 . 1 1 4 4
+A B C D
+P B , P C
+f ( x ) = \frac { x - \sin x } { \mathrm { e } ^ { x } + \mathrm { e } ^ { - x } }
+5 4 \sqrt { 3 }
+: y = k x - 1
+a , b
+\frac { 4 \pi } { 3 }
+y = 2 x
+\text { 设 等 比 数 列 } \left\{ a _ { n } \right\} \text { 的 前 } n \text { 项 }
+f ( x ) = A \sin ( \omega x + \varphi )
+\frac { \pi } { 6 }
+g ( x )
+( x - 1 ) ^ { 5 }
+\text { 则 } \frac { a _ { 3 } a _ { 6 } a _ { 9 } } { a _ { 5 } ^ { 3 } } \text { 的 值 为 }
+a _ { 1 } = - 1
+- n
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+E , F
+\frac { 4 \sqrt { 6 } } { 3 }
+\frac { 2 \sqrt { 6 } } { 3 }
+c = a - ( a \cdot b ) b
+( - 2 , 4 )
+c > a > b
+A B = A D = 2
+\log _ { \frac { 1 } { 2 } } \left( 1 + x ^ { 2 } \right) - \frac { 1 } { 1 - 2 ^ { | x | } }
+B _ { 1 } C / / \text { 平 面 } A _ { 1 } B D
+a x - b y + 2 = 0
+\alpha / / \beta
+1 , 2 , \cdots , 6
+\overrightarrow { O A }
+0 , n > 0 )
+\left\{ a _ { n } \right\}
+S _ { n }
+a _ { 2 } a _ { 5 } a _ { 8 } = - 8
+\frac { 7 } { 2 }
+\frac { 4 } { 5 }
+\bar { x } ) ^ { 2 } = 8 2 . 5
+2 . 1 8
+[ 0 , + \infty )
+0 . 1
+\left\{ a _ { n } \right\}
+a , b
+| \cos \theta | = \frac { 1 } { 5 } , \frac { 5 } { 2 } \pi < \theta < 3 \pi
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+F _ { 2 } N
+\sqrt { 2 }
+- \frac { 7 \pi } { 6 }
+\frac { x - 1 } { y + 1 } = - \frac { 3 } { 4 }
+6 0 ^ { \circ }
+P ( B ) = \frac { 2 } { 5 }
+b > 0
+X = 5 0
+b ^ { a }
+a ^ { a } = b ^ { b }
+b ^ { b } < b ^ { a }
+X = 6 0
+S _ { 1 } , S _ { 2 }
+\frac { 1 } { c }
+\frac { 3 } { 3 5 }
+a + b =
+y ^ { 2 } = 4 x
+2 \sqrt { 2 }
+| x - 1 | + | x | + | y - 1 | + | y + 1 |
+m x + n y - 1 = 0 ( m n > 0 )
+f ( x ) < k
+a > 0
+x < - \frac { 1 } { a }
+X
+\frac { x ^ { 2 } } { m + 1 } + \frac { y ^ { 2 } } { m } = 1
+C : \frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+x ^ { 2 } - \frac { \sqrt { 3 } y ^ { 2 } } { 3 } = 1
+\frac { \sqrt { 3 } x ^ { 2 } } { 3 } - y ^ { 2 } = 1
+B = 1 2 0 ^ { \circ }
+( 1 , 2 )
+z =
+a + b
+O Q _ { 1 } \perp O Q _ { 2 }
+[ 0
+y = x + 1
+x > y
+( \ne g p ) \vee q
+p : A = \left\{ x \mid x ^ { 2 } - 2 x - 3 \leq s l a n t 0 , x \in \mathbf { R } \right\}
+q : B = \left\{ x \mid x ^ { 2 } - 2 m x + m ^ { 2 } - 9 \leq s l a n t 0 , x \in \mathbf { R } , m \in \mathbf { R } \right\}
+c = \log _ { 0 . 7 } 0 . 8
+a < b < c
+g ( x ) = \frac { 1 } { 3 } x ^ { 3 } - \frac { 1 } { 2 } x ^ { 2 } + x + \frac { 7 } { 1 2 }
+P C , P D , O P
+k _ { 1 } , k _ { 2 } , k _ { 3 }
+B
+\left[ - \frac { 1 } { 2 } , 2 \right]
+f ( 1 ) )
+f ( x ) = a \mathrm { e } ^ { x } - x ^ { 2 }
+\max \left\{ | \boldsymbol { a } + \boldsymbol { b } | ^ { 2 } , | \boldsymbol { a } - \boldsymbol { b } | ^ { 2 } \right\} \leq s l a n t | \boldsymbol { a } | ^ { 2 } + | \boldsymbol { b } | ^ { 2 }
+4 6 , 4 5 , 5 6
+( x + 1 ) ^ { 2 } + y ^ { 2 } = 2 5
+C Q
+A _ { 1 } B
+E F = 1 2 \mathrm { ~ c m }
+p _ { 1 } = \frac { 1 } { 2 }
+\text { A 3 4 0 }
+\triangle A B C
+T = 1 , \theta = \frac { \pi } { 2 }
+\overrightarrow { B A } \cdot \overrightarrow { B C } = 2
+\overrightarrow { P C } \cdot \overrightarrow { A B } = 0
+x O y
+f ( x ) = x ^ { 5 } + p x ^ { 3 } + q x - 8
+f ( - 2 ) = 1 0
+f ( 2 )
+\ t h e r e f o r e k \mathrm { C } _ { n } ^ { k } \left( a _ { n } - 1 \right) ^ { k } = \left( a _ { n } - 1 \right) n \mathrm { C } _ { n - 1 } ^ { k - 1 } \left( a _ { n } - 1 \right) ^ { k - 1 } \text { , }
+\ t h e r e f o r e \mathrm { C } _ { n } ^ { 1 } \left( a _ { n } - 1 \right) + 2 \mathrm { C } _ { n } ^ { 2 } \left( a _ { n } - 1 \right) ^ { 2 } + \ldots + k \mathrm { C } _ { n } ^ { k } \left( a _ { n } - 1 \right) ^ { k } + \ldots + n \mathrm { C } _ { n } ^ { n } \left( a _ { n } - 1 \right) ^ { n } = \left( a _ { n } - 1 \right) n a _ { n } ^ { n - 1 }
+f ( x ) = \frac { 1 } { x } - \frac { 1 } { 2 } x ^ { 2 }
+f \left( x _ { 1 } \right) \geqslant
+\ a n g l e A _ { 1 } P A _ { 2 } = 3
+x _ { 3 }
+a _ { n + 1 } = 2 a _ { n } + 2 ^ { n }
+A B
+O ( 0 , 0 )
+\Delta = 4 ( s b + 2 ) ^ { 2 } - 4 s ^ { 2 } b ^ { 2 } = 1 6 ( s b + 1 ) = 0
+s b = - 1
+y ^ { 2 } = 4 x
+y _ { 1 } + y _ { 2 } = - \frac { 4 } { s }
+= \frac { \left| - \frac { 2 } { s } + \frac { 1 } { s } - s ^ { 3 } - 2 s \right| } { \sqrt { 1 + s ^ { 2 } } } = \frac { \left( \sqrt { 1 + s ^ { 2 } } \right) ^ { 3 } } { | s | }
+x < 0
+C \left( \frac { 7 } { 2 } p , 0 \right)
+B C
+\left( b - a ^ { 3 } \right) \left( b - a ^ { 3 } - \frac { 1 } { a } \right) = 0
+\left| b - a ^ { 3 } \right| + \left| b - a ^ { 3 } - \frac { 1 } { a } \right| = 0
+\ a n g l e D A B = \ a n g l e A B C = 9 0 ^ { \circ }
+P A E
+X \sim N \left( \mu , \sigma ^ { 2 } \right)
+A , B , C
+5 \sqrt { \frac { 1 } { 2 h } } , 2 \sqrt { \frac { 1 } { 2 h } } , 8 \sqrt { \frac { 1 } { 2 h } }
+\ a n g l e O A P = 3 0 ^ { \circ }
+A B = 2 A D = 2
+A B
+E F
+A _ { 1 } G
+\frac { 7 } { 8 }
+g ( x ) = f ( x ) + x
+f \left( \log _ { 2 } \left| 3 ^ { x } - 1 \right| \right) < 2 - \log _ { 2 } \left| 3 ^ { x } - 1 \right|
+\text { 若 } \overrightarrow { A B } =
+( a , b )
+b - a
+\{ 2 \}
+n = 3
+B =
+\frac { x ^ { 2 } } { 5 } - \frac { y ^ { 2 } } { 2 } = 1
+\cdots , n \}
+( A , B )
+\left\{ x \mid x = x _ { i } + x _ { j } , x _ { i } , x _ { j } \in X , 1 \leq s l a n t i < j \leq s l a n t n , i , j \in \mathbf { N } \right\}
+\cos \alpha = \sin 4 7 ^ { \circ }
+C _ { 1 }
+\frac { 1 } { 4 }
+z \cdot \bar { z } = 4
+- \sqrt { 3 }
+9 S _ { 3 } = S _ { 6 }
+A B C D
+3 \mathrm { C } _ { 5 } ^ { 3 }
+f ( x ) = x + a \ln x
+A B C D
+A B / / C D
+a > 0
+x - y = 1
+4 \sqrt { 2 }
+0 . 9 ^ { 5 } \approx 0 . 5 9 0
+0 . 4 3 0
+M , N
+A ( 0 , 1 )
+\frac { 1 - 3 i } { 3 - 2 i }
+a _ { 7 } =
+M , N
+\frac { 1 6 } { 3 }
+f ( x ) = A \sin ( \omega x + \varphi ) \left( A > 0 , \omega > 0 , | \varphi | < \frac { \pi } { 2 } \right)
+\text { 设 } f ( x ) =
+\text { 在 } x = 1 \text { 处 取 得 最 小 值 为 } 2 + a \text { . 因 此 只 需 要 } a ^ { 2 } \leq s l a n t 2 + a
+a > 0
+b _ { n } = \frac { 4 + a _ { n } } { 1 - a _ { n } } \left( n \in \mathbf { N } ^ { * } \right)
+\left\{ c _ { n } \right\}
+\sqrt { 2 }
+| \boldsymbol { b } | = 2
+= \left\{ ( x , y ) \mid y = x ^ { 2 } , x \in \mathbf { R } \right\}
+x ^ { 2 } + \sqrt { 2 } x - 1 = 0
+\hat { y } = \frac { 1 7 } { 2 } x + 1 2
+f ( x ) = k x \left( \frac { 1 } { \mathrm { e } } \leq s l a n t x \leq s l a n t \mathrm { e } ^ { 2 } \right)
+A B F C
+\frac { 2 7 \sqrt { 3 } } { 2 }
+| D F | = 2
+k \leq s l a n t 4
+S E
+\theta _ { 2 } \leq s l a n t \theta _ { 3 } \leq s l a n t \theta _ { 1 }
+\left\{ a _ { n } \right\}
+S _ { n }
+6 0
+f ( x ) = \sin ( \omega x +
+f ( x ) = - f ( \pi + x )
+7 0
+f ( x ) \geqslant 4
+a = \frac { 1 } { 2 }
+\alpha \in \left[ - \frac { \pi } { 6 } , \frac { 5 \pi } { 6 } \right]
+f ( x ) = a ^ { x } + b ( a > 0 , a \neq 1 )
+g ( x ) = a f ( x ) + b
+A B C D
+A E \perp P D
+2 a + b \geqslant 2 \sqrt { 2 a b } \Rightarrow 0 < \sqrt { a b } \leq s l a n t \frac { \sqrt { 2 } } { 4 }
+[ 1 , + \infty )
+f ( 1 ) = - \frac { a + 1 } { 2 }
+B C
+D M N H
+\sqrt { 5 } + 2
+\{ x \mid x < 0 \}
+3 2 \pi
+\text { 因 为 } x + y + m \geqslant 0 \text { 恒 成 立 }
+2 ^ { \log _ { 3 } x } = \frac { 1 } { 4 }
+x = \sqrt { 3 }
+x = 9
+A B
+f ( x ) = 2 x ^ { 3 } - a x ^ { 2 } + b
+a , b
+[ 0 , 1 ]
+f ( \ln 2 ) = 2 - 2 \ln 2
+g ( x ) > g ( 0 ) = 1 > 0
+P A
+\triangle A B C
+9 0 + 7 2 \sqrt { 3 }
+[ - 1 , + \infty )
+l _ { 1 } : a x + y + 2 = 0 ( a \in \mathbf { R } )
+\frac { \sin \theta } { x } = \frac { \cos \theta } { y }
+\frac { x ^ { 2 } } { 9 } - \frac { y ^ { 2 } } { 1 6 } = 1
+\frac { c } { a } > 2
+B \rightarrow D
+\frac { c } { a }
+A D / / B C
+x - 3 y + m = 0 ( m \neq 0 )
+\frac { 2 \pi } { 3 }
+\left\{ a _ { n } \right\}
+\frac { 2 \sqrt { 2 } } { 3 }
+A , B
+A _ { n } , B _ { n }
+x , y
+\frac { 1 } { 3 } t ^ { 3 } - \frac { c + 1 } { 2 } t ^ { 2 } + c t + \ln 2 + \frac { 1 } { 6 } \leq s l a n t f ( x )
+3 \cdot 2 ^ { n - 1 }
+5 \cdot 2 ^ { n - 1 }
+z = \cos \theta + \mathrm { i } \sin \theta , \theta \in ( \pi , 2 \pi )
+a , b
+y = b ( a + 1 )
+S _ { 2 4 }
+\{ a , a + b , 1 \}
+\omega =
+\frac { 1 } { 2 }
+I
+f ( x ) \geqslant 2 a + a \ln \frac { 2 } { a }
+p \left( x _ { i } \right) > 0 ( i = 1 , 2 , \cdots , n )
+a < b
+t \neq 0
+\left| P F _ { 2 } \right| =
+A , B , C
+\triangle A B C
+n \in \mathbf { N } ^ { * } , a _ { n } = n ^ { 2 } + \lambda n
+x _ { 1 } , x _ { 2 } \in
+\log _ { 2 } x < 2
+a _ { i } = \frac { i } { 9 9 } , i = 0 , 1 , 2 , \cdots , 9 9 \text { . 记 } I _ { k } = \left| f _ { k } \left( a _ { 1 } \right) - f _ { k } \left( a _ { 0 } \right) \right| +
+A B
+M N Q
+a , b , c
+\cos A
+P - A B C D
+P C
+/ / C D , B A \perp A D , C D =
+f ( x ) = x - \cos x ( x \in \mathbf { R } )
+\left| x ^ { 2 } + 3 x + 2 \right| , x \leq s l a n t 0
+f ( x ) = x ^ { 2 } - x + 1
+\left( \frac { \pi } { 4 } , 0 \right)
+C E / /
+M - A B - D
+s , t \in A
+s < t
+i = 1 , 2 , \cdots , n - 1
+x _ { 1 } , x _ { 2 } \in
+9 5 \ %
+( \tan \alpha - 1 ) ( \tan \beta - 1 ) = 2
+\forall x \in \mathbf { R } , \frac { 1 } { 2 } a x ^ { 2 } - b x \leq s l a n t \frac { 1 } { 2 } a x _ { 0 } ^ { 2 } - b x _ { 0 }
+f ( x )
+a _ { n } =
+a m
+a _ { n } = \frac { n b a _ { n - 1 } } { a _ { n - 1 } + 2 n - 2 } ( n \geqslant 2 )
+\triangle A B C
+2 \sin A + \frac { a ^ { 2 } + b ^ { 2 } - c ^ { 2 } } { a b }
+\frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 0 , b > 0 )
+\text { 三 个 内 角 } A , B , C \text { 所 对 的 边 依 次 为 } a , b , c
+\ a n g l e A \text { 的 平 分 线 } A D \text { 交 } B C \text { 于 } D
+\left( \frac { 1 } { 2 } , 1 \right)
+x _ { 1 } , x _ { 2 } , x _ { 3 } , x _ { 4 }
+- \frac { 1 } { 2 }
+a = 1 ,
+\frac { m _ { C } } { m _ { A } }
+5 e ^ { - 3 }
+\overrightarrow { B C }
+- \frac { 5 } { 9 }
+y = x + b
+1 + 2 \sqrt { 2 }
+1 - 2 \sqrt { 2 }
+| \mathrm { M N } |
+x \in [ 1 , + \infty )
+( - \infty , 2 \sqrt { 2 } )
+E
+x = 1
+A B = 4
+\frac { 1 } { 2 4 }
+( 0 , + \infty )
+A , B , C
+f ( x ) ( x \in \mathbf { R } )
+\left( x ^ { 2 } - 1 \right) f ( x ) > 0
+l : m x + n y - 1 = 0
+P - A B C
+A B = B C = 2 \sqrt { 2 }
+A \left( - \frac { 1 } { 2 } , 0 \right)
+f ( x )
+f ( x + 4 ) = f ( x - 2 )
+0 . 2 k
+| 2 x - 1 | + | 2 x + 3 | \leq s l a n t 9
+a = a + \frac { 1 } { 2 } a
+A ( 1 , 0 )
+y = k - 1
+A D = C D = \sqrt { 2 } , B C = 2 \sqrt { 2 } , P A = 2 \text { . }
+M - A C - D
+4 5 ^ { \circ }
+\frac { | P M | } { | P D | }
+l _ { 2 }
+\text { 则 } \frac { y } { x + 1 } \text { 的 取 值 范 围 为 }
+P ( X = 3 ) = \frac { \mathrm { C } _ { 4 } ^ { 2 } } { \mathrm { C } _ { 5 } ^ { 3 } } \times \frac { 2 } { 3 } = \frac { 2 } { 5 }
+\frac { 1 } { 5 } \times \frac { 3 } { 5 } + \frac { 2 } { 5 } \left( \frac { 3 } { 5 } + \frac { 2 } { 5 } \right) = \frac { 1 3 } { 2 5 }
+\frac { \sqrt { 3 } } { 3 }
+p _ { 2 } , p _ { 4 }
+\overrightarrow { C B } = 2 \overrightarrow { B F }
+a _ { 2 } - 1
+S _ { n }
+\left\{ \frac { 1 } { d _ { k } d _ { k + 1 } } \right\}
+\{ 4 \}
+\sin \left( 2 x + \frac { \pi } { 6 } \right) =
+2 2 6 5
+S _ { n }
+a \in \mathbf { R }
+A B =
+B C = 2
+\frac { 2 } { 3 }
+\triangle A B C
+( y - 4 ) ^ { 2 } = 9
+6 - 2 \sqrt { 2 }
+\sqrt { 1 7 }
+S _ { 1 0 } = 3 5
+1 5 0 \ %
+\left\{ a _ { n } \right\}
+( 3 \leq s l a n t a \leq s l a n t 5 )
+Q ( a )
+b =
+A B = \sqrt { 2 } A A _ { 1 }
+A B = A C = 2
+A B
+\frac { 2 5 \pi } { 3 }
+F _ { 1 } , B
+4 - 3 \ln 3
+\o v e r p a r e n { B C }
+B , P , Q
+\frac { \sqrt { 5 } } { 5 }
+( 0 , 8 )
+6 0
+a _ { 2 }
+a _ { 3 }
+2 x + 3 y
+f ( x ) = ( 1 + \cos 2 x ) \sin ^ { 2 } x
+f ( x )
+\triangle A B C
+2 0 \sqrt { 3 }
+\frac { 1 } { 3 }
+\pm \frac { 1 } { 2 }
+2 5 ^ { \circ }
+\cos 2 \alpha < 0
+\xi \sim B ( n , p )
+\ a n g l e P A B = 6 0 ^ { \circ }
+p = 0 . 2
+n = 8
+p = 0 . 3 2
+y = f ( x )
+A B C
+P C
+x \in [ 1 , 2 ]
+\mathbf { N } ^ { * }
+0 . 2 5
+0 . 5
+3 \sqrt { 3 }
+B \left( x _ { 2 } , y _ { 2 } \right)
+\frac { 1 5 \sqrt { 3 } } { 2 }
+1 \leq s l a n t
+\sin C = 5
+I \leftarrow 1
+f ( x ) = x ^ { 3 } + 2 x +
+z = \frac { 2 + a \mathrm { i } } { 1 + \mathrm { i } } = \frac { ( 2 + a \mathrm { i } ) ( 1 - \mathrm { i } ) } { ( 1 + \mathrm { i } ) ( 1 - \mathrm { i } ) } = \frac { 2 + a } { 2 } + \frac { a - 2 } { 2 } \mathrm { i }
+\overrightarrow { C B } =
+f ( a ) + f ( 1 - 2 a ) > 0
+\frac { 3 } { 5 } \boldsymbol { a } + \frac { 4 } { 5 } \boldsymbol { b }
+a _ { 4 } ^ { 2 } = a _ { 2 } a _ { 8 }
+f ( x ) = x ^ { 3 }
+b \subset \beta
+- 1 8 0
+\frac { a } { c } = 2
+S A
+A B C D
+p _ { 2 }
+\frac { 7 } { 4 }
+B D
+\xi = 0
+( - 1 , 2 )
+( x + 2 ) ^ { 2 } + y ^ { 2 } = 1
+k y ^ { 2 } - y + y _ { 0 } - k x _ { 0 } = 0
+7 5 ^ { \circ }
+y = \frac { 4 t } { 1 + t ^ { 2 } }
+P - A B C D
+\overrightarrow { A F } =
+P D = \sqrt { 1 7 }
+A A _ { 1 } = A B = 2
+D D _ { 1 } , A B , C C _ { 1 }
+F
+( 2 a - 1 , a + 2 )
+b ^ { 2 } + c ^ { 2 } = a c \cos C + c ^ { 2 } \cos A + a ^ { 2 }
+\geqslant 5 0
+A N
+a > 0 , b > 0
+f ( x ) = x ^ { 2 } - 1
+a , b
+\alpha + \beta = \frac { \pi } { 2 }
+M
+y =
+\alpha + \frac { \beta } { 2 } = \frac { \pi } { 2 }
+2 \alpha - \beta = \frac { \pi } { 2 }
+( - \infty , 1 )
+a , b \in \mathbf { R }
+A B C D
+B \left( x _ { 2 } , y _ { 2 } \right)
+t = \frac { \pi } { 2 }
+C _ { 2 } :
+\frac { 1 } { 5 }
+f ( x ) = \sin x
+\overrightarrow { O N } = 3 \overrightarrow { N M }
+a _ { 7 } =
+a _ { 1 } + 2 a _ { 1 } = 3
+f ( x )
+[ 0 , \pi ]
+- \sqrt { 3 } )
+B D _ { 1 }
+\frac { 2 \sqrt { 5 } } { 5 }
+\text { 若 直 线 } \frac { x } { a } + \frac { y } { b } = 1 \text { 通 过 点 } M ( \cos \alpha , \sin \alpha )
+f ( x )
+\left[ \frac { 1 } { 2 } , \frac { 4 } { 3 } \right]
+A B , A D
+B C , C D
+\frac { y } { x } = \frac { a x } { y } \Leftrightarrow y = \sqrt { a } x
+x , y
+\frac { a } { b }
+- 8
+A \left( \frac { 3 } { 2 } , \pi \right)
+\left\{ b _ { m } \right\}
+f ( x ) = a \mathrm { e } ^ { x } - 2 x + b ( a , b \in \mathbf { R } )
+f ( x ) \geqslant x ^ { 2 } - x + m
+\triangle A B C
+a > 0 , b > 0
+\frac { a ^ { 4 } + b ^ { 4 } } { a + b }
+D , E
+A _ { 1 } D E
+\text { 若 } A \cup B = A
+\alpha
+C _ { 2 }
+\frac { x ^ { 2 } } { a _ { 2 } ^ { 2 } } - \frac { y ^ { 2 } } { b _ { 2 } ^ { 2 } } = 1 \left( a _ { 2 } > 0 , b _ { 2 } > 0 \right)
+a =
+2 \leq s l a n t a \leq s l a n t 4
+f ^ { \prime } ( x ) = 3 a x ^ { 2 }
+A = \left\{ \mathrm { i } , \mathrm { i } ^ { 2 } , \mathrm { i } ^ { 3 } , \mathrm { i } ^ { 4 } \right\}
+\left\{ a _ { n } \right\} , \left\{ b _ { n } \right\}
+W _ { n } < \frac { 1 } { 1 0 }
+0 . 2 5
+c \neq 0
+( - \infty , + \infty )
+y ^ { 2 } = - 2 p x
+S _ { 1 } + 1 , S _ { 3 } , S _ { 4 }
+M = \{ a , c , d \}
+A , B , C
+[ x ]
+( x - 1 ) ^ { 2 } + y ^ { 2 } = 1
+A = \{ 2 , 3 , 5 \}
+- \sqrt { 3 }
+T = a
+\frac { a x - 1 } { x + 1 } < 0
+E ( P )
+g ( x ) = | x + 1 | + | x - 1 |
+a = 1
+\overrightarrow { O A } + \overrightarrow { O B } +
+y = f ( x )
+\ v a r n o t h i n g
+\frac { 2 \tan B \left( 1 + \tan ^ { 2 } C \right) + 2 \tan C \left( 1 + \tan ^ { 2 } B \right) } { \left( 1 - \tan ^ { 2 } B \right) \left( 1 + \tan ^ { 2 } C \right) + \left( 1 - \tan ^ { 2 } C \right) \left( 1 + \tan ^ { 2 } B \right) }
+\triangle P D B
+O P = B P
+P ( 0 , 0 , 2 \sqrt { 3 } ) , \quad B ( 2 , 0 , 0 ) , \quad C ( 0 , 2 \sqrt { 3 } , 0 )
+[ - 2 , 2 ]
+C _ { 2 }
+A , B
+M \left( \rho _ { 0 } , \theta _ { 0 } \right) \left( \rho _ { 0 } > 0 \right)
+( a > 0 , b > 0 )
+O M N
+C _ { 1 }
+C _ { 2 }
+a < 5
+C _ { 1 }
+x = 0
+g ( x ) = \frac { 3 } { x } - \frac { 1 } { x ^ { 3 } }
+\frac { \sqrt { 6 } } { 6 }
+B C D E
+A _ { 1 } , A _ { 2 }
+m \in
+E
+F
+A , B
+B F D _ { 1 } E
+u =
+- \theta
+P - A B C D
+A - P D - C
+f ( x ) = 2 \sin x
+f ( x ) = \sin \left( \pi x - \frac { \pi } { 2 } \right) - 1
+\ a n g l e A B C = 6 0 ^ { \circ }
+A C
+z = x + 3 y
+D
+B D = 1
+a > 0 )
+m / / n
+A C \perp B C
+4 \sqrt { 3 }
+f ( x ) = \frac { a - 2 ^ { x } } { 1 + a \cdot 2 ^ { x } }
+\overrightarrow { O A } = \lambda \overrightarrow { B F } ( \lambda > 0 )
+[ - 3 , + \infty )
+x \in B
+\tan \alpha =
+5 . 5 \sim 7
+\frac { 1 } { \sqrt { a _ { n } } } \leq s l a n t 1 + \frac { 5 } { 2 } ( n - 1 ) = \frac { 5 n - 3 } { 2 }
+[ - 2 , 1 ]
+2 \sqrt { 3 } \pi
+x _ { 1 } , x _ { 2 } , \cdots , x _ { n }
+y = x ^ { 4 }
+\triangle A D C
+\text { ( 2 ) ( 3 ) }
+A , B , C
+a = \frac { \sqrt { 3 } } { 2 }
+a _ { 1 } = 1
+S _ { 3 } = 2 S _ { 2 } + 1
+a _ { 2 n + 1 } = 2 a _ { n } + 3
+b _ { 1 } + 3 b _ { 2 } + \cdots + ( 2 n - 1 ) b _ { n } = n
+\left( - \frac { 1 } { 2 } , + \infty \right)
+\left\{ a _ { n } + b _ { n } \right\}
+1 5 2 , 1 4 7
+\hat { y } = b x + 1 2 . 4
+- 1 . 2
+a ^ { 2 } + b ^ { 2 } \geqslant \frac { 1 } { 2 }
+\triangle A B C
+\overrightarrow { A M } = \lambda \overrightarrow { A B } +
+y = f ( x )
+f ( t ) = 0 ,
+f ( a ) f ( b ) f ( c ) < 0
+x _ { 0 } < a
+3 n \left( \sin \frac { 3 0 ^ { \circ } } { n } + \tan \frac { 3 0 ^ { \circ } } { n } \right)
+6 n \left( \sin \frac { 3 0 ^ { \circ } } { n } + \tan \frac { 3 0 ^ { \circ } } { n } \right)
+R \arccos \frac { 1 7 } { 2 5 }
+m / / n
+m \perp \alpha
+\text { 过 点 } A \text { 作 } A D \perp M N
+1
+\left| A F _ { 1 } \right| = 3 \left| B F _ { 1 } \right|
+A F _ { 2 } \perp x
+B C
+( 1 , + \infty )
+\sqrt { 2 }
+\sqrt { 3 }
+a _ { 1 } \in \mathbf { N } ^ { * } , a _ { 1 } \leq s l a n t 3 6
+\text { 从 } 8 \text { 个 可 能 位 置 中 的 某 个 出 发 }
+\cos \theta
+\frac { \sqrt { 3 } } { 2 }
+[ 0 , 2 ]
+\left[ 0 , \frac { 1 } { 2 } \right]
+M
+f ( x )
+\ e x i s t s x _ { 2 } \in \left[ \frac { 1 } { 2 } , 2 \right]
+- 1 )
+M A
+O M \perp A B
+[ 0 , a ]
+1 5 \ %
+\triangle A B C
+\frac { \pi } { 6 }
+\text { 若 } \sqrt { 2 } a + b = 2 c
+A B C D
+\text { 消 去 } y \text { 得 } \frac { x ^ { 2 } } { 4 } + \left( \frac { 1 } { 2 } x + m \right) ^ { 2 } = 1
+\text { 此 时 直 线 } A B \text { 的 方 程 为 } y = \frac { 1 } { 2 } x \pm 1
+k _ { 0 }
+A _ { 1 } B _ { 1 } = \sqrt { 2 }
+| f ( x ) | = 2 - \frac { x } { 3 }
+\left. \left[ x ^ { 2 } + ( 4 a - 3 ) x + 3 a \right] \right| _ { x = 0 } \geqslant \left. \left[ \log _ { a } ( x + 1 ) + 1 \right] \right| _ { x = 0 }
+E M \cap O M = M
+\frac { 1 } { 3 } \leq s l a n t a < \frac { 2 } { 3 }
+a = \frac { 2 } { 3 } .
+\frac { 2 } { 3 } < a \leq s l a n t \frac { 3 } { 4 }
+g ( 0 ) > 0
+\frac { 1 } { 4 }
+\pi
+\text { 平 面 } P A D \perp \text { 平 面 } A B C D
+A B = A D
+P D
+\ a n g l e B A D = 6 0 ^ { \circ }
+\text { 若 } A D = 6
+\left( - \frac { \pi } { 6 } , 0 \right)
+x _ { 0 } = 8 m ^ { 2 } - 4 a ^ { 2 } = ( a + b ) ^ { 2 } - \frac { 1 } { 2 } ( a - b ) ^ { 2 }
+\theta \in \left( \frac { \pi } { 2 } , \frac { 3 \pi } { 2 } \right)
+| a - b | = \sqrt { 2 \left( \sin ^ { 2 } \theta - \cos \theta \right) } = \sqrt { \frac { 5 } { 2 } - 2 \left( \cos \theta + \frac { 1 } { 2 } \right) ^ { 2 } }
+\left( 6 \sqrt { 2 } , \frac { 1 5 \sqrt { 1 0 } } { 4 } \right]
+A B
+g ( 1 ) - 2 g ( 0 )
+6 \sin A = 4 \sin B =
+( x - 1 ) ^ { 3 } + ( x + 1 ) ^ { 4 } = x ^ { 4 } + a _ { 1 } x ^ { 3 } + a _ { 2 } x ^ { 2 } + a _ { 3 } x + a _ { 4 }
+a _ { 2 } + a _ { 3 } + a _ { 4 } =
+\frac { \pi } { 2 }
+\overrightarrow { C N } = 2 \overrightarrow { N A }
+S _ { n }
+( \sqrt { 3 } )
+- \frac { 1 2 } { 1 3 }
+- \frac { 5 } { 1 2 }
+A C = 2
+k - k \ln k > 0
+| O P | ^ { 2 } + \left| O F _ { 1 } \right| ^ { 2 } = | O A | ^ { 2 } + | O B | ^ { 2 }
+A x + B y + C = 0
+f ( x ) = \frac { x \cdot \cos x } { x - \sin x }
+( - \infty , 1 6 )
+C D = 5
+4 \sqrt { 3 }
+\tan ( \pi - \beta ) =
+\tan ( \alpha - 2 \beta )
+( x - 3 ) ^ { 2 } < ( x - 2 ) ( x - 4 )
+\{ - 2 , 1 , 2 \}
+B \left( \frac { 3 } { 5 } , - \frac { 4 } { 5 } \right)
+A , B
+A B = 2
+y = k x - 2
+a _ { n + 1 } = q ^ { n }
+a = 3
+( x - 2 ) ^ { 2 } + ( y - 1 ) ^ { 2 } = 1
+y = 2 \cos \left( x + \frac { \pi } { 4 } \right) \cos \left( x - \frac { \pi } { 4 } \right) + \sqrt { 3 } \sin 2 x
+\frac { 5 } { 3 6 }
+f ( 0 ) f ( 1 ) - f ( 0 )
+x _ { 1 }
+b _ { n }
+S _ { n } < M
+\text { 公 差 为 } 3 \text { 的 等 差 数 列 , 问 } 5 \text { 人 各 得 多 少 个 橘 子 }
+P ( 1 , 2 )
+A , B
+A = \left\{ x \mid 2 \leq s l a n t 2 ^ { - x } < 8 \right\}
+3 7 2
+\left\{ \frac { a _ { n } ^ { 2 } } { n } \right\}
+a - b
+\left\{ b _ { n } \right\}
+1 + \frac { 1 } { 2 } + \frac { 1 } { 3 } + \cdots + \frac { 1 } { 2 ^ { n } + 1 } < n \left( n \in \mathbf { N } ^ { + } , n > 1 \right)
+n = k ( k > 1 )
+V \approx \frac { 1 } { 3 6 } L ^ { 2 } h
+\frac { 2 5 } { 8 }
+\frac { 3 5 5 } { 1 1 3 }
+y = b
+f ( x ) \geqslant \frac { 1 } { 2 } x ^ { 2 } + a x + b
+\frac { \sqrt { 3 } \sin 1 2 ^ { \circ } + m } { \cos 1 2 ^ { \circ } }
+\sqrt { 5 }
+x = 1
+- \frac { 4 } { 3 }
+- \sqrt { 6 }
+y = 2 x + \ln | x | - \frac { 3 } { 2 }
+0 < x _ { 1 } < x _ { 2 }
+\triangle P A B
+B D \perp C F
+\triangle O A B
+x ^ { 2 } + \frac { 3 } { x ^ { 2 } + 1 } \geqslant 2 \sqrt { 3 } - 1
+\sqrt { x } + \frac { 1 } { \sqrt { x } } \geqslant 2
+F _ { 1 }
+[ - a , a ]
+b = \frac { \sqrt { 3 } } { 4 } c
+f ( 3 ) < f ( - 2 ) < f ( 1 )
+B C
+f ( 0 ) = 1
+A D E
+y = \pm 4 x
+A P
+4 ^ { 3 }
+3 ^ { 4 }
+S _ { n } = 3 \cdot 2 ^ { n } - 3
+a _ { 1 } =
+\left\{ a _ { n } \right\}
+\sqrt { 3 }
+| \boldsymbol { a } | = 2
+A C = 4
+\overrightarrow { B D } \cdot \overrightarrow { A E } =
+[ - \mathrm { e } , 0 ]
+A B B _ { 1 } A _ { 1 } , B C C _ { 1 } B _ { 1 }
+\frac { 1 } { 3 } + \frac { \sqrt { 2 } } { 6 } \pi
+h ^ { \prime } ( x ) = \frac { ( x - 1 ) ^ { 2 } } { x ( x + 1 ) ^ { 2 } }
+h ( 1 ) = 0
+g ^ { \prime } ( x ) < 0
+\text { 则 实 数 } b \text { 的 值 为 }
+x _ { 0 } > 0
+a \leq s l a n t 0
+A ( - 2 , 1 )
+A B
+\left( 0 , \frac { 1 } { 2 } \right)
+f ( x ) = \left( \mathrm { e } ^ { x } - \mathrm { e } ^ { - x } \right) \cos x
+C : \frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 0
+g ^ { \prime } ( x ) = \frac { 3 ( x - 1 ) ( x + 1 ) } { x ^ { 4 } }
+p > 0
+x + y - 1 \geqslant 0
+P , Q
+A B = 2
+A C = 3
+b
+\cos ( \alpha + \beta )
+( 0 , 1 )
+M ( 1 , 2 )
+\frac { 5 } { 7 }
+x ^ { 2 } + y ^ { 2 } + 2 x - 4 y + 1 = 0
+x _ { 0 } > 0
+N
+E F G H
+M N / /
+A _ { 1 } B _ { 1 } , B C
+\alpha = \left( x _ { 1 } , x _ { 2 } , \cdots , x _ { n } \right)
+1 \leq s l a n t i < j \leq s l a n t n
+\beta = \left( y _ { 1 } , y _ { 2 } , y _ { 3 } \right)
+T ( \alpha , \beta ) \text { ; }
+4 \mathrm { C } _ { 7 } ^ { 4 } = 4 \cdot 3 5 = 1 4 0
+a _ { n } + a _ { n - 1 } =
+p \wedge ( \ne g q )
+y = \sqrt { x }
+A D _ { 1 } E
+\sin A + \sqrt { 3 } \cos A = 0
+b = 2
+a \geqslant 3
+f \left( \frac { \pi } { 6 } \right) = 1
+- 1 + i
+\bar { z }
+A > 1 0 0 0
+4 a ^ { 2 } - 2 a b + b ^ { 2 } - c = 0
+\frac { \sqrt { 5 } } { 5 }
+B _ { n }
+- \frac { 1 } { 2 }
+A B E F
+A B = A D = A F = 2
+| a - b | \leq s l a n t | a | + | b |
+- \sin \left( 2 \alpha + \frac { \pi } { 6 } \right)
+\text { 且 } A B =
+1 2 0 ^ { \circ }
+\triangle A _ { 1 } D E
+| c |
+\alpha , \beta
+m \subset \alpha
+m \perp n
+m / / \beta
+I _ { 2 } < I _ { 1 } < I _ { 3 }
+f ( x )
+x ^ { 2 } + \frac { y ^ { 2 } } { 4 } = 1
+\triangle P Q F
+E : \frac { x ^ { 2 } } { 1 6 } + \frac { y ^ { 2 } } { 1 2 } = 1
+S _ { n }
+z _ { 1 } + z _ { 2 } = 2
+\sqrt { 2 }
+x ^ { 2 } + y ^ { 2 } - 2 x - 3 = 0
+S _ { 4 }
+x = \frac { \pi } { 3 }
+f ( x ) = \sqrt { x } - \cos x
+( \mu - \sigma , \mu + \sigma )
+0 . 9 5 4 5 , P ( \mu - 3 \sigma < \xi \leq s l a n t \mu + 3 \sigma ) \approx 0 . 9 9 7 3
+f ( x ) = \frac { 1 } { 6 } x ^ { 3 } - \frac { 1 } { 2 } a x ^ { 2 } - b x ( a > 0 , b > 0 )
+A C
+A C D
+3 0 ^ { \circ }
+B C
+\frac { \sqrt { 1 0 } } { 1 0 }
+x > 1
+a _ { 1 } = 1
+- 1 5
+- 2 0
+\left\{ a _ { n } \right\}
+F _ { 1 } , F _ { 2 }
+\sqrt { 1 0 }
+\text { 已 知 函 数 } f ( x ) = \sin \left( w x + \frac { \pi } { 3 } \right) ( w > 0 ) \text { 在 } \left[ 0 , \frac { \pi } { 4 } \right] \text { 上 单 调 }
+\frac { 1 } { 6 }
+\frac { 2 } { 3 }
+\left( u _ { 1 } , v _ { 1 } \right)
+\triangle A B C
+- \frac { \sqrt { 5 } } { 3 }
+- \frac { 4 } { 5 }
+A _ { 1 } , A _ { 2 }
+t _ { 1 } \neq t _ { 2 }
+a
+a ^ { 2 } - c ^ { 2 } = 2 b
+2 x + y - 3 = 0
+A
+A x + B y + C = a
+\frac { 5 6 \sqrt { 2 } } { 3 }
+\cos C = \frac { 1 } { 3 }
+\triangle A B C
+y ^ { 2 } = 4 x
+\triangle A B E
+G F / /
+f ( x ) = | 2 x - a | + a
+k , b
+Q _ { n } = b _ { 1 0 } + b _ { 1 2 } +
+f ( x ) = \ln \left| \frac { 1 + x } { 1 - x } \right|
+\text { [ 1 5 7 . 5 , }
+P \cap Q =
+\{ ( 0 , 1 ) \}
+x \in \mathbf { R }
+( 1 + x ) ( 1 - 2 x ) ^ { 7 } = a _ { 0 } + a _ { 1 } x + a _ { 2 } x ^ { 2 } + \cdots + a _ { 8 } x ^ { 8 }
+\ a n g l e D E B
+( - \infty , - 1 ) \cup ( - 1 , 0 ) \cup \left( \frac { 1 } { \mathrm { e } } , 2 \right)
+y = \sin \varphi
+y = 2 \sqrt { 1 - t ^ { 2 } }
+\left\{ a _ { n } \right\}
+( n \in
+\alpha
+| P Q |
+a , b , c
+2 x - y - 4 = 0
+B _ { 1 } , B _ { 2 } \text { , }
+B C = 2 B D
+\frac { \sqrt { 3 } } { 3 }
+\frac { \sqrt { 6 } } { 6 }
+r =
+\left( \frac { \pi } { 6 } , \frac { \pi } { 3 } \right]
+1 0 0 0 \mathrm { ~ H z }
+( - \infty , 2 ]
+( 7 , 2 )
+( x - 1 ) ^ { 2 } + ( y - 1 ) ^ { 2 } = 1
+A B
+c ( a - b )
+x O y
+\triangle A B D
+1 + \sqrt { 3 }
+g ( x ) = a x
+n / / \beta
+( 0 , 1 )
+\left( 1 - \frac { \sqrt { 2 } } { 2 } , \frac { 1 } { 2 } \right)
+\left[ \frac { 1 } { 3 } , \frac { 1 } { 2 } \right)
+a =
+= 1 ( a > b > 0 )
+A D : x + c = m y
+\left( 1 , \frac { 7 } { 5 } \right)
+| M N | \geqslant 2 \sqrt { 3 }
+A D = B D
+f ( x ) = x - \frac { 1 } { x } - a \ln x ( a \in \mathbf { R } )
+\frac { 3 } { 5 }
+a _ { 1 } a _ { 2 } \cdot \cdots \cdot a _ { n } = 4 ^ { \frac { n ^ { 2 } + n } { 2 } }
+b _ { n } = 3 \log _ { 2 } a _ { n } + 3
+\rho ^ { 2 } +
+1 0 . 9 2 ^ { 2 } \approx 1 1 9 . 2 5
+f ( x ) = a x ^ { 2 } - a x - x \ln x
+\text { 计 算 } \lim _ { n \rightarrow \infty } \frac { 2 n ^ { 2 } - 3 n + 1 } { n ^ { 2 } - 4 n + 1 } =
+\left( 0 , \frac { 1 } { 2 } \right]
+a _ { 5 } = 3 a _ { 3 } + 4 a _ { 1 }
+a _ { 3 } =
+c = 4
+\left\{ a _ { n } \right\}
+h ( x )
+f ( x ) =
+f ( 6 - a )
+2 0 0 0
+f ( x )
+a = - 1
+a > 0
+2 0 = 0
+x \in \left[ - \frac { \pi } { 3 } , a \right]
+a \leq s l a n t 0
+x , y
+f ( b ) < 0
+1 6
+( 0 , \sqrt { a } )
+g ( x ) = \mathrm { e } ^ { - x }
+3 x + 4 y + 1 5 = 0
+a _ { 3 } + a _ { 5 } = 2 0
+f ( x )
+[ - 4 , 6 ]
+\overrightarrow { M F } _ { 2 } < 0
+\boldsymbol { b } = ( 2 , - 1 )
+\left( 0 , \frac { \sqrt { 1 5 } } { 5 } \right)
+2 : 1
+- 9
+A \cap B
+A B C
+- \frac { 4 } { 3 }
+\triangle A B C
+b , c
+( 1 , \sqrt { 3 } )
+- \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+a _ { 3 } = 3
+y = \log _ { \frac { 1 } { 2 } } x
+z \cdot \bar { z } =
+\varphi =
+A _ { 1 } B
+B - A _ { 1 } D - A
+S _ { n }
+8 5 \ %
+c < 0
+y = \l g x
+( 3 , + \infty )
+f ^ { 2 } ( x ) + b f ( x ) + c = 0
+f ( x ) = 0 \text { 有 }
+c = 0
+F ^ { \prime } ( x ) > 0
+a x - 1 > 0
+h ^ { \prime } ( a ) = - \frac { a } { a - 1 } < 0
+S _ { n } = a _ { 1 } + a _ { 2 } + \cdots + a _ { n }
+P _ { 1 } ( 1 0 , 0 )
+P D
+- 2
+\ a n g l e A B C = 6 0 ^ { \circ }
+a , b \in \mathbf { R }
+\{ x \mid - 2 < x < 2 \}
+P _ { 1 } \left( x _ { 1 } , y _ { 1 } \right) , P _ { 2 } \left( x _ { 2 } , y _ { 2 } \right) , P _ { 3 } \left( x _ { 3 } , y _ { 3 } \right)
+2 \left| F P _ { 2 } \right| = \left| F P _ { 1 } \right| + \left| F P _ { 3 } \right|
+x \in [ - 1 , 2 0 2 0 )
+[ - 1 , 1 0 0 )
+B C = 2 \sqrt { 2 }
+A B = 2
+f ( x ) = \frac { \cos ^ { 2 } x } { \cos x \sin x - \sin ^ { 2 } x }
+\frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+g ( x ) = x ^ { 2 } - | x |
+z = ( 1 +
+9 5 \ %
+A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+\left[ \frac { 2 \pi } { 3 } , \frac { 5 \pi } { 6 } \right)
+A , B
+E F \perp A D
+\frac { S } { N }
+x
+C D
+C : \frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 0 , b > 0 )
+a _ { 2 } = \frac { 8 } { 9 }
+a _ { n + 1 } - a _ { n } = 2
+\text { 集 合 } B = \left\{ x \mid x ^ { 2 } < x \right\}
+( 1 , f ( 1 ) )
+a \leq s l a n t 1 0
+x = \cos ^ { k } t
+\cos ^ { 2 } t = \frac { x - y + 1 } { 2 }
+2 \sqrt { 2 }
+\left\{ a _ { n } \right\} , \left\{ b _ { n } \right\}
+F _ { 1 } , F _ { 2 }
+\left\{ a _ { n } \right\}
+f ( x ) = f ( 2 - x )
+\alpha = 0
+\frac { x ^ { 2 } } { 2 } + y ^ { 2 } = 1
+\overrightarrow { P F } \cdot \overrightarrow { O Q } = ( - 1 - \sqrt { 2 } \cos \alpha , - \sqrt { 2 } \sin \alpha ) \cdot \left( - 3 , \frac { 3 ( 1 + \sqrt { 2 } \cos \alpha ) } { \sqrt { 2 } \sin \alpha } \right)
+F _ { 1 } , F _ { 2 }
+f ( x ) = x ^ { 2 } + a x + b ( a , b \in \mathbf { R } )
+f ( x - 2 ) \leq s l a n t 1
+\lambda \in \mathbf { R }
+\overrightarrow { B Q } \cdot \overrightarrow { C P } = - \frac { 3 } { 2 }
+- 1
+P - A B C D
+\bar { x } _ { \text { 甲 } }
+A B C D
+b = e _ { 1 } + e _ { 2 } -
+\frac { - 3 \pm 2 \sqrt { 2 } } { 2 }
+A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+A _ { 1 } D _ { 1 }
+\triangle O A B
+\triangle A B C
+9 0 ^ { \circ }
+f ( x ) \leq s l a n t | x |
+\overrightarrow { P A } = \frac { 2 } { 3 } \overrightarrow { B A } + \frac { 1 } { 3 } \overrightarrow { B C }
+3 \sqrt { 2 } - 1
+A _ { 1 } , A _ { 2 } , A _ { 3 } , A _ { 4 } , A _ { 5 }
+\lambda S _ { n } = b _ { n } - 1
+1 . 1 ^ { 2 4 } \approx 9 . 8 4 9 7
+\left( - 1 , \mathrm { e } ^ { k - 1 } - 1 \right]
+f ( x ) > 0 \Leftrightarrow f ( x ) _ { \min } > 0
+f \left( \mathrm { e } ^ { k - 1 } - 1 \right) = k + 1 - \mathrm { e } ^ { k - 1 } > 0
+( - \infty , 1 ]
+\left( - \frac { \pi } { 6 } , 0 \right)
+f ( x ) = \sin \left( 2 x + \frac { \pi } { 6 } \right)
+b f ( a ) > a f ( b )
+a f ( a ) > b f ( b )
+f ( x )
+f ( x ) = 2 - | 2 x - 2 |
+g ( x ) = f ( x ) - \sqrt { | x | } ( x \in [ - 8 , 8 ] )
+\frac { \pi } { 2 }
+\left[ - \frac { \pi } { 2 } , \frac { \pi } { 2 } \right]
+A B
+f ( x ) = \sin ^ { 2 } x + \cos x - \frac { 3 } { 4 } , x \in \left[ 0 , \frac { \pi } { 2 } \right]
+f ( x ) = a \mathrm { e } ^ { x } - \ln x - 1
+f ( x ) \geqslant 0
+f ( x ) = 2 ^ { x } - 1
+f ( - 2 )
+| P Q | =
+\frac { x ^ { 2 } } { 2 } + y ^ { 2 } = 1
+l
+A , B
+\frac { 9 } { 1 0 }
+( 2 + \sqrt { 2 } \cos \alpha , \sqrt { 2 } \sin \alpha - 1 )
+\left\{ \frac { a _ { n } } { n } \right\}
+p _ { 4 }
+A B = A D = P D = P B = 1
+\cos \ a n g l e D C B = \frac { 4 } { 5 }
+D : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+y = g ( x )
+x - b y + 2 b + 1 = 0
+f ( a ) = 2
+k _ { 1 } , k _ { 2 } , k _ { 3 }
+0 < a < \frac { 1 } { \mathrm { e } }
+A B
+x ^ { 2 } + ( y - 1 ) ^ { 2 } = 1 6
+\ln x - 2 x + \frac { 3 } { 2 } < 0
+g ( x )
+x > \frac { 1 } { 2 }
+A D = \sqrt { 3 }
+x ^ { 2 } + ( y - 1 ) ^ { 2 } = 5
+- 2
+4 = 1 6 + A C ^ { 2 } - 4 \sqrt { 3 } A C
+[ 0 , + \infty )
+A ( 2 \sqrt { 3 } , 0 , 0 )
+\boldsymbol { n } = \left( \frac { 2 \lambda } { \sqrt { 3 } - \sqrt { 3 } \lambda } , 1 , - 2 \right)
+A B C
+\overrightarrow { A E } = \lambda \overrightarrow { A C } - \overrightarrow { A B } ( \lambda \in \mathbf { R } )
+x \in
+x _ { 0 }
+b = [ f ( 1 ) ] ^ { 1 0 }
+y = 1 0 \mathrm { e } ^ { \lambda t }
+c < b < a
+f \left( \log _ { 2 } 3 \right) =
+a = \frac { 3 } { 2 } , b = \frac { 1 } { 2 }
+C D = 3
+I _ { 1 } = \overrightarrow { O A } \cdot \overrightarrow { O B }
+C _ { 1 } C A A _ { 1 }
+B Q = \frac { 1 } { 4 } B D
+A R =
+R Q
+N ( n , 4 ) = n ^ { 2 }
+M , N
+1 + \omega =
+\frac { 3 } { 2 5 } + \frac { 4 } { 2 5 } \mathrm { i }
+a _ { n } = 4 n - 4 3
+\left\{ b _ { n } \right\}
+\ a n g l e B C D = \frac { \pi } { 3 }
+A D = 3
+x _ { 1 } , x _ { 2 } , x _ { 3 }
+1 , 2 , 3 , 4 , 5 , 6 , 7
+\triangle A B C
+B C = 1
+a / / \alpha
+x > y
+f ( x ) = \frac { 1 } { 2 } a x ^ { 2 }
+f ( x ) > g ( x )
+y = ( x - 3 ) \mathrm { e } ^ { x }
+a _ { n + 1 } ^ { 2 } -
+\sum _ { i = 1 } ^ { 1 0 } y _ { i } = 9 . 3 6 7 , \sum _ { i = 1 } ^ { 1 0 } t _ { i } y _ { i } = 5 1 . 8 6 6 , \sum _ { i = 1 } ^ { 1 0 } t _ { i } ^ { 2 } = 3 8 5
+\forall a , b > 0 , a + \frac { 1 } { b } < 2
+\ e x i s t s a , b > 0 , a + \frac { 1 } { b } < 2
+a \geqslant 2
+f \left( \frac { 1 } { m - 1 } \right) < 0
+\overrightarrow { B D } = 2 \overrightarrow { D C }
+\frac { 3 \sqrt { 2 } } { 4 }
+C \left( x _ { 3 } , y _ { 3 } \right)
+\text { 则 实 数 } a \text { 的 取 值 范 围 是 }
+( - \infty , - 3 ] \cup [ 1 , + \infty )
+M \left( x _ { 0 } , y _ { 0 } \right)
+- \frac { 1 } { 2 }
+e _ { 2 } = \sqrt { 6 }
+e _ { 1 } ^ { 2 } + e _ { 2 } ^ { 2 } < 4
+C _ { 2 }
+\alpha , \beta
+P A B , P C D
+P D =
+x ^ { \prime } O y ^ { \prime }
+e - 1
+S _ { 5 } = 1 0
+y = x
+f ( x ) = \sqrt { x ^ { 2 } }
+\left\{ b _ { n } \right\}
+a _ { 3 } = \frac { 1 } { 4 }
+a _ { n } = - \frac { 1 } { 2 } + \frac { 3 } { 4 a _ { n + 1 } - 2 } , n \in \mathbf { N } ^ { * } , \frac { 5 } { 4 } < a _ { 2 } < 2
+l _ { 1 }
+\frac { 2 \sqrt { 2 } } { 3 }
+\sqrt { 2 }
+C \left( x _ { 0 } , y _ { 0 } \right)
+M \left( - \frac { x _ { 0 } } { 2 } , - \frac { y _ { 0 } } { 2 } \right)
+\frac { 1 } { a ^ { 2 } } + \frac { \left( y _ { 1 } - y _ { 2 } \right) \left( y _ { 1 } + y _ { 2 } \right) } { \left( x _ { 1 } - x _ { 2 } \right) \left( x _ { 1 } + x _ { 2 } \right) b ^ { 2 } } = 0
+y = - \frac { b ^ { 2 } } { y _ { 0 } } \left( \frac { x _ { 0 } x } { a ^ { 2 } } + \frac { 1 } { 2 } \right)
+a < 0 , b > 0
+A B = 1 2
+\cos \alpha = - \frac { 5 } { 1 3 }
+- \frac { 5 } { 1 3 }
+\frac { 5 } { 1 3 }
+- \frac { 3 } { 2 } + \frac { 1 } { 2 } \mathrm { i }
+- 2 a - 1
+b \sin A = a \cos \left( B - \frac { \pi } { 6 } \right)
+4 x + 3 y - 3 5 = 0
+| x | \leq s l a n t 1
+- \frac { 1 } { 2 }
+P ( B \mid A ) = \frac { 1 } { 1 0 }
+C _ { 1 }
+\text { 若 方 程 } f ( x ) = a x \text { 有 } 4
+( 0 , 1 )
+( - \infty , 1 )
+f ( x )
+\frac { 3 } { 2 }
+f ( x ) = \mathrm { e } ^ { x } + \frac { 1 } { 2 } m x ^ { 2 } - x
+F , D _ { 1 } , G
+a \geqslant 1 \text { 时 , } f ^ { \prime } ( x ) \geqslant 0 ( 0 \leq s l a n t x \leq s l a n t \pi )
+g ( x ) = a x + \cos x - \sin x - 1 \leq s l a n t 0
+( g ( 0 ) = 0 \leq s l a n t 0 ,
+g ( x ) =
+\left. \left[ 0 , x _ { 0 } \right] \ r i g h t \rfloor
+g ( x )
+\left( - \infty , \frac { z } { \pi } \right] .
+\text { , } x _ { 2 } = \pi - \arcsin a ,
+g ( x ) \text { 在 }
+x = - 1
+P F _ { 1 }
+B F
+M N B
+\pm 2
+A B C D
+\sin x + \cos x - 1 = 0
+y =
+A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+( x - 4 ) ^ { 2 } + y ^ { 2 } = 1
+0 . 0 0 2
+\frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+a = 2
+\frac { k _ { 1 } } { k _ { 2 } }
+\ a n g l e A O B = 1 2 0 ^ { \circ } , \ a n g l e A O C =
+( - \infty , 0 )
+2 x + y - 3 = 0
+\mathrm { E } \left( \xi _ { 1 } \right) < \mathrm { E } \left( \xi _ { 2 } \right)
+f ( x ) = a x ^ { 3 } - 3 x ^ { 2 } + 1 - \frac { 3 } { a }
+y = f ( x )
+b _ { n } = a _ { n + 1 } - a _ { n } \left( n \in \mathbf { N } ^ { + } \right)
+( p > 0 )
+f ( x ) = \tan x
+\frac { 2 \sqrt { 3 } } { 3 }
+2 \sqrt { 5 } + 2
+\text { 若 复 数 } z \text { 满 足 } \mathrm { i } \cdot z = 1 + 2 \mathrm { i }
+2 \sin 2 x \text { 的 图 像 }
+\text { 函 数 } f ( x ) \text { 在 区 间 } \left( - \frac { \pi } { 2 } , 0 \right) \text { 上 单 调 递 减 }
+\cos \ a n g l e A B D = \frac { \sqrt { 2 } } { 2 }
+- \ln 2
+2 + 4 \mathrm { i }
+\ t h e r e f o r e z = 4 + 2 \mathrm { i }
+A B
+C D
+a c
+A \cap \left( \ c o m p l e m e n t _ { U } B \right) =
+\frac { 3 } { 2 }
+\left( - \frac { 3 } { 4 } , 0 \right)
+y = f ( x - 1 )
+- 3
+\left[ - \frac { 2 5 } { 4 } , - 4 \right]
+A A ^ { \prime } A _ { 1 } ^ { \prime } A _ { 1 }
+a _ { 1 } \mathrm { C } _ { n } ^ { 0 } + a _ { 2 } \mathrm { C } _ { n } ^ { 1 } +
+k _ { 1 } , k _ { 2 }
+P A B C
+\sqrt { 6 }
+\frac { 1 } { 6 } \pi d ^ { 3 } = \sqrt { 6 } \pi
+\frac { 1 } { m } + \frac { 2 } { n }
+\left( \frac { 2 } { 3 } , 1 \right)
+m + n =
+\left\{ b _ { n } \right\}
+a , b , c
+C D
+y = f ( x )
+A C
+\frac { 2 \sqrt { 3 } } { 3 }
+\left( - \frac { 9 \pi } { 8 } , - \frac { 7 \pi } { 8 } \right)
+\text { 已 知 双 曲 线 } \frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 0 , b > 0 ) \text { 的 左 、 右 焦 点 分 别 为 }
+\text { 点 } A ( 3 , \sqrt { 2 } ) \text { 是 双 曲 线 上 一 点 }
+B D = 1 2
+C _ { 1 } D
+\left[ 6 0 ^ { \circ } , 9 0 ^ { \circ } \right]
+f ^ { - 1 } ( x ) \leq s l a n t 2 x - 1
+f ^ { - 1 } ( x ) \leq s l a n t 2 x + 1
+\frac { \sqrt { 2 } } { 2 }
+y = f ( x )
+y = - 1 8
+x = 2
+k = 1 2
+y = 9
+k \geqslant 0
+- 2 \leq s l a n t x < 0
+e + 3
+A C
+8 a _ { 2 } +
+( 0 , \pi )
+\left. \frac { \pi } { 4 } \right] + \left[ \frac { \pi } { 4 } \oplus ( \omega x ) \right] ( \omega > 0 )
+k > \frac { \sqrt { 2 } } { 2 }
+s < t
+4 - \sqrt { 2 }
+b _ { 1 } , b _ { 2 } , \cdots , b _ { n } \text { , }
+B C = 3
+h ( x ) = \min \{ f ( x ) , g ( x ) \}
+\frac { y ^ { 2 } } { 6 4 } = 1
+B E = 2 E C
+\frac { 1 } { 3 }
+\overrightarrow { A B } =
+C _ { U } A \cap B
+\frac { 1 } { 2 } b c = \frac { 1 } { 2 } \sqrt { b ^ { 2 } + c ^ { 2 } } \cdot \frac { 1 } { 2 } c
+\frac { x ^ { 2 } } { 1 2 } + \frac { y ^ { 2 } } { 3 } = 1
+y ^ { 2 } = 4 x
+K ( - 1 , 0 )
+c < a < b
+f ( x ) = \frac { \mathrm { e } ^ { x } } { 1 + \frac { 4 } { 3 } x ^ { 2 } }
+[ - 3 , 0 ]
+1 0 . 8 2 8
+b = 2
+x f ( x + 1 ) > 0
+A ( 3 , 0 )
+\alpha / / \beta , \beta / / \gamma , m \perp \alpha ,
+m / / \alpha , n / / \alpha
+\text { ( 1 ) }
+\text { ( 4 ) }
+y = \mathrm { e } ^ { - x }
+B = \{ x \mid - 1 < x < 2 \}
+\sqrt { 3 }
+f ( x ) = 2 \sqrt { 3 } \sin \left( \frac { \pi x } { 8 } - \frac { \pi } { 4 } \right)
+( 1 , 2 ) \cup ( 2 , 3 )
+x ^ { 2 } = 8 y
+f ( x )
+\frac { \pi } { 8 }
+y = a ( x + 2 )
+a , b \in \mathbf { R }
+n / / \beta
+f ( x ) = a \ln x - \frac { 1 } { 2 } x ^ { 2 } + b x
+f ( x )
+i = i + 1
+f ^ { \prime } ( x )
+\left( n \in \mathbf { N } ^ { * } \right)
+\forall x \in \left( - \frac { \pi } { 2 } , 0 \right) , x \leq s l a n t \tan x
+\triangle A B F _ { 2 }
+a = \sqrt { 3 }
+( - 4 , 0 ) \cup ( 0 , 1 )
+A P
+[ - 4 , 0 ) \cup ( 0 , 1 ]
+\triangle P B C
+| a - b | \leq s l a n t \sqrt { 3 }
+| c | \leq s l a n t 1 + \frac { 1 } { 2 } \left( a ^ { 2 } + b ^ { 2 } + | a - b | \right) \leq s l a n t 2 + \sqrt { 3 }
+A _ { 1 }
+f ( x ) = \sqrt { 3 } \sin \frac { \pi x } { m }
+P C
+P A \perp
+C E
+a = 2
+a = \sqrt { 2 }
+x ^ { 2 } + 2 y ^ { 2 } = 2
+x + y
+\in M
+N ( 3 , 4 )
+( \xi < 2 a - 3 ) = P ( \xi > a + 2 )
+B _ { 1 } F _ { 1 } B _ { 2 } F _ { 2 }
+A , B
+y = - \sqrt { 1 + \log _ { 3 } x }
+b = \sqrt { c ^ { 2 } - a ^ { 2 } } =
+a = - 1
+A = \{ 2 , 3 , 4 , 5 , 6 , 8 \}
+\frac { 3 } { 4 }
+n = 1
+6 0
+\left( 0 , \frac { 1 } { 2 } \right)
+\triangle D B _ { 1 } E
+A B = B C = 2 \sqrt { 2 }
+( - \infty , 1 )
+f ^ { \prime } ( x )
+\text { 已 知 椭 圆 } E : \frac { x ^ { 2 } } { 2 } + y ^ { 2 } = 1
+T _ { n }
+B = \{ x \mid x ( x - m ) > 0 \}
+\left[ \frac { 1 } { 2 } , 2 \right]
+- \frac { 6 } { 7 }
+\frac { 6 } { 7 }
+f ( x ) = a \sin ( 1 - x ) + \ln x
+\left( x - \frac { 1 } { x } \right) ^ { n }
+a _ { 2 } = 2
+n = 1 , 2 , 3 , \cdots
+x ^ { 2 }
+P D
+y = \mathrm { e } ^ { x } - 2 \sin x - 2 x \cos x
+f ( x ) = \frac { 1 + a + x ^ { 2 } } { x } - a \ln x ( a \in \mathbf { R } )
+A C
+B C
+\frac { 4 1 } { 6 0 }
+x _ { 0 } = \sqrt { b }
+y = f ( x )
+\overrightarrow { C P }
+\frac { 1 5 } { 4 }
+O y / /
+D C V
+S - A B C D
+S C D
+x = \frac { 1 } { 2 }
+\overrightarrow { B C } =
+( - 7 , - 4 )
+y = \log _ { a } \left( x + \frac { 1 } { 2 } \right)
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+a > 0
+F _ { 2 } A _ { 2 }
+E , F
+P - A B C D
+P B C \perp
+b \cdot
+\overrightarrow { O A } \cdot \overrightarrow { O B } = 2
+\frac { 5 \pi } { 6 }
+x y \in S
+( - \infty , - 3 ] \cup [ 2 , + \infty )
+\log _ { a } ( x y ) < 0
+\ a n g l e M P N
+\{ x | | x \mid > 1 , x \in \mathbf { Z } \}
+- 1 5
+1 5
+f ^ { \prime } ( x ) = 1 + \frac { a } { x } = \frac { x + a } { x } >
+a \geqslant
+\left[ \frac { 1 - x ^ { 2 } } { x } \right] _ { \max } = \frac { 3 } { 2 }
+B E
+B E
+f ( x ) = \frac { 1 } { x - 1 }
+h ( x )
+( x + \sqrt { x } ) ^ { 3 }
+a = \frac { 2 \sqrt { 2 } } { 3 }
+( - 2 , 2 )
+x > - 1
+( 1 + x ) ^ { m } \geqslant 1 + m x
+\left( 1 - \frac { m } { n + 3 } \right) ^ { n } < \left( \frac { 1 } { 2 } \right) ^ { m } , m = 1 , 2 , \cdots , n
+\ a n g l e B A C
+\overrightarrow { B C } = \lambda \overrightarrow { C E }
+2 . 2
+\left( \frac { 1 } { 2 } \right) ^ { a } > \left( \frac { 1 } { 2 } \right)
+3 0 ^ { \circ }
+\left\{ a _ { n } \right\}
+\left\{ a _ { n } \right\}
+b _ { 2 } S _ { 4 } = 5 a _ { 2 } b _ { 3 }
+S _ { n }
+\frac { 1 } { 3 } S _ { 3 }
+S _ { n }
+a _ { n }
+\frac { \sqrt { 3 } } { 2 }
+f ( x ) = 3 ^ { x } + 3 ^ { - x }
+\left\{ a _ { n } \right\}
+\sqrt { 3 }
+A = \{ - 2 , 0 , 1 , 2 \}
+\{ - 2 , - 1 \}
+x _ { 1 } , x _ { 2 } \in D
+S _ { n }
+A F , B F
+\frac { 3 } { 5 }
+2 \sqrt { 2 } \approx 2 . 8 2 8
+1 0 7 5 3 \mathrm { ~ d }
+r = 2 \sqrt { 2 }
+B C
+x O y
+3 ^ { 3 6 1 }
+\frac { M } { N }
+1 0 ^ { 5 3 }
+\hat { y } = \hat { b } x + \hat { a }
+4 8 \text { 种 }
+f ( x ) = \frac { \mathrm { e } ^ { x } } { x + a }
+\frac { 4 } { 7 }
+\ a n g l e P C D = \alpha
+F _ { 1 } , F _ { 2 }
+\frac { 2 } { 9 }
+\frac { 8 } { 2 7 }
+\frac { 4 } { 9 }
+2 n ^ { 2 } \geqslant 0
+[ - 1 8 , 7 ]
+a _ { 1 } = 3
+3 3
+\boldsymbol { a } \cdot \boldsymbol { b } = 1
+\frac { \sqrt { 3 } } { 2 }
+\frac { \pi } { 3 }
+S _ { 5 } = 9 0
+P , Q
+x _ { 0 } x + y _ { 0 } y = 1
+\text { R t } \triangle A O B
+A B C - D E F G
+\sqrt { 1 9 }
+f ( x ) =
+\frac { \sqrt { 3 } } { 4 }
+\frac { \sqrt { 3 } } { 8 }
+\frac { 1 } { 3 } + \frac { \sqrt { 2 } } { 3 } \pi
+\rho = \frac { \sin \theta } { 2 \cos ^ { 2 } \theta }
+C _ { 2 }
+\lambda \boldsymbol { e } _ { 2 } ( \lambda \in \mathbf { R } )
+\frac { \pi } { 6 }
+B = \left\{ x \mid x = 2 ^ { n } , n \in \mathbf { N } ^ { * } \right\}
+\ a n g l e A C B = \frac { 2 \pi } { 3 }
+\frac { \sqrt { 3 } } { 4 } + \frac { \pi } { 2 4 }
+A B C D
+\ a n g l e B A D = \frac { \pi } { 3 }
+k _ { 1 } = \frac { 1 } { 3 }
+a =
+\frac { 6 } { a } = 2
+x ^ { 2 } = 4 \sqrt { 3 } y
+m
+a
+x ^ { 2 } + y ^ { 2 } + 2 x - 2 y + a = 0
+\sqrt { 3 }
+\text { 已 知 正 三 角 形 } A B C \text { 的 顶 点 都 在 半 径 为 } 2
+A B
+\left( x + y - \frac { 1 } { x } - \frac { 1 } { y } \right) ^ { 4 }
+4 8
+- 4 8
+A = \left\{ x \mid \left( x ^ { 2 } - \right. \right.
+\{ - 2 \}
+f ( x ) = x ^ { 3 } + 3 x ^ { 2 } + 1
+\bar { z }
+\alpha \perp \beta
+A P
+E F
+\triangle P B C
+P _ { - }
+\frac { \sqrt { 1 5 } } { 5 }
+A B
+A B C D
+y = f ( x )
+f ( a ) + f ( 1 ) = 0
+A = \{ 2 , 4 \}
+T _ { n }
+[ 2 0 , 3 0 ]
+a _ { 1 } = - 1 , a _ { n + 1 } = S _ { n } S _ { n + 1 }
+Y \sim B ( 1 0 0 0 , 0 . 1 )
+6 5 ^ { \circ }
+\left\{ a _ { n } \right\}
+\frac { \sqrt { 3 } } { 2 }
+8 \sqrt { 3 }
+f ( 2 ) < f ( 3 ) < g ( 0 )
+\overrightarrow { A B } + \overrightarrow { A C } = m \overrightarrow { A M }
+m =
+g ( x ) = \mathrm { e } ^ { - x } - x f ( x )
+\frac { ( x + 1 ) g ( x ) } { \mathrm { e } ^ { x } } < 1 + \mathrm { e } ^ { - 2 }
+\left( - \infty , \frac { 8 } { 3 } \right]
+y = k
+a _ { n } = 2 n - 1 1
+0 . 5
+S _ { k } = - 3 5
+a _ { n } > k
+0 . 1
+\overrightarrow { O A } = 1 2 \overrightarrow { A B } + 3 \overrightarrow { A C }
+B E
+\frac { \sqrt { 1 3 } } { 1 0 }
+B C
+d \neq 0
+D B
+[ \mathrm { e } - 1 , + \infty )
+0 . 6
+[ 8 2 , 8 8 )
+A = \{ 2 , 3 , 5 , 7 \}
+a > 0
+h ( a )
+A - A _ { 1 } B _ { 1 } C _ { 1 }
+\ a n g l e A O B
+f ( x + 2 ) = 2 f ( x )
+( - \infty , - 1 ] \cup
+P N
+7 5 , 1 6
+f ( x ) = | 3 x + 1 | - 2 | x - 1 |
+y = f ( x )
+\left( 1 + \tan 2 0 ^ { \circ } \right) \left( 1 + \tan 2 1 ^ { \circ } \right) \left( 1 + \tan 2 4 ^ { \circ } \right) ( 1 +
+( x - 2 ) ^ { 2 } + y ^ { 2 } = 1 6
+\sqrt { 5 } + 2
+| \boldsymbol { a } + \boldsymbol { b } | = | \boldsymbol { a } | - | \boldsymbol { b } |
+a , b \in \mathbf { R }
+x \in [ - 1 , 1 )
+f ( x + 2 ) = 2 f ( x )
+f ( x )
+f ( x )
+B C C _ { 1 } B _ { 1 }
+\sqrt { 3 }
+\lambda a _ { n } \geqslant 4 n - 2
+n \in \mathbf { N } ^ { * }
+f ( x ) = - \mathrm { e } ^ { a x }
+m x + n y = 2
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+B ( - 4 , 0 )
+\frac { N } { 2 }
+P _ { i }
+\left\{ a _ { n } \right\}
+c _ { n } = a _ { n } b _ { n }
+A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+B B _ { 1 } C _ { 1 } C
+M N
+x = 3 t - 4 t ^ { 3 }
+y = 2 t \sqrt { 1 - t ^ { 2 } }
+t \in [ - 1 , 1 ]
+f \left( x _ { 0 } \right) \geqslant - 2
+x O y
+y = \sqrt { t }
+a x + y = 1
+\text { 已 知 正 四 棱 台 } A B C D - A _ { 1 } B _ { 1 } C _ { 1 } D _ { 1 }
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+P A _ { 1 } = P C _ { 1 } = 2 \sqrt { 2 }
+P , O
+a _ { n } = - 2 n + 2 7
+\left\{ a _ { 3 n - 2 } \right\}
+x = 2
+\frac { 1 } { 5 }
+- \frac { 7 } { 5 }
+- \frac { 2 } { 5 } - \frac { 4 } { 5 } \mathrm { i }
+a < b < c
+x _ { 2 } - x _ { 1 }
+\cot \beta = \frac { 1 } { 3 }
+\overrightarrow { C A }
+x > 0
+a \in \mathbf { R }
+\left( 0 , \frac { \pi } { 2 } \right)
+f ^ { \prime \prime } ( 0 ) = 2 - \pi < 0
+f ^ { \prime } ( x )
+\triangle A B C
+2 \sqrt { 3 }
+B C \perp B M
+C D \perp
+S _ { n } \leq s l a n t S _ { k }
+x ^ { 3 }
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+A A _ { 1 } = 2 A B
+C _ { 1 }
+T = 6
+1 . 2
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+y = \cos 2 x
+\frac { k _ { 1 } + k _ { 3 } } { k _ { 2 } }
+x - 1 2 y + 1 2 \ln 5 - 1 5 = 0
+2 x + 1 0 y + 1 0 \ln 5 - 1 = 0
+\left( - \frac { 1 } { 4 } , 0 \right)
+A F
+\frac { 1 } { 2 } \cdot F F ^ { \prime } \cdot \left( y _ { A } - y _ { P } \right) = 1 2 \sqrt { 6 } \text { . }
+1 2 \sqrt { 6 }
+f ( x ) = \overrightarrow { O P } \cdot \overrightarrow { Q P }
+\ a n g l e Q F A = \theta
+\frac { 3 } { 4 }
+\frac { 3 2 \sqrt { 3 } } { 2 7 } \pi
+f ( x ) = a ( a \in \mathbf { R } )
+\left( x _ { 1 } + x _ { 2 } \right) \cdot
+\frac { 2 } { 3 }
+A , B
+\overrightarrow { F _ { 1 } A } = \overrightarrow { A B }
+C ^ { \prime }
+( - \infty , 0 )
+( - \infty , - 3 ) \cup \left( 1 , \frac { 3 } { 2 } \right) \cup \left( \frac { 3 } { 2 } , + \infty \right)
+\triangle B D F
+\pm 2
+3 2 - \frac { 2 2 } { 3 } \pi
+\frac { 3 } { 4 }
+x , y
+\left( x + \frac { 2 } { x ^ { 2 } } \right) ^ { 5 }
+C : \frac { x ^ { 2 } } { a ^ { 2 } } - y ^ { 2 } = 1 ( a > 0 )
+A F \perp x
+\alpha , \beta
+\left( \frac { 1 } { 4 } , 0 \right)
+k =
+P , Q
+E ( X )
+0 . 0 0 5
+y = \cos ( - x )
+y = \left| \cot \frac { x } { 2 } \right|
+l : ( \lambda + 2 ) x - ( \lambda + 1 ) y - 4 \lambda - 6 = 0
+\left[ 0 , \frac { \pi } { 1 6 } \right]
+( x - 2 ) ^ { 1 0 }
+\frac { b } { a } =
+\frac { 2 1 } { 8 0 }
+f ^ { \prime } ( x ) > 0
+C _ { 1 }
+O N : \theta = \alpha - \frac { \pi } { 4 }
+\frac { 4 } { 5 }
+[ \sqrt { 2 } , + \infty )
+x _ { 2 } ^ { 2 } + y _ { 2 } ^ { 2 } = 1
+c > a > b
+f ^ { \prime } ( x ) > 0
+\ v a r n o t h i n g
+a \cos A = b \sin B
+\sin A \cos A + \cos ^ { 2 } B =
+( 2 , + \infty )
+4 5
+f \left( a ^ { 2 } + a + 2 \right) \leq s l a n t f \left( \frac { 7 } { 4 } \right)
+C , D
+P B
+( - \infty , - 4 ] \cup [ 2 , + \infty )
+a , b , c
+\triangle A B C
+a , b , c
+a \cos B = b ( 1 + \cos A ) , B = \frac { 2 \pi } { 9 }
+\varepsilon =
+x _ { 1 } = \frac { 2 + 4 } { 2 } = 3
+x = a
+y = 2 ^ { x }
+x ^ { 2 }
+a
+m x _ { 2 }
+x , y
+\hat { y } = 0 . 9 5 x + a
+[ - \sqrt { 2 } , 1 ]
+4 + 2 \sqrt { 3 }
+\boldsymbol { n } = ( \lambda , 2 )
+2 \sqrt { 5 }
+g ( x ) = \sqrt { x }
+y = k x + m
+( 1 + \mathrm { i } ) ( 2 - \mathrm { i } ) =
+y = f ( t )
+S _ { n }
+a _ { 2 } = - 8
+A C = 8
+a _ { n } = n + \frac { a } { n }
+x ^ { 2 } -
+\mathrm { a } \not i n \mathrm { A }
+\mathrm { b } \not i n \mathrm { B }
+\text { 将 } 6 \text { 个 元 素 进 行 全 排 列 , 有 } \mathrm { A } _ { 6 } ^ { 6 } \text { 种 情 况 , 则 共 有 } \mathrm { A } _ { 6 } ^ { 6 } \mathrm { ~ A } _ { 2 } ^ { 2 } = 1 4 4 0 \text { 种 不 同 站 法 }
+S _ { 1 } > S _ { 2 }
+m \perp \beta
+n \subset \beta
+\alpha / / \beta
+n / / \beta
+x ^ { - 2 }
+f ( x ) = \cos ( \omega x + \varphi )
+f ( x )
+\sqrt { 4 6 } + \sqrt { 2 }
+A B C - A _ { 1 } B _ { 1 } C _ { 1 }
+\ln ( x + 1 ) > 0
+p \wedge q
+x O y
+\left( a _ { 0 } + a _ { 1 } \right) + \left( a _ { 0 } + a _ { 2 } \right) + \left( a _ { 0 } + a _ { 3 } \right) + \cdots + \left( a _ { 0 } + a _ { 2 0 0 4 } \right) =
+f ( x ) = x ^ { 2 }
+\left. y = 3 ^ { x } \right\}
+- 9 6 0
+[ - 1 , 0 ) \cup ( 0 , + \infty )
+\sqrt { 3 }
+\left\{ a _ { n } \right\}
+S _ { 1 0 } =
+x \leq s l a n t y ?
+y < x ?
+[ 1 , 2 ]
+m ※ n = m + n
+m ※ n = m n
+B D
+A = \{ X \mid X \in \{ 1 , 2 , 3 , 4 \} \}
+C =
+P ( B C ) = \frac { 3 } { 8 }
+c < a < b
+\overrightarrow { P D } =
+y = \pm x
+\ a n g l e B A P = \ a n g l e C D P = 9 0 ^ { \circ }
+p _ { 1 } = p _ { 2 } < p _ { 3 }
+a _ { n + 1 } = a _ { n } + \frac { 2 } { a _ { n } } - 1 , n \in \mathbf { N } ^ { * }
+S _ { 4 } = 4 a _ { 1 } + 6 d \geqslant 1 0
+- 2 < x < - 1
+y = \pm 2 x
+4 \sqrt { 3 }
+c _ { n } = a _ { b _ { n } } \left( n \in \mathbf { N } ^ { * } \right)
+\{ x \mid - 4 \leq s l a n t x < - 2
+\alpha / / \beta
+| A M | = y , | A B | = x
+A D , B C
+P F \perp B F
+\left( - \frac { \pi } { 3 } , \frac { 5 \pi } { 3 } \right)
+\cos \left( \frac { 1 } { 2 } x - \frac { \pi } { 3 } \right) = \frac { a } { 2 }
+\alpha / / \beta
+f ( \ln x ) < x ^ { 2 }
+t ( x ) = \frac { f ( x ) } { x \sin x } - 2 , x \in ( 0 , \pi )
+t ( x )
+\left\{ a _ { n } \right\}
+a _ { 1 } = b _ { 1 } = 1
+A ( - 2 , 3 )
+a / / \alpha
+x + y = 0
+t = 2 x + 1
+h ( t ) = t + \frac { 9 } { t }
+x = 1
+k \in ( - 5 , - 2 )
+f ( x ) = x ^ { 2 } \cdot \mathrm { e } ^ { | x | }
+c > b > a
+\frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 )
+M ( \sqrt { 2 } , 1 )
+a _ { 1 } + a _ { 1 3 }
+S D
+g ( x )
+f ( x ) = \frac { \cos \left( x + \frac { 3 \pi } { 2 } \right) } { \mathrm { e } ^ { x } + \mathrm { e } ^ { - x } }
+T > 0
+a _ { n } \leq s l a n t T ( n = 1 , 2 , \cdots )
+b _ { n } = \frac { 1 } { a _ { n + 1 } a _ { n + 2 } }
+A B C D
+V _ { 2 }
+\frac { \sqrt { 3 } } { 2 }
+f ( x ) = | x - 2 a | - | x - 5 |
+1 0
+x = t - 2 0 1 8
+A - D E - C
+\triangle A D E
+\left| S _ { \triangle A P O } - S _ { \triangle B P O } \right|
+\alpha
+- 1
+f \left( x _ { 1 } \right) \leq s l a n t f \left( x _ { 2 } \right)
+\frac { 1 } { 2 5 6 }
+\frac { 1 } { 3 2 }
+A _ { 1 } P
+A _ { 2 } Q
+y _ { 1 } ^ { 2 } = 1
+z = ( 1 - \mathrm { i } ) ( a + \mathrm { i } )
+| x - 5 | + | x + 3 | < a
+\left\{ a _ { n } \right\}
+\triangle A B C
+A \cap \ c o m p l e m e n t _ { U } B =
+P _ { 0 }
+\frac { 3 } { 8 }
+B B _ { 1 } D _ { 1 } D
+\lambda =
+x ^ { 2 } = 1 2 y
+( - \infty , 0 )
+\triangle A B C
+a , b , c
+\frac { \pi } { 3 }
+x > \frac { 1 } { 2 }
+x = 1
+\theta
+B - A C - D
+\theta
+\frac { 2 k _ { 1 } } { k _ { 1 } ^ { 2 } - 1 } + \frac { 2 k _ { 2 } } { k _ { 2 } ^ { 2 } - 1 } = 0
+C _ { 2 }
+\left( \frac { 1 } { 4 } , \frac { 3 } { 4 } \right)
+\l g \left( x ^ { 2 } - x - 2 \right) \leq s l a n t 1
+O O _ { 1 }
+4 \} , C = \{ x \in \mathbf { R } \mid 1 \leq s l a n t x < 3 \} ,
+\{ 2 , 3 \}
+A B F _ { 1 } C
+f \left( \frac { 1 } { x } \right) = \frac { x } { 1 - x }
+f ( x ) = \frac { x } { 1 - x }
+x \neq 0
+( x + 2 ) \left( \frac { a } { x } - x \right) ^ { 5 }
+\left| F _ { 1 } F _ { 2 } \right| = 2 \sqrt { 5 }
+b _ { n } > 0
+b _ { 1 } = a _ { 1 }
+\left\{ a _ { n } \right\}
+m , n
+\overrightarrow { E B } = \boldsymbol { a } , \overrightarrow { A D } = \boldsymbol { b } , M , N
+\ a n g l e B A D = 6 0 ^ { \circ }
+B C D
+A = \{ - 1 , 0 , 1 ,
+=
+\left( 0 , \frac { 1 } { 2 } \right)
+B C E
+Q N
+P B
+A \sin ( \omega x + 4 \varphi ) \left( A > 0 , \omega > 0 , 0 < \varphi < \frac { \pi } { 8 } \right)
+g ( x ) = 2 \sin \left( 2 x - \frac { \pi } { 6 } \right)
+\left( 0 , \frac { 2 } { 9 } \right] \cup \left[ \frac { 8 } { 9 } , 1 \right]
+4 0 . 4 \pi
+x \in ( 0 , 1 )
+a _ { n } ^ { 2 } = a _ { n } - a _ { n + 1 }
+a > 0
+\cos \left( 2 \alpha + \frac { \pi } { 6 } \right) =
+E , F \text { 分 别 是 棱 } A D
+\text { 相 交 的 平 面 } \alpha \text { 去 截 该 四 面 体 }
+h ( 1 ) = \frac { 2 } { 3 } < h ( 3 ) = \frac { 4 } { 3 }
+p \vee q
+P , Q \text { 分 别 为 对 角 线 } A C , B D
+f ( x ) + f ( 2 x -
+\cos 2 \alpha
+( 0 , - \sqrt { 3 } )
+9 . 2 5
+9 . 5 2
+a < b < c
+\left\{ a _ { n } \right\}
+F _ { 2 } T
+( \sqrt { 2 } , \sqrt { 5 } )
+| O T | = a
+\ t h e r e f o r e \left| T F _ { 2 } \right| = b
+\left| P F _ { 1 } \right| ^ { 2 } = \left| P F _ { 2 } \right| ^ { 2 } + \left| F _ { 1 } F _ { 2 } \right| ^ { 2 } - 2 \left| P F _ { 2 } \right| \cdot \left| F _ { 1 } F _ { 2 } \right| \cdot \cos \ a n g l e P F _ { 2 } F _ { 1 }
+b < 2 a
+M , N
+| O P |
+\frac { 2 \pi } { 3 }
+f ( x ) = \cos \left( \omega x + \frac { \pi } { 6 } \right)
+2 m x - 4 y + m ^ { 2 } - n + 4 = 0 ( 0 < n < 4 )
+x \neq - 2
+1 0 0
+S _ { n }
+[ 0 , + \infty )
+x ^ { 2 } , x \in [ 0 , 1 ]
+k ( k \geqslant
+\tan B
+\left\{ a _ { n } \right\}
+a _ { 6 } = 1 2
+a < - 1
+a > - 1
+k = \pm \frac { \sqrt { 3 } } { 3 }
+y = \frac { \ln ( x + 1 ) } { \sqrt { - x ^ { 2 } - 3 x + 4 } }
+a c = \frac { 1 } { 4 } b ^ { 2 } .
+P ( 1 , 0 )
+E = \left\{ a _ { 1 } , a _ { 2 } , \cdots , a _ { 1 0 } \right\}
+\overrightarrow { A G } \cdot \overrightarrow { G B } = 8
+\left( 1 - \frac { 2 } { x } \right) ^ { 7 }
+\frac { 3 \sqrt { 3 } } { 2 }
+\overrightarrow { A E } = 2 \overrightarrow { E D }
+( 2 , 5 )
+\overrightarrow { C E } =
+\left( 0 , - \frac { 1 } { 3 } \right)
+P Q
+( - 3 , 2 )
+P Q
+y _ { 0 } < x _ { 0 } + 2
+\frac { 7 \pi } { 6 }
+2 \sqrt { 2 }
+- 3 0
+\ a n g l e A =
+a _ { 1 } = 1 , a _ { 5 } = 4 a _ { 3 }
+\left\{ b _ { n } \right\}
+\left[ 1 , \frac { 5 } { 4 } \right]
+A D B
+\left. 1 ) ^ { 2 } + y ^ { 2 } = 1 \right\}
+A B = B C
+A B C D
+f ( x ) = | x - 1 | + | 3 x + 2 |
+a \neq 0
+\frac { \sqrt { 5 } } { 3 }
+x \rightarrow + \infty
+h ( 1 ) = 0
+m > n > 1
+g ( t )
+\frac { 1 } { 2 7 }
+\omega = 2
+x \in ( - \infty , 1 )
+\ a n g l e A B C =
+1 2 0 ^ { \circ }
+A ^ { \prime } D E \perp \text { 平 面 } B C D
+\text { 1 9 . } 9 5 \mathrm { ~ m m }
+C D
+A = 2 B
+\frac { \sqrt { 5 } } { 4 }
+\triangle C B D
+\theta
+\boldsymbol { a } = ( 3 , 3 )
+\cos \theta =
+x \in \left[ 0 , \frac { \pi } { 3 } \right]
+g ( x ) = m
+\tan \left( \alpha - \frac { 7 } { 2 } \pi \right)
+c = \log _ { 3 } 2
+\frac { 1 } { 3 }
+O M
+y = 2 ^ { x }
+y = x ^ { 2 }
+q = 2
+, A B = B C = 3 ,
+x = 1 + 2 \cos \varphi
+\triangle O A B
+\cos 2 x =
+\triangle A B C
+A , B , C
+A + C = 2 B
+y = f ( x )
+A \cup B
+\frac { 9 \sqrt { 3 } } { 2 }
+A _ { 1 } C _ { 1 }
+b _ { n } = \frac { 1 } { a _ { n } ^ { 2 } - 1 } \left( n \in \mathbf { N } ^ { + } \right)
+T _ { n }
+f ( - 2 ) = 1
+[ 0 , 4 ]
+A , B , C
+\lambda + \mu = 4
+x ^ { 2 } + y ^ { 2 } = 4
+C , A ( 1 , 0 )
+P ( x , y )
+g ( b )
+\cos ( \alpha + \beta ) = \frac { 4 } { 5 }
+[ 1 7 , 2 1 )
+| m - n | >
+\frac { 1 } { e + 1 }
+B N
+\frac { a + m } { b + m } > \frac { a } { b } ( a , b
+M : ( x - 4 ) ^ { 2 } + y ^ { 2 }
+= r ^ { 2 } ( r > 0 )
+A C
+\frac { 4 - 3 \sqrt { 3 } } { 1 0 }
+( - 4 , 0 )
+b > 0
+\frac { 3 \sqrt { 5 } } { 5 }
+b _ { n } = ( - 1 ) ^ { n + 1 } a _ { n } a _ { n + 1 }
+| a | \geqslant 1
+( 3 , 0 )
+\xi
+x ^ { 2 } + ( y - 2 ) ^ { 2 } = 1
+( 1 - \mathrm { i } ) \cdot z = \mathrm { i }
+\left\{ a _ { n } \right\}
+C : x ^ { 2 } = 2 p y ( p > 0 )
+4
+\ a n g l e A , \ a n g l e B , \ a n g l e C
+\left\{ \frac { S _ { n } } { L _ { n } } \right\}
+B = \{ x \mid y = \ln ( x -
+- 2
+\frac { 1 9 2 } { 6 2 5 }
+P ( k = 2 ) = \mathrm { C } _ { 4 } ^ { 2 } \left( \frac { 4 } { 5 } \right) ^ { 2 } \left( \frac { 1 } { 5 } \right) ^ { 2 } = \frac { 9 6 } { 6 2 5 }
+\frac { A _ { 1 } D } { C _ { 1 } D }
+\frac { \sqrt { 2 1 } } { 3 }
+3 \overrightarrow { E C }
+S _ { n }
+\overrightarrow { A F } = \frac { 1 } { 3 } \overrightarrow { A B } + \frac { 1 } { 3 } \overrightarrow { A D }
+\triangle A B C
+[ 0 , 2 ]
+( - 3 \sqrt { 2 } , 3 \sqrt { 2 } )
+y = 1 . 0 1 5 ^ { x } - 1
+\overrightarrow { M B } =
+P ( \tan \alpha , \sin \alpha )
+A , B
+y = x
+\ a n g l e C = 6 0 ^ { \circ }
+a = 1
+\left[ \left( 1 + \sin ^ { 2 } \theta \right) ^ { 2 } - \cos ^ { 4 } \theta \right] \left[ \left( 1 + \cos ^ { 2 } \theta \right) ^ { 2 } - \sin ^ { 4 } \theta \right]
+y ^ { \prime } = \frac { 1 - \ln x } { x ^ { 2 } }
+l
+\triangle A B C
+[ 1 , 2 )
+( 1 , 2 )
+- \frac { 1 } { 3 }
+\mid x -
+\frac { 2 } { 3 }
+\left( 2 , - \frac { 1 } { 2 } \right)
+\frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+\frac { 1 } { 3 }
+C : y = x ^ { 2 } + 4 x + \frac { 7 } { 2 } \text { , }
+\left\{ \frac { 1 } { a _ { n } a _ { n + 1 } } \right\}
+a _ { 1 } = 1 , a _ { 3 } = 4
+a _ { 4 } = 1 2
+2 z + \bar { z } = 3 - 2 \mathrm { i }
+1 + 2 i
+A B
+f ( x ) = | x + 1 | + | 2 x + a |
+f ( x )
+f ( \pi ) \cdot f ( 2 \pi ) \geqslant 0
+f ( \pi ) = 0
+f ( 2 \pi ) < 0 .
+\frac { x y } { z }
+\left( \frac { \pi } { 4 } , \frac { \pi } { 2 } \right)
+\left\{ b _ { n } \right\}
+1 . 7 3
+A C
+\mathrm { C } _ { 1 2 } ^ { 9 } \times \left( \frac { 3 } { 8 } \right) ^ { 9 } \times \left( \frac { 5 } { 8 } \right) ^ { 2 } \times \frac { 3 } { 8 }
+P ( X = 5 0 ) = 0 . 1 \times 0 . 8 = 0 . 0 8
+8 1 5
+l _ { 1 } , l _ { 2 }
+S _ { n }
+x ^ { 2 } + a x + 5 = 0
+\frac { 2 } { 5 }
+( 0 , 4 )
+\triangle A B C
+b \in \mathbf { C }
+\tan A = 4
+[ 0 , 1 ]
+( m , n )
+m ^ { 2 } + n ^ { 2 }
+a _ { 1 } , a _ { 3 } , a _ { 9 }
+\left\{ b _ { n } \right\}
+\left\{ a _ { n } \right\}
+c > a > b
+b > a > c
+S _ { n + 1 }
+S _ { n } = - \frac { 1 } { n }
+C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1
+F _ { 1 } , F _ { 2 }
+= 4
+2 1 \pi
+a = 2
+\overrightarrow { M E } \cdot \overrightarrow { N E } = \left( x _ { 0 } , y _ { 0 } - m \right) \cdot \left( x _ { 0 } , y _ { 0 } - n \right) = x _ { 0 } ^ { 2 } + y _ { 0 } ^ { 2 } - ( m + n ) y _ { 0 } + m n = 0
+\tan 2 \theta =
+D
+\ a n g l e P B Q
+a + b = 4
+f ( x ) < \frac { 1 } { x } + \sin \pi x
+( - \infty , - 1 ) \cup ( 1 , + \infty )
+[ - 1 , 1 ]
+| f ( u ) - f ( v ) | \leq s l a n t | u - v |
+\triangle A B C
+\frac { 1 } { 3 }
+A B
+z _ { 2 } = 1 - \mathrm { i }
+P A = \sqrt { 3 }
+\left( \frac { 1 - \sqrt { 3 } } { 2 } , 0 \right)
+\left( \frac { 1 - \sqrt { 5 } } { 2 } , 0 \right) \cup \left( 0 , \frac { 1 + \sqrt { 3 } } { 2 } \right)
+S _ { 1 0 0 } =
+\overrightarrow { A B } + \overrightarrow { A D } + \overrightarrow { A A _ { 1 } }
+\left( a + \frac { 1 } { a } \right) \cdot \left( b + \frac { 1 } { b } \right) \geqslant \frac { 2 5 } { 4 }
+\sqrt { 7 }
+\sin ( x + \varphi ) = \frac { \sqrt { 3 } } { 2 }
+x \in \left[ 0 , \frac { 5 \pi } { 2 } \right]
+y = \sin x - \frac { \sqrt { 3 } } { 2 }
+\left\{ a _ { n } \right\}
+a _ { 1 }
+1 + i
+- 1 - i
+P A = P B = \sqrt { 2 }
+\frac { z + 4 \mathrm { i } } { 2 + \mathrm { i } } = \bar { z }
+V C = V D = l
+\log _ { 0 . 8 } 0 . 6 > \log _ { 0 . 6 } 0 . 8
+3 : 4 : 6
+5 \sqrt { 2 }
+\left( \sqrt { x } - \frac { 1 } { 2 } \sqrt [ 3 ] { x } \right) ^ { n }
+a _ { 1 } = 2 , a _ { n + 1 } = \frac { 2 ( n + 2 ) } { n + 1 } a _ { n }
+a = 1
+f ( x ) > a \ln a
+[ 3 , 6 ]
+4 5 ^ { \circ }
+d \approx \sqrt [ 3 ] { \frac { 1 6 } { 9 } V }
+d \approx \sqrt [ 3 ] { \frac { 3 0 0 } { 1 5 7 } V }
+C _ { 1 } : \frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 0 , b > 0 )
+( 0 , + \infty )
+5 : 4
+C B
+f ( x ) = a \ln x + b x ^ { 2 }
+a , b , c
+A B C D
+- \frac { \sqrt { 3 } } { 3 }
+\ a n g l e A = 9 0 ^ { \circ }
+x = a + b \ln b
+4 5 ^ { \circ }
+| \boldsymbol { a } + \boldsymbol { b } |
+[ - 4 , 6 ]
+\left\{ a _ { n } \right\}
+a , b , c
+\beta \perp \gamma
+a / / \alpha
+3 ^ { a } = 2 ^ { b }
+a < 0
+b < a < 0
+0 < x < 5
+" a = 2 "
+A B \perp B C
+A - G D - B
+f ( x ) > 0
+A _ { 4 }
+n \geqslant 6
+x < 0
+f ( 1 - x ) \leq s l a n t f ( x + m )
+- 1 2
+- \frac { 5 } { 2 } i
+x O y
+M : ( x - a ) ^ { 2 } + ( y - 2 a ) ^ { 2 } = 4
+y = \sin \left( 2 x - \frac { \pi } { 5 } \right)
+- \frac { 3 } { 4 } a ^ { 2 }
+( m , 0 ) ( 0 < m < 2 )
+\frac { k _ { 1 } + k _ { 3 } } { 2 }
+A P , \quad C P , \quad B P
+F _ { 2 } ( c , 0 )
+- 1 5
+( - 1 + \sqrt { a - 1 } , + \infty )
+x _ { 0 }
+y = \ln x
+l _ { 1 }
+\dot { f } ( x ) = \mid A \sin ( \omega x + \varphi + B ) \left( A > 0 , \omega > 0 , | \varphi | < \frac { \pi } { 2 } \right)
+8 \sqrt { 6 } \pi
+\text { 则 目 标 函 数 } z =
+\left[ \frac { 1 } { 4 } , + \infty \right)
+n a _ { n } - n a _ { n + 1 } = a _ { n + 1 }
+\ t h e r e f o r e n a _ { n } = ( n + 1 ) a _ { n + 1 }
+\frac { a _ { n + 1 } } { a _ { n } } = \frac { n } { n + 1 }
+\overrightarrow { A P } = \overrightarrow { A D } + x \overrightarrow { A B } + y \overrightarrow { A A _ { 1 } }
+\sin \theta
+b \sin A = a \sin \left( \frac { \pi } { 3 } + B \right)
+a ^ { 2 } + b ^ { 2 }
+2 ^ { - x } - \frac { 3 } { 2 } , x \geqslant 0
+( 0 , \sqrt { 2 } ] \cup [ 2 \sqrt { 3 } , + \infty )
+x _ { 1 } , x _ { 2 } \in [ 4 , 8 ]
+S _ { n }
+\boldsymbol { e } _ { 1 } - 2 \boldsymbol { e } _ { 2 } , \boldsymbol { b } = k \boldsymbol { e } _ { 1 } + \boldsymbol { e } _ { 2 }
+\sqrt { 2 }
+B S
+P _ { n } \left( x _ { n } , y _ { n } \right) \left( x _ { n } > 0 , y _ { n } > 0 \right)
+f ( x ) =
+S _ { n } S _ { n + 1 } < 0
+q > 1
+P - A B C
+[ 1 , \sqrt { 2 } ]
+( - \infty , - 5 ]
+( - \infty , - 9 ]
+\xi
+O _ { 1 }
+a > 0 , b > 0 , c > 0 , d < 0
+| P A | + | P O |
+\ c o m p l e m e n t _ { \mathbf { R } } B = \{ x \mid x \geqslant 1 \}
+A B C D
+E , F
+\triangle B E F
+a < 0
+- 4 0 x ^ { 2 }
+4 0 x ^ { 2 }
+S , A , B , C
+A C
+\triangle A B C
+\sqrt { 2 2 }
+x , y
+A , B , C
+2 \pm \frac { \sqrt { 2 } } { 2 }
+\frac { 3 } { 2 }
+\sin \alpha = \sin \beta
+a = 1
+| \overrightarrow { B C } | = 1
+\frac { x ^ { 2 } } { a ^ { 2 } } - \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > 0 , b > 0 )
+F _ { 1 } , F _ { 2 }
+\left| P F _ { 2 } \right| = 4 a b
+x = 3
+x = 6
+\varphi = - \frac { \pi } { 6 }
+x _ { 2 } - x _ { 1 }
+[ 1 , 2 ]
+2 0 1 0
+1 - \frac { \pi } { 1 2 }
