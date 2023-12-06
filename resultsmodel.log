@@ -1,0 +1,2306 @@
+2023-12-06 14:13:25,847:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:13:25,848:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:13:25,848:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 600,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 0.0001,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 0.0001,
+    "end_warm": 2
+}
+2023-12-06 14:13:25,849:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:14:43,705:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:14:43,706:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:14:43,706:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 600,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 0.0001,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 0.0001,
+    "end_warm": 2
+}
+2023-12-06 14:14:43,706:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:14:43,707:INFO: Building model...
+2023-12-06 14:15:44,192:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:15:44,193:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:15:44,193:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 600,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 0.0001,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 0.0001,
+    "end_warm": 2
+}
+2023-12-06 14:15:44,193:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:15:44,193:INFO: Building model...
+2023-12-06 14:15:44,296:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:16:57,380:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:16:57,380:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:16:57,381:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 600,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 0.0001,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 0.0001,
+    "end_warm": 2
+}
+2023-12-06 14:16:57,381:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:16:57,381:INFO: Building model...
+2023-12-06 14:16:57,486:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:18:11,581:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:18:11,585:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:18:11,585:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 600,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 0.0001,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 0.0001,
+    "end_warm": 2
+}
+2023-12-06 14:18:11,585:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:18:11,585:INFO: Building model...
+2023-12-06 14:18:11,820:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:18:12,072:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\decoder.py:57: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2023-12-06 14:18:12,169:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\keras\layers\rnn\legacy_cells.py:1042: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2023-12-06 14:18:12,197:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2023-12-06 14:18:12,253:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\components\attention_mechanism.py:122: py_func (from tensorflow.python.ops.script_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, there are two
+    options available in V2.
+    - tf.py_function takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    - tf.numpy_function maintains the semantics of the deprecated tf.py_func
+    (it is not differentiable, and manipulates numpy arrays). It drops the
+    stateful argument making all functions stateful.
+    
+2023-12-06 14:19:29,105:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:19:29,106:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:19:29,106:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 600,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 0.0001,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 0.0001,
+    "end_warm": 2
+}
+2023-12-06 14:19:29,107:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:19:29,107:INFO: Building model...
+2023-12-06 14:19:29,206:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:19:29,414:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\decoder.py:57: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2023-12-06 14:19:29,451:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\keras\layers\rnn\legacy_cells.py:1042: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2023-12-06 14:19:29,462:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2023-12-06 14:19:29,485:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\components\attention_mechanism.py:122: py_func (from tensorflow.python.ops.script_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, there are two
+    options available in V2.
+    - tf.py_function takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    - tf.numpy_function maintains the semantics of the deprecated tf.py_func
+    (it is not differentiable, and manipulates numpy arrays). It drops the
+    stateful argument making all functions stateful.
+    
+2023-12-06 14:19:30,984:INFO: - done.
+2023-12-06 14:19:30,986:INFO: Epoch 1/600
+2023-12-06 14:21:27,701:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:21:27,702:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:21:27,702:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 10,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 0.0001,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 0.0001,
+    "end_warm": 2
+}
+2023-12-06 14:21:27,702:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:21:27,702:INFO: Building model...
+2023-12-06 14:21:27,803:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:21:28,048:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\decoder.py:57: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2023-12-06 14:21:28,086:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\keras\layers\rnn\legacy_cells.py:1042: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2023-12-06 14:21:28,097:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2023-12-06 14:21:28,121:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\components\attention_mechanism.py:122: py_func (from tensorflow.python.ops.script_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, there are two
+    options available in V2.
+    - tf.py_function takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    - tf.numpy_function maintains the semantics of the deprecated tf.py_func
+    (it is not differentiable, and manipulates numpy arrays). It drops the
+    stateful argument making all functions stateful.
+    
+2023-12-06 14:21:29,493:INFO: - done.
+2023-12-06 14:21:29,496:INFO: Epoch 1/10
+2023-12-06 14:28:45,812:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:28:45,813:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:28:45,813:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 10,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 1e-05,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 0.0001,
+    "end_warm": 2
+}
+2023-12-06 14:28:45,814:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:28:45,814:INFO: Building model...
+2023-12-06 14:28:45,917:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:28:46,150:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\decoder.py:57: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2023-12-06 14:28:46,187:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\keras\layers\rnn\legacy_cells.py:1042: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2023-12-06 14:28:46,199:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2023-12-06 14:28:46,222:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\components\attention_mechanism.py:122: py_func (from tensorflow.python.ops.script_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, there are two
+    options available in V2.
+    - tf.py_function takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    - tf.numpy_function maintains the semantics of the deprecated tf.py_func
+    (it is not differentiable, and manipulates numpy arrays). It drops the
+    stateful argument making all functions stateful.
+    
+2023-12-06 14:28:47,550:INFO: - done.
+2023-12-06 14:28:47,553:INFO: Epoch 1/10
+2023-12-06 14:31:30,883:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:31:30,883:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:31:30,884:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 10,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.0001,
+    "lr_min": 1e-05,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 0.0001,
+    "end_warm": 2
+}
+2023-12-06 14:31:30,884:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:31:30,884:INFO: Building model...
+2023-12-06 14:31:30,987:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:31:31,219:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\decoder.py:57: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2023-12-06 14:31:31,256:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\keras\layers\rnn\legacy_cells.py:1042: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2023-12-06 14:31:31,267:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2023-12-06 14:31:31,292:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\components\attention_mechanism.py:122: py_func (from tensorflow.python.ops.script_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, there are two
+    options available in V2.
+    - tf.py_function takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    - tf.numpy_function maintains the semantics of the deprecated tf.py_func
+    (it is not differentiable, and manipulates numpy arrays). It drops the
+    stateful argument making all functions stateful.
+    
+2023-12-06 14:31:32,627:INFO: - done.
+2023-12-06 14:31:32,629:INFO: Epoch 1/10
+2023-12-06 14:37:35,018:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:37:35,019:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:37:35,019:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 10,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.0001,
+    "lr_min": 1e-05,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 1e-05,
+    "end_warm": 2
+}
+2023-12-06 14:37:35,020:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:37:35,020:INFO: Building model...
+2023-12-06 14:37:35,131:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:37:35,367:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\decoder.py:57: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2023-12-06 14:37:35,403:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\keras\layers\rnn\legacy_cells.py:1042: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2023-12-06 14:37:35,415:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2023-12-06 14:37:35,438:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\components\attention_mechanism.py:122: py_func (from tensorflow.python.ops.script_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, there are two
+    options available in V2.
+    - tf.py_function takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    - tf.numpy_function maintains the semantics of the deprecated tf.py_func
+    (it is not differentiable, and manipulates numpy arrays). It drops the
+    stateful argument making all functions stateful.
+    
+2023-12-06 14:37:36,791:INFO: - done.
+2023-12-06 14:37:36,793:INFO: Epoch 1/10
+2023-12-06 14:52:19,904:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:52:19,905:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:52:19,905:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 10,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 0.0001,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 5e-06,
+    "end_warm": 2
+}
+2023-12-06 14:52:19,906:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:52:19,906:INFO: Building model...
+2023-12-06 14:52:20,009:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:52:20,247:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\decoder.py:57: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2023-12-06 14:52:20,284:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\keras\layers\rnn\legacy_cells.py:1042: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2023-12-06 14:52:20,295:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2023-12-06 14:52:20,319:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\components\attention_mechanism.py:122: py_func (from tensorflow.python.ops.script_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, there are two
+    options available in V2.
+    - tf.py_function takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    - tf.numpy_function maintains the semantics of the deprecated tf.py_func
+    (it is not differentiable, and manipulates numpy arrays). It drops the
+    stateful argument making all functions stateful.
+    
+2023-12-06 14:52:21,694:INFO: - done.
+2023-12-06 14:52:21,697:INFO: Epoch 1/10
+2023-12-06 14:54:29,420:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:54:29,421:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:54:29,421:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 10,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 0.0001,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 1e-06,
+    "end_warm": 2
+}
+2023-12-06 14:54:29,422:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:54:29,422:INFO: Building model...
+2023-12-06 14:54:29,524:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:54:29,763:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\decoder.py:57: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2023-12-06 14:54:29,801:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\keras\layers\rnn\legacy_cells.py:1042: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2023-12-06 14:54:29,812:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2023-12-06 14:54:29,836:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\components\attention_mechanism.py:122: py_func (from tensorflow.python.ops.script_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, there are two
+    options available in V2.
+    - tf.py_function takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    - tf.numpy_function maintains the semantics of the deprecated tf.py_func
+    (it is not differentiable, and manipulates numpy arrays). It drops the
+    stateful argument making all functions stateful.
+    
+2023-12-06 14:54:31,209:INFO: - done.
+2023-12-06 14:54:31,212:INFO: Epoch 1/10
+2023-12-06 14:57:50,319:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 14:57:50,320:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 14:57:50,320:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 10,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 1e-06,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 1e-06,
+    "end_warm": 2
+}
+2023-12-06 14:57:50,321:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 14:57:50,321:INFO: Building model...
+2023-12-06 14:57:50,422:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: to_float (from tensorflow.python.ops.math_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use `tf.cast` instead.
+2023-12-06 14:57:50,633:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\decoder.py:57: dynamic_rnn (from tensorflow.python.ops.rnn) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `keras.layers.RNN(cell)`, which is equivalent to this API
+2023-12-06 14:57:50,670:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\keras\layers\rnn\legacy_cells.py:1042: calling Zeros.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2023-12-06 14:57:50,681:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\venv\Lib\site-packages\tensorflow\python\util\dispatch.py:1176: calling dropout (from tensorflow.python.ops.nn_ops) with keep_prob is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use `rate` instead of `keep_prob`. Rate should be set to `rate = 1 - keep_prob`.
+2023-12-06 14:57:50,705:WARNING: From D:\Downloads\LaTeX_OCR_PRO-master\LaTeX_OCR_PRO-master\model\components\attention_mechanism.py:122: py_func (from tensorflow.python.ops.script_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+tf.py_func is deprecated in TF V2. Instead, there are two
+    options available in V2.
+    - tf.py_function takes a python function which manipulates tf eager
+    tensors instead of numpy arrays. It's easy to convert a tf eager tensor to
+    an ndarray (just call tensor.numpy()) but having access to eager tensors
+    means `tf.py_function`s can use accelerators such as GPUs as well as
+    being differentiable using a gradient tape.
+    - tf.numpy_function maintains the semantics of the deprecated tf.py_func
+    (it is not differentiable, and manipulates numpy arrays). It drops the
+    stateful argument making all functions stateful.
+    
+2023-12-06 14:57:52,040:INFO: - done.
+2023-12-06 14:57:52,042:INFO: Epoch 1/10
+2023-12-06 15:16:07,134:INFO: - Training:  - 1083s - loss: nan - perplexity: nan - lr: 0.000001
+2023-12-06 15:16:07,134:INFO: - Config: (before evaluate, we need to see config)
+2023-12-06 15:16:07,135:INFO: {
+    "export_name": "data.json",
+    "dir_images_train": "data/images/train/",
+    "dir_images_test": "data/images/test/",
+    "dir_images_val": "data/images/val/",
+    "path_matching_train": "data/matching/train.matching.txt",
+    "path_matching_val": "data/matching/val.matching.txt",
+    "path_matching_test": "data/matching/test.matching.txt",
+    "path_formulas_train": "data/formulas/train.formulas.norm.txt",
+    "path_formulas_test": "data/formulas/test.formulas.norm.txt",
+    "path_formulas_val": "data/formulas/val.formulas.norm.txt",
+    "bucket_train": true,
+    "bucket_val": true,
+    "bucket_test": true,
+    "max_iter": 5000,
+    "max_length_formula": 150,
+    "buckets": [
+        [
+            240,
+            100
+        ],
+        [
+            320,
+            80
+        ],
+        [
+            400,
+            80
+        ],
+        [
+            400,
+            100
+        ],
+        [
+            480,
+            80
+        ],
+        [
+            480,
+            100
+        ],
+        [
+            560,
+            80
+        ],
+        [
+            560,
+            100
+        ],
+        [
+            640,
+            80
+        ],
+        [
+            640,
+            100
+        ],
+        [
+            720,
+            80
+        ],
+        [
+            720,
+            100
+        ],
+        [
+            720,
+            120
+        ],
+        [
+            720,
+            200
+        ],
+        [
+            800,
+            100
+        ],
+        [
+            800,
+            320
+        ],
+        [
+            1000,
+            200
+        ],
+        [
+            1000,
+            400
+        ],
+        [
+            1200,
+            200
+        ],
+        [
+            1600,
+            200
+        ],
+        [
+            1600,
+            1600
+        ]
+    ]
+}
+2023-12-06 15:16:07,135:INFO: {
+    "export_name": "vocab.json",
+    "unk": "_UNK",
+    "pad": "_PAD",
+    "end": "_END",
+    "path_vocab": "data/vocab.txt",
+    "min_count_tok": 10
+}
+2023-12-06 15:16:07,135:INFO: {
+    "export_name": "training.json",
+    "device": "cuda:3",
+    "criterion_method": "CrossEntropyLoss",
+    "n_epochs": 10,
+    "batch_size": 1,
+    "dropout": 0.8,
+    "clip": -1,
+    "lr_method": "Adam",
+    "lr_scheduler": "CosineAnnealingLR",
+    "lr_init": 0.001,
+    "lr_min": 1e-06,
+    "start_decay": 6,
+    "end_decay": 13,
+    "lr_warm": 1e-06,
+    "end_warm": 2
+}
+2023-12-06 15:16:07,136:INFO: {
+    "export_name": "model.json",
+    "model_name": "Img2Seq",
+    "encoder_cnn": "vanilla",
+    "positional_embeddings": true,
+    "attn_cell_config": {
+        "cell_type": "lstm",
+        "num_units": 512,
+        "dim_e": 256,
+        "dim_o": 512,
+        "dim_embeddings": 80
+    },
+    "decoding": "beam_search",
+    "beam_size": 2,
+    "div_gamma": 1,
+    "div_prob": 0,
+    "max_length_formula": 160
+}
+2023-12-06 15:16:07,136:INFO: - Evaluating...
