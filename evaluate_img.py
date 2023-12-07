@@ -11,8 +11,8 @@ from model.evaluation.text import score_files
 from model.evaluation.image import score_dirs
 
 
-@click.command()
-@click.option('--results', default="results/small/", help='Dir to results')
+# @click.command()
+# @click.option('--results', default="results/small/", help='Dir to results')
 def main(results):
     # restore config and model
     dir_output = results
@@ -51,4 +51,4 @@ def main(results):
 
 
 if __name__ == "__main__":
-    main()
+    main('results/')
