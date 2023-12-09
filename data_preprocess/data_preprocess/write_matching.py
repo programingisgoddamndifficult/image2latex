@@ -5,11 +5,10 @@ import os
 
 sub_name = ['train', 'val', 'test']
 # formulas = '../../images/' + data_path + '/formulas/'
-formulas = r'C:\Users\Aurora\Desktop\LaTeX_OCR_PRO-master\data\formulas'
-match_path = r'C:\Users\Aurora\Desktop\LaTeX_OCR_PRO-master\data\matching'
+formulas = r'D:\dataset2\output\formulas'
+match_path = r'D:\dataset2\output\matching'
 # if not os.path.isdir(r'C:\Users\Aurora\Desktop\LaTeX_OCR_PRO-master\data\matching'):
 #     os.mkdir(r'D:\dataset1\output' + r'\matching')
-
 
 
 for sn in sub_name:

@@ -1,8 +1,8 @@
 import os
 import shutil
 
-input_label_dir = r'D:\dataset1\output\labels1\val'
-output_label_dir = r'D:\dataset1\output\labels2\val'
+input_label_dir = r'D:\dataset2\output\labels1\val'
+output_label_dir = r'D:\dataset2\output\labels2\val'
 if not os.path.exists(output_label_dir):
     os.mkdir(output_label_dir)
 label_name_list = os.listdir(input_label_dir)
@@ -15,6 +15,8 @@ for v in vocab:
     if len(v) > max_token_len:
         # print(len(v))
         max_token_len = len(v)
+
+
 # print(max_token_len)
 
 def FMM_func(user_dict, sentence):
@@ -28,11 +30,11 @@ def FMM_func(user_dict, sentence):
     start = 0
     token_list = []
     while start != len(sentence):
-        index = start+max_len
-        if index>len(sentence):
+        index = start + max_len
+        if index > len(sentence):
             index = len(sentence)
         for i in range(max_len):
-            if (sentence[start:index] in user_dict) or (len(sentence[start:index])==1):
+            if (sentence[start:index] in user_dict) or (len(sentence[start:index]) == 1):
                 token_list.append(sentence[start:index])
                 # print(sentence[start:index], end='/')
                 start = index
@@ -40,7 +42,8 @@ def FMM_func(user_dict, sentence):
             index += -1
     return token_list
 
-chinese_token_list=[]
+
+chinese_token_list = []
 
 index = 1
 for label_name in label_name_list:
@@ -54,13 +57,13 @@ for label_name in label_name_list:
     # print(content)
 
     token_list = FMM_func(vocab, content)
-    token_list = [token_list[i] for i in range(len(token_list)) if token_list[i] != ' '] # 去除空格
+    token_list = [token_list[i] for i in range(len(token_list)) if token_list[i] != ' ']  # 去除空格
     # print(token_list)
 
     new_content = ' '.join(token_list)
 
     # print(new_content)
-    
+
     have_chinese = False
 
     for token in token_list:
@@ -78,9 +81,6 @@ for label_name in label_name_list:
         # with open('./data/math_210421/formula_labels_210421_chinese/' + label_name, 'w', encoding='utf-8') as f:
         with open(output_label_dir + '\\' + label_name, 'w', encoding='utf-8') as f:
             f.write(new_content)
-
-    # if have_chinese is True:
-    #     print()
 
 with open('./cn_vocab.txt', 'w', encoding='utf-8') as f:
     chinese_token_list = list(set(chinese_token_list))

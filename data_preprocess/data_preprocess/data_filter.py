@@ -6,13 +6,13 @@ import shutil
 
 # 循环处理train、test、val三个目录
 name_list = [r'\train', r'\test', r'\val']
-input_label_dir = r'D:\dataset1'
-output_label_dir = r'D:\dataset1\output\labels'
-label_name_list = os.listdir(input_label_dir)
-if not os.path.exists(output_label_dir):
-    os.mkdir(output_label_dir)
+input_label_dir = "D:\\dataset2\\output\\labels"
+output_label_dir = "D:\\dataset2\\output\\labels1"
+# if not os.path.exists(output_label_dir):
+#     os.mkdir(output_label_dir)
 
 for name in name_list:
+    label_name_list = os.listdir(input_label_dir + name)
     for label_name in label_name_list:
         # 标签文件源路径
         label_src_path = input_label_dir + name + '\\' + label_name
@@ -34,4 +34,4 @@ for name in name_list:
                 continue
 
         # 若无错误，则将源标签文件复制至目标标签文件中
-        shutil.copy(label_src_path, output_label_dir + '\\' + label_dst_path)
+        shutil.copy(label_src_path, label_dst_path)
