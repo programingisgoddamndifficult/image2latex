@@ -3,7 +3,7 @@ import os
 import numpy as np
 import time
 import threading
-from scipy.misc import imread
+from imageio import imread
 from PIL import Image
 
 from model.img2seq import Img2SeqModel
@@ -17,7 +17,7 @@ from model.utils.visualize_attention import vis_attention_gif
 
 def getModelForPrediction():
     # restore config and model
-    dir_output = "./results/full/"
+    dir_output = "LaTeX_OCR_PRO-master/results/"
     config_vocab = Config(dir_output + "vocab.json")
     config_model = Config(dir_output + "model.json")
     vocab = Vocab(config_vocab)
@@ -32,6 +32,8 @@ def predict_png(model, png_path):
     img = imread(png_path)
     img = greyscale(img)
     hyps = model.predict(img)
+
+    print("predict checked!!!")
 
     model.logger.info(hyps[0])
 
@@ -78,7 +80,8 @@ class ModelManager(object):
         self.model.logger.info(hyps[0])
         print("finish prediction in {}".format(end-start))
 
-        return hyps[0]
+        # return hyps[0]
+        return hyps;
 
     def vis_png(self, png_path):
         dir_output = "./results/full/"
