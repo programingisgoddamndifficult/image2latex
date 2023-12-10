@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # 'LaTeX_OCR_PRO-master.apps.LaTeX_OCR_PRO-masterConfig'
 ]
 
 MIDDLEWARE = [

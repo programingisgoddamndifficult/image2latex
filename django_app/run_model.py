@@ -1,13 +1,14 @@
 from django.http import HttpResponse
-from django.shortcuts import render_to_response
+from django.shortcuts import render
 import base64
 import requests
 from model.manager import ModelManager
 
 
 def predict_by_image_filename(image_filename="2.png"):
-    IMAGE_PATH = "data/images_train/"+image_filename
+    IMAGE_PATH = "LaTeX_OCR_PRO-master/data/images/train/"+image_filename
     try:
+        print("entering predition")
         return ModelManager.instance().predict_png(IMAGE_PATH)
     except:
         return 'something wrong happend'
@@ -15,7 +16,7 @@ def predict_by_image_filename(image_filename="2.png"):
 
 def search_form(request):
     # start page
-    return render_to_response('search_form.html')
+    return render(request,'search_form.html')
 
 
 def search(request):
@@ -30,13 +31,13 @@ def search(request):
         image_url = "http://localhost:8020/" + image_url.split("/")[-1].split("\\")[-1]
         gif_path = image_url
         # gif_path = "http://localhost:8030/" + gif_path.split("/")[-1].split("\\")[-1]
-        return render_to_response('search_result.html', {
+        return render(request,'search_result.html', {
             'image_url': image_url,
             'gif_path': gif_path,
             'predict_string': predict_string
         })
     else:
-        return render_to_response('search_result.html', {
+        return render(request,'search_result.html', {
             'image_url': 'incorrect',
             'gif_path': 'Please input right image URL',
             'predict_string': 'Please input right image URL'
